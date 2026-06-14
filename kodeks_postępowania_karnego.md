@@ -1,7 +1,6 @@
 # KODEKS POSTĘPOWANIA KARNEGO
 
 > **Tekst jednolity:** Dz. U. z 2026 r. poz. 490  
-> **Nowelizacje:** Dz. U. z 2026 r. poz. 421, 638  
 > *Ustawa z dnia 6 czerwca 1997 r.*
 
 ---
@@ -13,11 +12,9 @@
 | **Rodzaj aktu** | Ustawa |
 | **Tytuł** | Kodeks postępowania karnego |
 | **Data uchwalenia** | 6 czerwca 1997 r. |
-| **Tekst pierwotny** | Dz. U. 1997 Nr 89 poz. 555 |
 | **Ostatni tekst jednolity** | Dz. U. z 2026 r. poz. 490 |
-| **Aktualne nowelizacje** | Dz. U. z 2026 r. poz. 421, 638 |
-| **Skrót** | k.p.k. |
-| **Przedmiot** | Regulacja postępowania w sprawach karnych |
+| **Skrót** | <UZUPEŁNIJ> |
+| **Przedmiot** | <UZUPEŁNIJ> |
 
 ---
 
@@ -49,10 +46,10 @@ Postępowanie karne w sprawach należących do właściwości sądów toczy się
 
 **Art. 2.**  
 § 1. Przepisy niniejszego kodeksu mają na celu takie ukształtowanie postępowania karnego, aby:  
-1) sprawca przestępstwa został wykryty i pociągnięty do odpowiedzialności karnej, a osoba niewinna nie poniosła tej odpowiedzialności;  
-2) przez trafne zastosowanie środków przewidzianych w prawie karnym oraz ujawnienie okoliczności sprzyjających popełnieniu przestępstwa osiągnięte zostały zadania postępowania karnego nie tylko w zwalczaniu przestępstw, lecz również w zapobieganiu im oraz w umacnianiu poszanowania prawa i zasad współżycia społecznego;  
-3) zostały uwzględnione prawnie chronione interesy pokrzywdzonego przy jednoczesnym poszanowaniu jego godności;  
-4) rozstrzygnięcie sprawy nastąpiło w rozsądnym terminie.  
+1\) sprawca przestępstwa został wykryty i pociągnięty do odpowiedzialności karnej, a osoba niewinna nie poniosła tej odpowiedzialności;  
+2\) przez trafne zastosowanie środków przewidzianych w prawie karnym oraz ujawnienie okoliczności sprzyjających popełnieniu przestępstwa osiągnięte zostały zadania postępowania karnego nie tylko w zwalczaniu przestępstw, lecz również w zapobieganiu im oraz w umacnianiu poszanowania prawa i zasad współżycia społecznego;  
+3\) zostały uwzględnione prawnie chronione interesy pokrzywdzonego przy jednoczesnym poszanowaniu jego godności;  
+4\) rozstrzygnięcie sprawy nastąpiło w rozsądnym terminie.  
 § 2. Podstawę wszelkich rozstrzygnięć powinny stanowić prawdziwe ustalenia faktyczne.
 
 **Art. 3.**  
@@ -114,17 +111,17 @@ Uzyskanie zezwolenia władzy, od którego ustawa uzależnia ściganie, należy d
 
 **Art. 17.**  
 § 1. Nie wszczyna się postępowania, a wszczęte umarza, gdy:  
-1) czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;  
-2) czyn nie zawiera znamion czynu zabronionego albo ustawa stanowi, że sprawca nie popełnia przestępstwa;  
-3) społeczna szkodliwość czynu jest znikoma;  
-4) ustawa stanowi, że sprawca nie podlega karze;  
-5) oskarżony zmarł;  
-6) nastąpiło przedawnienie karalności;  
-7) postępowanie karne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się;  
-8) sprawca nie podlega orzecznictwu polskich sądów karnych;  
-9) brak skargi uprawnionego oskarżyciela;  
-10) brak wymaganego zezwolenia na ściganie lub wniosku o ściganie pochodzącego od osoby uprawnionej, chyba że ustawa stanowi inaczej;  
-11) zachodzi inna okoliczność wyłączająca ściganie.  
+1\) czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia;  
+2\) czyn nie zawiera znamion czynu zabronionego albo ustawa stanowi, że sprawca nie popełnia przestępstwa;  
+3\) społeczna szkodliwość czynu jest znikoma;  
+4\) ustawa stanowi, że sprawca nie podlega karze;  
+5\) oskarżony zmarł;  
+6\) nastąpiło przedawnienie karalności;  
+7\) postępowanie karne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone albo wcześniej wszczęte toczy się;  
+8\) sprawca nie podlega orzecznictwu polskich sądów karnych;  
+9\) brak skargi uprawnionego oskarżyciela;  
+10\) brak wymaganego zezwolenia na ściganie lub wniosku o ściganie pochodzącego od osoby uprawnionej, chyba że ustawa stanowi inaczej;  
+11\) zachodzi inna okoliczność wyłączająca ściganie.  
 § 2. Do chwili otrzymania wniosku lub zezwolenia władzy, od których ustawa uzależnia ściganie, organy procesowe dokonują tylko czynności niecierpiących zwłoki w celu zabezpieczenia śladów i dowodów, a także czynności zmierzających do wyjaśnienia, czy wniosek będzie złożony lub zezwolenie będzie wydane.  
 § 3. Niemożność przypisania winy sprawcy czynu nie wyłącza postępowania dotyczącego zastosowania środków zabezpieczających.  
 § 4. Istnienie okoliczności określonych w § 1 pkt 4–6 nie wyłącza postępowania w przedmiocie przepadku, o którym mowa w art. 45a § 2 Kodeksu karnego i art. 43a Kodeksu karnego skarbowego.
@@ -148,10 +145,10 @@ Uzyskanie zezwolenia władzy, od którego ustawa uzależnia ściganie, należy d
 
 **Art. 21.**  
 § 1. O wszczęciu i ukończeniu postępowania toczącego się z urzędu przeciw:  
-1) funkcjonariuszom publicznym, osobom zatrudnionym w instytucjach państwowych, samorządowych i społecznych, uczniom i słuchaczom szkół, żołnierzom, a także duchownym i członkom zakonów oraz diakonatów – należy bezzwłocznie zawiadomić przełożonych tych osób;  
-2) osobom będącym członkami samorządu zawodowego – należy bezzwłocznie zawiadomić właściwy organ tego samorządu;  
-3) komornikom sądowym, asesorom komorniczym i aplikantom komorniczym – należy bezzwłocznie zawiadomić Ministra Sprawiedliwości, prezesa sądu apelacyjnego oraz prezesa sądu rejonowego właściwych ze względu na siedzibę kancelarii komorniczej;  
-4) rodzicowi albo opiekunowi prawnemu lub faktycznemu o przestępstwo popełnione na szkodę małoletniego – należy bezzwłocznie zawiadomić sąd rodzinny właściwy dla miejsca zamieszkania małoletniego.  
+1\) funkcjonariuszom publicznym, osobom zatrudnionym w instytucjach państwowych, samorządowych i społecznych, uczniom i słuchaczom szkół, żołnierzom, a także duchownym i członkom zakonów oraz diakonatów – należy bezzwłocznie zawiadomić przełożonych tych osób;  
+2\) osobom będącym członkami samorządu zawodowego – należy bezzwłocznie zawiadomić właściwy organ tego samorządu;  
+3\) komornikom sądowym, asesorom komorniczym i aplikantom komorniczym – należy bezzwłocznie zawiadomić Ministra Sprawiedliwości, prezesa sądu apelacyjnego oraz prezesa sądu rejonowego właściwych ze względu na siedzibę kancelarii komorniczej;  
+4\) rodzicowi albo opiekunowi prawnemu lub faktycznemu o przestępstwo popełnione na szkodę małoletniego – należy bezzwłocznie zawiadomić sąd rodzinny właściwy dla miejsca zamieszkania małoletniego.  
 § 2. O wszczęciu postępowania przeciw osobom, o których mowa w § 1, zawiadamia prokurator.
 
 **Art. 22.**  
@@ -186,9 +183,9 @@ W sprawie o przestępstwo popełnione na szkodę małoletniego, we współdział
 
 **Art. 25.**  
 § 1. Sąd okręgowy orzeka w pierwszej instancji w sprawach o następujące przestępstwa:  
-1) o zbrodnie określone w Kodeksie karnym oraz w ustawach szczególnych;  
-2) o występki określone w rozdziałach XVI i XVII oraz w art. 140‒142, art. 148 § 4 i 5, art. 148a, art. 149, art. 150 § 1, art. 151‒154, art. 158 § 3, art. 163 § 3 i 4, art. 165 § 1, 3 i 4, art. 166 § 1, art. 173 § 3 i 4, art. 185 § 2, art. 189a § 2, art. 210 § 2, art. 211a, art. 228 § 6, art. 229 § 5, art. 252 § 3, art. 258 § 1‒3, art. 265 § 1 i 2, art. 269, art. 278 § 1, 2 i 3a w związku z art. 294 § 1 lub 2, art. 284 § 1 i 2 w związku z art. 294 § 1 lub 2, art. 286 § 1 w związku z art. 294 § 1 lub 2, art. 287 § 1 w związku z art. 294 § 1 lub 2, art. 296 § 3 oraz art. 299 Kodeksu karnego;  
-3) o występki, które z mocy przepisu szczególnego należą do właściwości sądu okręgowego.  
+1\) o zbrodnie określone w Kodeksie karnym oraz w ustawach szczególnych;  
+2\) o występki określone w rozdziałach XVI i XVII oraz w art. 140‒142, art. 148 § 4 i 5, art. 148a, art. 149, art. 150 § 1, art. 151‒154, art. 158 § 3, art. 163 § 3 i 4, art. 165 § 1, 3 i 4, art. 166 § 1, art. 173 § 3 i 4, art. 185 § 2, art. 189a § 2, art. 210 § 2, art. 211a, art. 228 § 6, art. 229 § 5, art. 252 § 3, art. 258 § 1‒3, art. 265 § 1 i 2, art. 269, art. 278 § 1, 2 i 3a w związku z art. 294 § 1 lub 2, art. 284 § 1 i 2 w związku z art. 294 § 1 lub 2, art. 286 § 1 w związku z art. 294 § 1 lub 2, art. 287 § 1 w związku z art. 294 § 1 lub 2, art. 296 § 3 oraz art. 299 Kodeksu karnego;  
+3\) o występki, które z mocy przepisu szczególnego należą do właściwości sądu okręgowego.  
 § 2. Sąd apelacyjny, na wniosek sądu rejonowego, może przekazać do rozpoznania sądowi okręgowemu, jako sądowi pierwszej instancji, sprawę o każde przestępstwo, ze względu na szczególną wagę lub zawiłość sprawy.  
 § 3. Sąd okręgowy rozpoznaje ponadto środki odwoławcze od orzeczeń i zarządzeń wydanych w pierwszej instancji w sądzie rejonowym oraz inne sprawy przekazane mu przez ustawę.
 
@@ -219,9 +216,9 @@ Sąd Najwyższy rozpoznaje kasacje oraz środki odwoławcze i inne sprawy w wypa
 
 **Art. 32.**  
 § 1. Jeżeli nie można ustalić miejsca popełnienia przestępstwa, właściwy jest sąd, w którego okręgu:  
-1) ujawniono przestępstwo,  
-2) ujęto oskarżonego,  
-3) oskarżony przed popełnieniem przestępstwa stale mieszkał lub czasowo przebywał – zależnie od tego, gdzie najpierw wszczęto postępowanie przygotowawcze.  
+1\) ujawniono przestępstwo,  
+2\) ujęto oskarżonego,  
+3\) oskarżony przed popełnieniem przestępstwa stale mieszkał lub czasowo przebywał – zależnie od tego, gdzie najpierw wszczęto postępowanie przygotowawcze.  
 § 2. Przepis § 1 stosuje się odpowiednio, jeżeli przestępstwo popełniono za granicą.  
 § 3. Jeżeli nie można ustalić właściwości miejscowej sądu według przepisów poprzedzających, sprawę rozpoznaje sąd właściwy dla dzielnicy Śródmieście miasta stołecznego Warszawy.
 
@@ -260,16 +257,16 @@ Jeżeli sąd wojskowy przekaże sprawę sądowi powszechnemu lub nie przyjmie sp
 
 **Art. 40.**  
 § 1. Sędzia jest z mocy prawa wyłączony od udziału w sprawie, jeżeli:  
-1) sprawa dotyczy tego sędziego bezpośrednio;  
-2) jest małżonkiem strony lub pokrzywdzonego albo ich obrońcy, pełnomocnika lub przedstawiciela ustawowego albo pozostaje we wspólnym pożyciu z jedną z tych osób;  
-3) jest krewnym lub powinowatym w linii prostej, a w linii bocznej aż do stopnia pomiędzy dziećmi rodzeństwa osób wymienionych w pkt 2 albo jest związany z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;  
-4) był świadkiem czynu, o który sprawa się toczy, albo w tej samej sprawie był przesłuchany w charakterze świadka lub występował jako biegły;  
-5) brał udział w sprawie jako prokurator, obrońca, pełnomocnik, przedstawiciel ustawowy strony, albo prowadził postępowanie przygotowawcze;  
-6) brał udział w wydaniu zaskarżonego orzeczenia lub wydał zaskarżone zarządzenie;  
-7) brał udział w wydaniu orzeczenia, które zostało uchylone;  
-8) (uchylony)  
-9) brał udział w wydaniu orzeczenia, co do którego wniesiono sprzeciw;  
-10) prowadził mediację.  
+1\) sprawa dotyczy tego sędziego bezpośrednio;  
+2\) jest małżonkiem strony lub pokrzywdzonego albo ich obrońcy, pełnomocnika lub przedstawiciela ustawowego albo pozostaje we wspólnym pożyciu z jedną z tych osób;  
+3\) jest krewnym lub powinowatym w linii prostej, a w linii bocznej aż do stopnia pomiędzy dziećmi rodzeństwa osób wymienionych w pkt 2 albo jest związany z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;  
+4\) był świadkiem czynu, o który sprawa się toczy, albo w tej samej sprawie był przesłuchany w charakterze świadka lub występował jako biegły;  
+5\) brał udział w sprawie jako prokurator, obrońca, pełnomocnik, przedstawiciel ustawowy strony, albo prowadził postępowanie przygotowawcze;  
+6\) brał udział w wydaniu zaskarżonego orzeczenia lub wydał zaskarżone zarządzenie;  
+7\) brał udział w wydaniu orzeczenia, które zostało uchylone;  
+8\) (uchylony)  
+9\) brał udział w wydaniu orzeczenia, co do którego wniesiono sprzeciw;  
+10\) prowadził mediację.  
 § 2. Powody wyłączenia trwają mimo ustania uzasadniającego je małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.  
 § 3. Sędzia, który brał udział w wydaniu orzeczenia objętego wnioskiem o wznowienie, zaskarżonego w trybie kasacji lub objętego skargą nadzwyczajną, nie może orzekać co do tego wniosku, kasacji lub skargi.
 
@@ -320,8 +317,8 @@ Przepisy niniejszego rozdziału stosuje się odpowiednio do referendarzy sądowy
 **Art. 49.**  
 § 1. Pokrzywdzonym jest osoba fizyczna lub prawna, której dobro prawne zostało bezpośrednio naruszone lub zagrożone przez przestępstwo.  
 § 2. Pokrzywdzonym może być także niemająca osobowości prawnej:  
-1) instytucja państwowa lub samorządowa;  
-2) inna jednostka organizacyjna, której odrębne przepisy przyznają zdolność prawną.  
+1\) instytucja państwowa lub samorządowa;  
+2\) inna jednostka organizacyjna, której odrębne przepisy przyznają zdolność prawną.  
 § 3. Za pokrzywdzonego uważa się zakład ubezpieczeń w zakresie, w jakim pokrył szkodę wyrządzoną pokrzywdzonemu przez przestępstwo lub jest zobowiązany do jej pokrycia.  
 § 3a. W sprawach o przestępstwa przeciwko prawom osób wykonujących pracę zarobkową, o których mowa w art. 218–221 oraz w art. 225 § 2 Kodeksu karnego, organy Państwowej Inspekcji Pracy mogą wykonywać prawa pokrzywdzonego, jeżeli w zakresie swego działania ujawniły przestępstwo lub wystąpiły o wszczęcie postępowania.  
 § 4. W sprawach o przestępstwa, którymi wyrządzono szkodę w mieniu instytucji lub jednostki organizacyjnej, o której mowa w § 2, jeżeli nie działa organ pokrzywdzonej instytucji lub jednostki organizacyjnej, prawa pokrzywdzonego mogą wykonywać organy kontroli państwowej, które w zakresie swojego działania ujawniły przestępstwo lub wystąpiły o wszczęcie postępowania.
@@ -434,9 +431,9 @@ Oskarżycielowi prywatnemu, który nie włada w wystarczającym stopniu językie
 **Art. 74.**  
 § 1. Oskarżony nie ma obowiązku dowodzenia swej niewinności ani obowiązku dostarczania dowodów na swoją niekorzyść.  
 § 2. Oskarżony jest jednak obowiązany poddać się:  
-1) oględzinom zewnętrznym ciała oraz innym badaniom niepołączonym z naruszeniem integralności ciała; wolno także w szczególności od oskarżonego pobrać odciski, fotografować go oraz okazać w celach rozpoznawczych innym osobom;  
-2) badaniom psychologicznym i psychiatrycznym oraz badaniom połączonym z dokonaniem zabiegów na jego ciele, z wyjątkiem chirurgicznych, pod warunkiem że dokonywane są przez uprawnionego do tego pracownika służby zdrowia z zachowaniem wskazań wiedzy lekarskiej i nie zagrażają zdrowiu oskarżonego, jeżeli przeprowadzenie tych badań jest nieodzowne; w szczególności oskarżony jest obowiązany przy zachowaniu tych warunków poddać się pobraniu krwi, włosów lub wydzielin organizmu, z zastrzeżeniem pkt 3;  
-3) pobraniu przez funkcjonariusza Policji wymazu ze śluzówki policzków, jeżeli jest to nieodzowne i nie zachodzi obawa, że zagrażałoby to zdrowiu oskarżonego lub innych osób.  
+1\) oględzinom zewnętrznym ciała oraz innym badaniom niepołączonym z naruszeniem integralności ciała; wolno także w szczególności od oskarżonego pobrać odciski, fotografować go oraz okazać w celach rozpoznawczych innym osobom;  
+2\) badaniom psychologicznym i psychiatrycznym oraz badaniom połączonym z dokonaniem zabiegów na jego ciele, z wyjątkiem chirurgicznych, pod warunkiem że dokonywane są przez uprawnionego do tego pracownika służby zdrowia z zachowaniem wskazań wiedzy lekarskiej i nie zagrażają zdrowiu oskarżonego, jeżeli przeprowadzenie tych badań jest nieodzowne; w szczególności oskarżony jest obowiązany przy zachowaniu tych warunków poddać się pobraniu krwi, włosów lub wydzielin organizmu, z zastrzeżeniem pkt 3;  
+3\) pobraniu przez funkcjonariusza Policji wymazu ze śluzówki policzków, jeżeli jest to nieodzowne i nie zachodzi obawa, że zagrażałoby to zdrowiu oskarżonego lub innych osób.  
 § 3. W stosunku do osoby podejrzanej można dokonać badań lub czynności, o których mowa w § 2 pkt 1, a także, przy zachowaniu wymagań określonych w § 2 pkt 2 lub 3, pobrać krew, włosy, wymaz ze śluzówki policzków lub inne wydzieliny organizmu.  
 § 3a. Oskarżonego lub osobę podejrzaną wzywa się do poddania się obowiązkom wynikającym z § 2 i 3. W razie odmowy poddania się tym obowiązkom oskarżonego lub osobę podejrzaną można zatrzymać i przymusowo doprowadzić, a także stosować wobec nich siłę fizyczną lub środki techniczne służące obezwładnieniu, w zakresie niezbędnym do wykonania danej czynności.  
 § 4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i sposób poddawania oskarżonego oraz osoby podejrzanej badaniom, a także wykonywania z ich udziałem czynności, o których mowa w § 2 pkt 1 i 3 oraz § 3, mając na uwadze, aby gromadzenie, utrwalanie i analiza materiału dowodowego były dokonywane zgodnie z aktualną wiedzą w zakresie kryminalistyki i medycyny sądowej.
@@ -463,17 +460,17 @@ Oskarżony może mieć jednocześnie niewięcej niż trzech obrońców.
 
 **Art. 78a.**  
 § 1. Żołnierz, funkcjonariusz Policji lub funkcjonariusz Straży Granicznej oskarżony o przestępstwo popełnione w następstwie stosowania środków przymusu bezpośredniego, użycia broni lub innego uzbrojenia albo użycia lub wykorzystania środków przymusu bezpośredniego lub broni palnej w związku z wykonywaniem czynności lub zadań służbowych odpowiednio:  
-1) na podstawie art. 11b albo art. 11c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50 i 187), art. 18 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187) albo w czasie trwania operacji wojskowej, o której mowa w art. 2 pkt 18a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26),  
-2) w przypadku konieczności odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność swoją lub innej osoby albo nienaruszalność granicy państwowej lub przeciwdziałania czynnościom zmierzającym bezpośrednio do tych zamachów albo prowadzenia działań kontrterrorystycznych, o których mowa w art. 2 pkt 2 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194) – który nie ma obrońcy z wyboru, może żądać, aby mu wyznaczono obrońcę z urzędu.  
+1\) na podstawie art. 11b albo art. 11c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2025 r. poz. 914 i 1366 oraz z 2026 r. poz. 50 i 187), art. 18 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187) albo w czasie trwania operacji wojskowej, o której mowa w art. 2 pkt 18a ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2025 r. poz. 825, 1014 i 1080 oraz z 2026 r. poz. 26),  
+2\) w przypadku konieczności odparcia bezpośredniego, bezprawnego zamachu na życie, zdrowie lub wolność swoją lub innej osoby albo nienaruszalność granicy państwowej lub przeciwdziałania czynnościom zmierzającym bezpośrednio do tych zamachów albo prowadzenia działań kontrterrorystycznych, o których mowa w art. 2 pkt 2 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2025 r. poz. 194) – który nie ma obrońcy z wyboru, może żądać, aby mu wyznaczono obrońcę z urzędu.  
 § 2. Przepis § 1 stosuje się odpowiednio, jeżeli oskarżony żąda wyznaczenia obrońcy z urzędu w celu dokonania określonej czynności procesowej.  
 § 3. Sąd może cofnąć wyznaczenie obrońcy, jeżeli okaże się, że nie istnieją okoliczności, na podstawie których go wyznaczono. Na postanowienie o cofnięciu wyznaczenia obrońcy przysługuje zażalenie do innego równorzędnego składu tego sądu.
 
 **Art. 79.**  
 § 1. W postępowaniu karnym oskarżony musi mieć obrońcę, jeżeli:  
-1) nie ukończył 18 lat;  
-2) jest głuchy, niemy lub niewidomy;  
-3) zachodzi uzasadniona wątpliwość, czy jego zdolność rozpoznania znaczenia czynu lub kierowania swoim postępowaniem nie była w czasie popełnienia tego czynu wyłączona lub w znacznym stopniu ograniczona;  
-4) zachodzi uzasadniona wątpliwość, czy stan jego zdrowia psychicznego pozwala na udział w postępowaniu lub prowadzenie obrony w sposób samodzielny oraz rozsądny.  
+1\) nie ukończył 18 lat;  
+2\) jest głuchy, niemy lub niewidomy;  
+3\) zachodzi uzasadniona wątpliwość, czy jego zdolność rozpoznania znaczenia czynu lub kierowania swoim postępowaniem nie była w czasie popełnienia tego czynu wyłączona lub w znacznym stopniu ograniczona;  
+4\) zachodzi uzasadniona wątpliwość, czy stan jego zdrowia psychicznego pozwala na udział w postępowaniu lub prowadzenie obrony w sposób samodzielny oraz rozsądny.  
 § 2. Oskarżony musi mieć obrońcę również wtedy, gdy sąd uzna to za niezbędne ze względu na inne okoliczności utrudniające obronę.  
 § 3. W wypadkach, o których mowa w § 1 i 2, udział obrońcy jest obowiązkowy w rozprawie oraz w tych posiedzeniach, w których obowiązkowy jest udział oskarżonego.  
 § 4. Uznając za uzasadnioną opinię biegłych lekarzy psychiatrów, że czyn oskarżonego nie został popełniony w warunkach wyłączenia lub znacznego ograniczenia zdolności rozpoznania znaczenia czynu lub kierowania swoim postę- powaniem i że stan zdrowia psychicznego oskarżonego pozwala na udział w postępowaniu i prowadzenie obrony w sposób samodzielny i rozsądny, sąd orzeka, że udział obrońcy nie jest obowiązkowy. Prezes sądu albo sąd zwalnia wówczas obrońcę z jego obowiązków, chyba że zachodzą inne okoliczności przemawiające za tym, aby oskarżony miał obrońcę wyznaczonego z urzędu.
@@ -493,11 +490,11 @@ Oskarżony musi mieć obrońcę w postępowaniu przed sądem okręgowym, jeżeli
 § 1. Obrońca z urzędu wyznaczany jest z listy obrońców.  
 § 2. Wniosek o wyznaczenie obrońcy z urzędu prezes sądu, sąd lub referendarz sądowy rozpoznaje niezwłocznie.  
 § 3. Jeżeli okoliczności wskazują na konieczność natychmiastowego podjęcia obrony:  
-1) wniosek o wyznaczenie obrońcy oraz inne dokumenty niezbędne do rozpoznania wniosku mogą być przekazane przez organ prowadzący postępowanie przygotowawcze do właściwego sądu za pośrednictwem telefaksu lub poczty elektronicznej;  
-2) prezes sądu, sąd lub referendarz sądowy, w sposób wskazany w art. 137, powiadamia oskarżonego oraz obrońcę o wyznaczeniu obrońcy z urzędu.  
+1\) wniosek o wyznaczenie obrońcy oraz inne dokumenty niezbędne do rozpoznania wniosku mogą być przekazane przez organ prowadzący postępowanie przygotowawcze do właściwego sądu za pośrednictwem telefaksu lub poczty elektronicznej;  
+2\) prezes sądu, sąd lub referendarz sądowy, w sposób wskazany w art. 137, powiadamia oskarżonego oraz obrońcę o wyznaczeniu obrońcy z urzędu.  
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia:  
-1) sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu, w tym sposób ustalania listy obrońców udzielających pomocy prawnej z urzędu oraz sposób wyznaczania obrońcy udzielającego pomocy prawnej z urzędu,  
-2) tryb przekazywania do sądu wniosku o wyznaczenie obrońcy z urzędu oraz szczegółowy tryb rozpoznawania takiego wniosku – mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz prawidłowej realizacji prawa do obrony.
+1\) sposób zapewnienia oskarżonemu korzystania z pomocy obrońcy z urzędu, w tym sposób ustalania listy obrońców udzielających pomocy prawnej z urzędu oraz sposób wyznaczania obrońcy udzielającego pomocy prawnej z urzędu,  
+2\) tryb przekazywania do sądu wniosku o wyznaczenie obrońcy z urzędu oraz szczegółowy tryb rozpoznawania takiego wniosku – mając na uwadze konieczność zapewnienia prawidłowego toku postępowania oraz prawidłowej realizacji prawa do obrony.
 
 ## Rozdział 9: OBROŃCY I PEŁNOMOCNICY
 
@@ -583,11 +580,11 @@ Podstawę orzeczenia może stanowić tylko całokształt okoliczności ujawniony
 
 **Art. 94.**  
 § 1. Postanowienie powinno zawierać:  
-1) oznaczenie organu oraz osoby lub osób, wydających postanowienie;  
-2) datę wydania postanowienia;  
-3) wskazanie sprawy oraz kwestii, której postanowienie dotyczy;  
-4) rozstrzygnięcie z podaniem podstawy prawnej;  
-5) uzasadnienie, chyba że ustawa zwalnia od tego wymagania.  
+1\) oznaczenie organu oraz osoby lub osób, wydających postanowienie;  
+2\) datę wydania postanowienia;  
+3\) wskazanie sprawy oraz kwestii, której postanowienie dotyczy;  
+4\) rozstrzygnięcie z podaniem podstawy prawnej;  
+5\) uzasadnienie, chyba że ustawa zwalnia od tego wymagania.  
 § 2. Przepis § 1 stosuje się odpowiednio do zarządzeń.
 
 **Art. 95.**  
@@ -643,10 +640,16 @@ Jeżeli zachodzi potrzeba sprawdzenia okoliczności faktycznych przed wydaniem o
 § 7. Jeżeli sprawę rozpoznano z wyłączeniem jawności ze względu na ważny interes państwa, zamiast uzasadnienia doręcza się zawiadomienie, że uzasadnienie zostało sporządzone.  
 § 8. Po ogłoszeniu lub przy doręczeniu orzeczenia i zarządzenia należy pouczyć uczestników postępowania o przysługującym im prawie, terminie i sposobie wniesienia środka zaskarżenia lub o tym, że orzeczenie lub zarządzenie nie podlega zaskarżeniu.  
 § 9. W razie skazania z zastosowaniem art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego po ogłoszeniu lub przy doręczeniu wyroku należy pouczyć oskarżonego o treści art. 434 § 4 oraz art. 443.  
-§ 10. Podmiot lub stronę, która bierze udział w posiedzeniu przy użyciu urządzeń technicznych umożliwiających udział w posiedzeniu na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, na którym wydano postanowienie albo zarządzenie, uznaje się za „obecną przy ogłoszeniu” postanowienia albo zarządzenia w rozumieniu § 4 lub 6. <Art. 100a. Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.> <Art. 100b. § 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.  
+§ 10. Podmiot lub stronę, która bierze udział w posiedzeniu przy użyciu urządzeń technicznych umożliwiających udział w posiedzeniu na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, na którym wydano postanowienie albo zarządzenie, uznaje się za „obecną przy ogłoszeniu” postanowienia albo zarządzenia w rozumieniu § 4 lub 6.
+
+**Art. 100a.**  
+<Niezwłocznie po wydaniu orzeczenia albo podlegającego zaskarżeniu zarządzenia kopię tego orzeczenia albo zarządzenia zamieszcza się w systemie teleinformatycznym i opatruje się unikalnym oznaczeniem identyfikującym.>
+
+**Art. 100b.**  
+<§ 1. System teleinformatyczny, o którym mowa w art. 100a, prowadzi Minister Sprawiedliwości. Realizację zadań związanych z prowadzeniem systemu teleinformatycznego Minister Sprawiedliwości może powierzyć, w całości lub w części, jednostce organizacyjnej jemu podległej lub przez niego nadzorowanej lub Prokuratorowi Krajowemu.  
 § 2. W systemie teleinformatycznym, o którym mowa w art. 100a, gromadzi się kopie:  
-1) orzeczeń i podlegających zaskarżeniu zarządzeń;  
-2) aktów oskarżenia, wniosków o wydanie wyroku skazującego, wniosków o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosków o warunkowe umorzenie postępowania, wniosków o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.  
+1\) orzeczeń i podlegających zaskarżeniu zarządzeń;  
+2\) aktów oskarżenia, wniosków o wydanie wyroku skazującego, wniosków o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosków o warunkowe umorzenie postępowania, wniosków o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.  
 § 3. System teleinformatyczny, o którym mowa w art. 100a, służy weryfikacji treści i autentyczności kopii dokumentów, o których mowa w § 2.  
 § 4. Administratorem systemu teleinformatycznego, o którym mowa w art. 100a, jest Minister Sprawiedliwości.  
 § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, strukturę systemu teleinformatycznego, o którym mowa w art. 100a, jego minimalną funkcjonalność, warunki organizacyjno-techniczne gromadzenia i pobierania zgromadzonych w nim danych oraz sposób opatrywania kopii, o których mowa w § 2, unikalnym oznaczeniem identyfikującym, a ponadto może określić podmiot, któremu powierza realizację zadań związanych z prowadzeniem tego systemu, oraz zakres zadań powierzonych do realizacji, uwzględniając konieczność zapewnienia powszechnej dostępności zgromadzonych danych, zapewnienia sprawności wprowadzania danych do systemu, zapewnienia kompletności i prawidłowości danych przetwarzanych w systemie oraz potrzebę zabezpieczenia danych przed nieuprawnionym dostępem do nich.> Art. 101–104. (uchylone)
@@ -701,7 +704,13 @@ Orzeczenie podpisują wszyscy członkowie składu orzekającego, nie wyłączaj�
 § 2. W sprawach rozpoznawanych w składzie sędziego i dwóch ławników uzasadnienie podpisuje tylko przewodniczący, chyba że zgłoszono zdanie odrębne. W sprawach rozpoznawanych w składzie dwóch sędziów i trzech ławników uzasadnienie podpisują obaj sędziowie, chyba że zgłoszono zdanie odrębne.  
 § 3. Jeżeli nie można uzyskać podpisu przewodniczącego lub innego członka składu orzekającego, jeden z podpisujących czyni o tym wzmiankę na uzasadnieniu z zaznaczeniem przyczyny tego faktu.
 
-## Rozdział 13: PORZĄDEK CZYNNOŚCI PROCESOWYCH [ART. 116. JEŻELI USTAWA NIE STANOWI INACZEJ, STRONY I INNI UPRAWNIENI DO WZIĘCIA UDZIAŁU W CZYNNOŚCI PROCESOWEJ MOGĄ SKŁADAĆ WNIOSKI I INNE OŚWIADCZENIA NA PIŚMIE ALBO USTNIE DO PROTOKOŁU.] <ART. 116. § 1. JEŻELI USTAWA NIE STANOWI INACZEJ, STRONY I INNI UPRAWNIENI DO WZIĘCIA UDZIAŁU W CZYNNOŚCI PROCESOWEJ MOGĄ SKŁADAĆ OŚWIADCZENIA, W TYM WNIOSKI, NA PIŚMIE ALBO USTNIE DO PROTOKOŁU. ZA OŚWIADCZENIE ZŁOŻONE NA PIŚMIE UWAŻA SIĘ RÓWNIEŻ OŚWIADCZENIE ZŁOŻONE ELEKTRONICZNIE. § 2. OŚWIADCZENIE SKŁADANE ELEKTRONICZNIE OPATRUJE SIĘ KWALIFIKOWANYM PODPISEM ELEKTRONICZNYM, PODPISEM ZAUFANYM ALBO PODPISEM OSOBISTYM I WYSYŁA NA ADRES DO DORĘCZEŃ ELEKTRONICZNYCH, O KTÓRYM MOWA W ART. 2 PKT 1 USTAWY Z DNIA 18 LISTOPADA 2020 R. O DORĘCZENIACH ELEKTRONICZNYCH (DZ. U. Z 2026 R. POZ. 3), ZWANY DALEJ „ADRESEM DO DORĘCZEŃ ELEKTRONICZNYCH”, WPISANY DO BAZY ADRESÓW ELEKTRONICZNYCH, O KTÓREJ MOWA W ART. 25 TEJ USTAWY. § 3. OŚWIADCZENIE ZŁOŻONE ELEKTRONICZNIE WŁĄCZA SIĘ DO AKT SPRAWY.>
+## Rozdział 13: PORZĄDEK CZYNNOŚCI PROCESOWYCH
+
+**Art. 116.**  
+[Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać wnioski i inne oświadczenia na piśmie albo ustnie do protokołu.]  
+<§ 1. Jeżeli ustawa nie stanowi inaczej, strony i inni uprawnieni do wzięcia udziału w czynności procesowej mogą składać oświadczenia, w tym wnioski, na piśmie albo ustnie do protokołu. Za oświadczenie złożone na piśmie uważa się również oświadczenie złożone elektronicznie.  
+§ 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.  
+§ 3. Oświadczenie złożone elektronicznie włącza się do akt sprawy.>
 
 **Art. 116a.**  
 § 1. Jeżeli przepis ustawy tak stanowi, pisma można wnosić przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ), zwanym dalej „portalem informacyjnym”, w sposób, który umożliwia wnoszącemu pismo uzyskanie dokumentu elektronicznego potwierdzającego wniesienie pisma do sądu.  
@@ -727,12 +736,14 @@ Orzeczenie podpisują wszyscy członkowie składu orzekającego, nie wyłączaj�
 
 **Art. 119.**  
 § 1. Pismo procesowe powinno zawierać:  
-1) oznaczenie organu, do którego jest skierowane, oraz sprawy, której dotyczy; [2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;] <2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie:  
+1\) oznaczenie organu, do którego jest skierowane, oraz sprawy, której dotyczy;  
+[2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie – numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;]  
+<2) oznaczenie oraz adres wnoszącego pismo, a także – w pierwszym piśmie złożonym w sprawie:  
 a) oświadczenie wnoszącego pismo będącego podmiotem niepublicznym, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych, wraz ze wskazaniem tego adresu albo braku takiej zgody, chyba że takie oświadczenie już zostało przez niego w tym postępowaniu złożone,  
 b) numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o ich nieposiadaniu;>  
 2a) numer wpisu na właściwą listę adwokatów lub radców prawnych – w przypadku obrońcy lub pełnomocnika będącego adwokatem lub radcą prawnym;  
-3) treść wniosku lub oświadczenia, w miarę potrzeby z uzasadnieniem;  
-4) datę i podpis składającego pismo.  
+3\) treść wniosku lub oświadczenia, w miarę potrzeby z uzasadnieniem;  
+4\) datę i podpis składającego pismo.  
 § 2. Za osobę, która nie może się podpisać, pismo podpisuje osoba przez nią upoważniona, ze wskazaniem przyczyny złożenia swego podpisu.  
 § 3. Pismo procesowe wniesione za pośrednictwem portalu informacyjnego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury.  
 § 4. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, tryb i sposób wnoszenia pism procesowych w postaci elektronicznej za pośrednictwem portalu informacyjnego, mając na względzie skuteczność ich wnoszenia, konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma.
@@ -741,10 +752,12 @@ b) numer telefonu, telefaksu i adres poczty elektronicznej lub oświadczenie o i
 Dokumenty dołączane do pisma procesowego wnoszonego za pośrednictwem portalu informacyjnego obrońca lub pełnomocnik będący adwokatem, radcą prawnym lub radcą Prokuratorii Generalnej Rzeczypospolitej Polskiej opatrują kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Strona, która powołuje się w piśmie na dokument, jest obowiązana na żądanie sądu lub strony przeciwnej złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
 
 **Art. 120.**  
-[§ 1. Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.] <§ 1. Jeżeli:  
-1) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 1, pkt 2 lit. b, pkt 3 i 4 lub § 2 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu,  
-2) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 2 lit. a,  
-3) brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej – wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.> <§ 1a. Wzywając do usunięcia braku, o którym mowa w § 1 pkt 2, osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>  
+[§ 1. Jeżeli pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu, albo brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej, wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.]  
+<§ 1. Jeżeli:  
+1\) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 1, pkt 2 lit. b, pkt 3 i 4 lub § 2 lub w przepisach szczególnych, a brak jest tego rodzaju, że pismo nie może otrzymać biegu,  
+2\) pismo nie odpowiada wymaganiom formalnym, przewidzianym w art. 119 § 1 pkt 2 lit. a,  
+3\) brak polega na niezłożeniu należytych opłat lub upoważnienia do podjęcia czynności procesowej – wzywa się osobę, która wniosła pismo, do usunięcia braku w terminie 7 dni.>  
+<§ 1a. Wzywając do usunięcia braku, o którym mowa w § 1 pkt 2, osobę, która wniosła pismo, należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>  
 § 2. W razie uzupełnienia braku w terminie, pismo wywołuje skutki od dnia jego wniesienia. W razie nieuzupełnienia braku w terminie, pismo uznaje się za bezskuteczne, o czym należy pouczyć przy doręczeniu wezwania.  
 § 3. W postępowaniu przed sądem zarządzenia w sprawach, o których mowa w § 1 i 2, może wydać także referendarz sądowy.
 
@@ -760,10 +773,14 @@ Jeżeli osoba uczestnicząca w czynności procesowej odmawia podpisu lub nie mo�
 **Art. 123.**  
 § 1. Do biegu terminu nie wlicza się dnia, od którego liczy się dany termin.  
 § 2. Jeżeli termin jest oznaczony w tygodniach, miesiącach lub latach, koniec terminu przypada na ten dzień tygodnia lub miesiąca, który odpowiada początkowi terminu; jeżeli w danym miesiącu nie ma takiego dnia, koniec terminu przypada na ostatni dzień tego miesiąca.  
-§ 3. Jeżeli koniec terminu przypada na dzień uznany przez ustawę za dzień wolny od pracy lub na sobotę, czynność można wykonać następnego dnia, który nie jest dniem wolnym od pracy ani sobotą. [Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.] <Art. 124. Termin jest zachowany, jeżeli przed jego upływem pismo zostało:  
-1) nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo w polskim urzędzie konsularnym;  
-2) złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku;  
-3) wysłane na adres do doręczeń elektronicznych.>
+§ 3. Jeżeli koniec terminu przypada na dzień uznany przez ustawę za dzień wolny od pracy lub na sobotę, czynność można wykonać następnego dnia, który nie jest dniem wolnym od pracy ani sobotą.
+
+**Art. 124.**  
+[Termin jest zachowany, jeżeli przed jego upływem pismo zostało nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej, w polskim urzędzie konsularnym lub złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku.]  
+<Termin jest zachowany, jeżeli przed jego upływem pismo zostało:  
+1\) nadane w placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo w polskim urzędzie konsularnym;  
+2\) złożone przez żołnierza, z wyjątkiem żołnierza pełniącego terytorialną służbę wojskową dyspozycyjnie, w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji odpowiedniego zakładu, a przez członka załogi polskiego statku morskiego – kapitanowi statku;  
+3\) wysłane na adres do doręczeń elektronicznych.>
 
 **Art. 124a.**  
 Jeżeli pismo zostanie wniesione przez umieszczenie jego treści w portalu informacyjnym, uznaje się je za wniesione w chwili wskazanej w elektronicznym potwierdzeniu wniesienia pisma.
@@ -792,7 +809,9 @@ Za dzień trwania środka przymusu skutkującego pozbawieniem wolności przyjmuj
 ## Rozdział 15: DORĘCZENIA
 
 **Art. 128.**  
-[§ 1. Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.] <§ 1. Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.> <§ 1a. Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.  
+[§ 1. Orzeczenia i zarządzenia doręcza się w uwierzytelnionych odpisach, jeżeli ustawa nakazuje ich doręczenie.]  
+<§ 1. Orzeczenie albo podlegające zaskarżeniu zarządzenie doręcza się w postaci kopii tego orzeczenia albo zarządzenia zamieszczonego w systemie teleinformatycznym, o którym mowa w art. 100a, opatrzonej unikalnym oznaczeniem identyfikującym.>  
+<§ 1a. Orzeczenie albo zarządzenie doręcza się, jeżeli ustawa tak stanowi.  
 § 1b. Przepis § 1 stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>  
 § 2. Wszelkie pisma przeznaczone dla uczestników postępowania doręcza się w taki sposób, by treść ich nie była udostępniona osobom niepowołanym.  
 § 3. Orzeczenia i zarządzenia mogą być doręczane przez umieszczenie ich treści w portalu informacyjnym.
@@ -807,28 +826,35 @@ Pisma doręcza się za pokwitowaniem odbioru. [Odbierający potwierdza odbiór s
 
 **Art. 131.**  
 [§ 1. Wezwania, zawiadomienia oraz inne pisma, od których daty doręczenia biegną terminy, doręcza się przez:  
-1) operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);  
-2) pracownika organu wysyłającego;  
-3) organ procesowy dokonujący czynności procesowej – w toku tej czynności;  
-4) Policję – tylko w razie niezbędnej konieczności.] <§ 1. Wezwania, zawiadomienia oraz inne pisma doręcza się:  
-1) na adres do doręczeń elektronicznych; doręczenia podmiotowi niepublicznemu, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, dokonuje się za jego zgodą wyrażoną w tym postępowaniu;  
-2) przez organ procesowy dokonujący czynności procesowej – w toku tej czynności.> <§ 1a. Jeżeli doręczenia nie można dokonać w sposób wskazany w § 1, doręczenia dokonuje się:  
-1) przez operatora wyznaczonego w ramach publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;  
-2) przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);  
-3) przez pracownika organu wysyłającego;  
-4) przez Policję – tylko w razie niezbędnej konieczności.>  
+1\) operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);  
+2\) pracownika organu wysyłającego;  
+3\) organ procesowy dokonujący czynności procesowej – w toku tej czynności;  
+4\) Policję – tylko w razie niezbędnej konieczności.]  
+<§ 1. Wezwania, zawiadomienia oraz inne pisma doręcza się:  
+1\) na adres do doręczeń elektronicznych; doręczenia podmiotowi niepublicznemu, o którym mowa w art. 2 pkt 5 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, dokonuje się za jego zgodą wyrażoną w tym postępowaniu;  
+2\) przez organ procesowy dokonujący czynności procesowej – w toku tej czynności.>  
+<§ 1a. Jeżeli doręczenia nie można dokonać w sposób wskazany w § 1, doręczenia dokonuje się:  
+1\) przez operatora wyznaczonego w ramach publicznej usługi hybrydowej, o której mowa w art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych;  
+2\) przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456);  
+3\) przez pracownika organu wysyłającego;  
+4\) przez Policję – tylko w razie niezbędnej konieczności.>  
 § 2. Jeżeli w sprawie ustalono tylu pokrzywdzonych, że ich indywidualne zawiadomienie o przysługujących im uprawnieniach spowodowałoby poważne utrudnienie w prowadzeniu postępowania, zawiadamia się ich poprzez ogłoszenie w prasie, radiu, telewizji lub na stronie internetowej sądu albo prokuratury.  
-§ 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci. <Art. 131a. Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.>
+§ 3. Jeżeli istnieje obowiązek doręczenia postanowienia, przepis § 2 stosuje się odpowiednio. Należy jednak zawsze doręczyć je temu pokrzywdzonemu, który w zawitym terminie 7 dni od dnia ogłoszenia o to się zwróci.
+
+**Art. 131a.**  
+<Jeżeli doręczenie jest dokonywane w sposób wskazany w art. 131 § 1 pkt 1, w wypadku braku dowodu otrzymania, w rozumieniu ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, pismo uznaje się za doręczone po upływie 14 dni od dnia wystawienia dowodu wysłania w rozumieniu tej ustawy.>
 
 **Art. 132.**  
-[§ 1. Pismo doręcza się adresatowi osobiście.] <§ 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.>  
+[§ 1. Pismo doręcza się adresatowi osobiście.]  
+<§ 1. Pismo doręczane w sposób wskazany w art. 131 § 1 pkt 2 lub § 1a doręcza się adresatowi osobiście.>  
 § 1a. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. [W tym wypadku pismo przesłane za pośrednictwem operatora pocztowego, o którym mowa w art. 131 § 1 pkt 1, składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.] <W tym wypadku pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, składa się w placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, umieszczając zawiadomienie o tym w skrytce pocztowej adresata.>  
 § 2. W razie chwilowej nieobecności adresata w jego mieszkaniu pismo doręcza się dorosłemu domownikowi. W razie nieobecności domownika pismo doręcza się administracji domu, dozorcy domu lub sołtysowi, jeżeli podejmą się oddać pismo adresatowi. Przepis art. 133 § 2 stosuje się odpowiednio.  
 § 3. Pismo może być także doręczone za pośrednictwem telefaksu lub poczty elektronicznej. W takim wypadku dowodem doręczenia jest potwierdzenie transmisji danych.  
 § 4. Przepisów § 2 i 3 oraz art. 133 § 3 nie stosuje się do doręczenia oskarżonemu zawiadomienia o pierwszym terminie rozprawy głównej, terminie posiedzenia, o którym mowa w art. 341 § 1, art. 343 § 5, art. 343a i art. 420 § 1, oraz doręczenia wyroku, o którym mowa w art. 500 § 1.
 
 **Art. 133.**  
-[§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.] <§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.>  
+[§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe pozostawia się w najbliższej placówce pocztowej tego operatora pocztowego, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.]  
+<§ 1. Jeżeli doręczenia nie można dokonać w sposób wskazany w art. 132, pismo przesłane za pośrednictwem operatora, o którym mowa w art. 131 § 1a pkt 1 lub 2, pozostawia się w najbliższej placówce pocztowej operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe, a przesłane w inny sposób w najbliższej jednostce Policji albo we właściwym urzędzie gminy.>  
 § 2. O pozostawieniu pisma w myśl § 1 doręczający umieszcza zawiadomienie w skrzynce do doręczania korespondencji bądź na drzwiach mieszkania adresata lub w innym widocznym miejscu ze wskazaniem, gdzie i kiedy pismo pozostawiono oraz że należy je odebrać w ciągu 7 dni; w razie bezskutecznego upływu tego terminu, należy czynność zawiadomienia powtórzyć jeden raz. W razie dokonania tych czynności pismo uznaje się za doręczone.  
 § 2a. Pismo pozostawione w placówce pocztowej w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe może zostać odebrane także przez osobę upoważnioną na podstawie pełnomocnictwa pocztowego do odbioru przesyłek pocztowych w rozumieniu tej ustawy.  
 § 2b. (uchylony)  
@@ -836,7 +862,9 @@ Pisma doręcza się za pokwitowaniem odbioru. [Odbierający potwierdza odbiór s
 § 3. Pismo można również pozostawić osobie upoważnionej do odbioru korespondencji w miejscu stałego zatrudnienia adresata.
 
 **Art. 133a.**  
-[§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.] <§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.> <§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.>  
+[§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, przez umieszczenie ich treści w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych, w sposób umożliwiający uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.]  
+<§ 1. Sąd dokonuje doręczeń pism procesowych lub innych pism prokuratorowi, obrońcy i pełnomocnikowi będącemu adwokatem lub radcą prawnym, Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także stronie, która dokonała wyboru takiego sposobu doręczania, przez umieszczenie ich treści w portalu informacyjnym w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.>  
+<§ 1a. Oświadczenie o wyborze doręczeń dokonywanych w sposób, o którym mowa w § 1, lub oświadczenie o rezygnacji z nich strona składa za pośrednictwem portalu informacyjnego i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Oświadczenie o rezygnacji z doręczeń dokonywanych w sposób, o którym mowa w § 1, można złożyć również na piśmie.>  
 § 2. Sąd może doręczyć pismo procesowe lub inne pismo w sposób określony w § 1, jeżeli dysponuje nim w postaci elektronicznej. Nie dotyczy to pism, które podlegają doręczeniu wraz z odpisami pism procesowych stron lub innymi dokumentami niepochodzącymi od sądu, chyba że zostały złożone przez umieszczenie ich treści w portalu informacyjnym na podstawie art. 428 § 3.  
 § 3. W przypadku, o którym mowa w § 1, pismo uznaje się za doręczone w czasie wskazanym w dokumencie potwierdzającym doręczenie. W przypadku braku dokumentu, który potwierdza doręczenie pisma, doręczenie to uznaje się za skuteczne z upływem 14 dni od dnia umieszczenia treści tego pisma w portalu informacyjnym w sposób określony w § 1.  
 § 3a. Jeżeli podmiot wskazany w § 1 nie posiada konta w portalu informacyjnym, pismo uważa się za doręczone z upływem 14 dni od dnia umieszczenia treści tego pisma w tym portalu w sposób, który umożliwia uzyskanie przez nadawcę i odbiorcę dokumentu potwierdzającego doręczenie.  
@@ -859,13 +887,22 @@ Prokuratora zawiadamia się o rozprawach i posiedzeniach przez doręczenie wykaz
 W wypadkach niecierpiących zwłoki można wzywać lub zawiadamiać osoby telefonicznie albo w inny sposób stosownie do okoliczności, pozostawiając w aktach odpis nadanego komunikatu z podpisem osoby nadającej.
 
 **Art. 138.**  
-<§ 1.> Strona, a także osoba niebędąca stroną, której prawa zostały naruszone, nieprzebywająca w kraju ani w innym państwie członkowskim Unii Europejskiej, ma obowiązek wskazać adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej; w razie nieuczynienia tego pismo wysłane na ostatnio znany adres w kraju lub w innym państwie członkowskim Unii Europejskiej albo, jeżeli adresu tego nie ma, załączone do akt sprawy uważa się za doręczone. <§ 2. Przepisu § 1 nie stosuje się, jeżeli strona, a także osoba niebędąca stroną, której prawa zostały naruszone, wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych.>
+<§ 1.> Strona, a także osoba niebędąca stroną, której prawa zostały naruszone, nieprzebywająca w kraju ani w innym państwie członkowskim Unii Europejskiej, ma obowiązek wskazać adresata dla doręczeń w kraju lub w innym państwie członkowskim Unii Europejskiej; w razie nieuczynienia tego pismo wysłane na ostatnio znany adres w kraju lub w innym państwie członkowskim Unii Europejskiej albo, jeżeli adresu tego nie ma, załączone do akt sprawy uważa się za doręczone.  
+<§ 2. Przepisu § 1 nie stosuje się, jeżeli strona, a także osoba niebędąca stroną, której prawa zostały naruszone, wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych.>
 
 **Art. 139.**  
 § 1. Jeżeli strona, nie podając nowego adresu, zmienia miejsce zamieszkania lub nie przebywa pod wskazanym przez siebie adresem, w tym także z powodu pozbawienia wolności w innej sprawie, pismo wysłane pod tym adresem uważa się za doręczone. [Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej i nie zawiadomiła organu o zmianie tego adresu lub zaprzestaniu korzystania z niego.] <Dotyczy to także strony, która zgłosiła wniosek o dokonywanie doręczeń na adres oznaczonej skrytki pocztowej albo wyraziła zgodę na dokonywanie doręczeń na adres do doręczeń elektronicznych i nie zawiadomiła organu o zmianie tego adresu lub o zaprzestaniu korzystania z niego.>  
 § 1a. Przepis § 1 stosuje się do pokrzywdzonego także wtedy, gdy nie jest stroną.  
 § 2. (uchylony)  
-§ 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego. [Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.] <Art. 140. Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.> [Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.] <Art. 141. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.>
+§ 3. Przepis § 1 nie dotyczy pism wysłanych po raz pierwszy po prawomocnym uniewinnieniu oskarżonego.
+
+**Art. 140.**  
+[Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i odpisy, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.]  
+<Jeżeli ustawa nie stanowi inaczej, orzeczenia, zarządzenia, zawiadomienia i kopie, które ustawa nakazuje doręczać stronom, doręcza się również obrońcom, pełnomocnikom i ustawowym przedstawicielom.>
+
+**Art. 141.**  
+[Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.]  
+<Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, szczegółowe zasady i tryb doręczania pism organów procesowych, z wyłączeniem doręczeń, o których mowa w art. 131 § 1 pkt 1, mając na uwadze konieczność zapewnienia sprawnego toku postępowania, a także właściwej realizacji gwarancji procesowych jego uczestników.>
 
 **Art. 142.**  
 Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za dokonane, jeżeli osoba, dla której pismo było przeznaczone, oświadczy, że pismo to otrzymała.
@@ -874,17 +911,17 @@ Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za doko
 
 **Art. 143.**  
 § 1. Spisania protokołu wymagają:  
-1) przyjęcie ustnego zawiadomienia o przestępstwie, wniosku o ściganie i jego cofnięcie;  
-2) przesłuchanie oskarżonego, świadka, biegłego i kuratora;  
-3) dokonanie oględzin;  
-4) dokonanie otwarcia zwłok oraz wyjęcie zwłok z grobu;  
-5) przeprowadzenie eksperymentu, konfrontacji oraz okazania;  
-6) przeszukanie osoby, miejsca, rzeczy i systemu informatycznego oraz zatrzymanie rzeczy i danych informatycznych;  
-7) otwarcie korespondencji i przesyłki oraz odtworzenie utrwalonych zapisów;  
-8) zaznajomienie podejrzanego z materiałami zebranymi w postępowaniu przygotowawczym;  
-9) przyjęcie poręczenia;  
-10) przebieg posiedzenia sądu, jeżeli stawią się na nim uprawnione osoby albo ich obecność jest obowiązkowa;  
-11) przebieg rozprawy.  
+1\) przyjęcie ustnego zawiadomienia o przestępstwie, wniosku o ściganie i jego cofnięcie;  
+2\) przesłuchanie oskarżonego, świadka, biegłego i kuratora;  
+3\) dokonanie oględzin;  
+4\) dokonanie otwarcia zwłok oraz wyjęcie zwłok z grobu;  
+5\) przeprowadzenie eksperymentu, konfrontacji oraz okazania;  
+6\) przeszukanie osoby, miejsca, rzeczy i systemu informatycznego oraz zatrzymanie rzeczy i danych informatycznych;  
+7\) otwarcie korespondencji i przesyłki oraz odtworzenie utrwalonych zapisów;  
+8\) zaznajomienie podejrzanego z materiałami zebranymi w postępowaniu przygotowawczym;  
+9\) przyjęcie poręczenia;  
+10\) przebieg posiedzenia sądu, jeżeli stawią się na nim uprawnione osoby albo ich obecność jest obowiązkowa;  
+11\) przebieg rozprawy.  
 § 2. Z innych czynności spisuje się protokół, jeżeli przepis szczególny tego wymaga albo przeprowadzający czynność uzna to za potrzebne. W innych wypadkach można ograniczyć się do sporządzenia notatki urzędowej.
 
 **Art. 144.**  
@@ -903,8 +940,8 @@ Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za doko
 **Art. 147.**  
 § 1. Przebieg czynności protokołowanych może być utrwalony ponadto za pomocą urządzenia rejestrującego obraz lub dźwięk, o czym należy przed uruchomieniem urządzenia uprzedzić osoby uczestniczące w czynności.  
 § 2. Przesłuchanie świadka lub biegłego utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk, gdy:  
-1) zachodzi niebezpieczeństwo, że przesłuchanie tej osoby nie będzie możliwe w dalszym postępowaniu;  
-2) przesłuchanie następuje w trybie określonym w art. 396.  
+1\) zachodzi niebezpieczeństwo, że przesłuchanie tej osoby nie będzie możliwe w dalszym postępowaniu;  
+2\) przesłuchanie następuje w trybie określonym w art. 396.  
 § 2a. Przesłuchanie w trybie określonym w art. 185a–185c oraz art. 185e utrwala się za pomocą urządzenia rejestrującego obraz i dźwięk.  
 § 2b. Przebieg rozprawy utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, chyba że jest to niemożliwe ze względów technicznych.  
 § 2c. Przebiegu rozprawy w zakresie, w którym wyłączono jej jawność ze względu na obawę ujawnienia informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”, nie utrwala się w sposób określony w § 2b, jeżeli nie ma możliwości zapewnienia właściwej ochrony zapisu dźwięku albo obrazu i dźwięku przed nieuprawnionym ujawnieniem.  
@@ -915,10 +952,10 @@ Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za doko
 
 **Art. 148.**  
 § 1. Protokół powinien zawierać:  
-1) oznaczenie czynności, jej czasu i miejsca oraz osób w niej uczestniczących;  
-2) przebieg czynności oraz oświadczenia i wnioski jej uczestników;  
-3) wydane w toku czynności postanowienia i zarządzenia, a jeżeli postanowienie lub zarządzenie sporządzono osobno, wzmiankę o jego wydaniu;  
-4) w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.  
+1\) oznaczenie czynności, jej czasu i miejsca oraz osób w niej uczestniczących;  
+2\) przebieg czynności oraz oświadczenia i wnioski jej uczestników;  
+3\) wydane w toku czynności postanowienia i zarządzenia, a jeżeli postanowienie lub zarządzenie sporządzono osobno, wzmiankę o jego wydaniu;  
+4\) w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.  
 § 2. Wyjaśnienia, zeznania, oświadczenia i wnioski oraz stwierdzenia określonych okoliczności przez organ prowadzący postępowanie zamieszcza się w protokole z możliwą dokładnością. Osoby biorące udział w czynności mają prawo żądać zamieszczenia w protokole z pełną dokładnością wszystkiego, co dotyczy ich praw lub interesów.  
 § 2a. (uchylony)  
 § 2b. (uchylony)  
@@ -927,14 +964,19 @@ Doręczenie bez zachowania przepisów niniejszego rozdziału uważa się za doko
 § 4. Osoby biorące udział w czynności mają prawo żądać odczytania fragmentów ich wypowiedzi wciągniętych do protokołu.
 
 **Art. 148a.**  
-[§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.] <§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.>  
-§ 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole. [§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.] <§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.> [§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:  
-1) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka są oskarżonemu znane;  
-2) w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;  
-3) z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.] <§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:  
-1) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka są oskarżonemu znane;  
-2) w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;  
-3) z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka z uwagi na charakter sprawy.>  
+[§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.]  
+<§ 1. W protokole nie zamieszcza się danych dotyczących miejsca zamieszkania i miejsca pracy, a także numeru telefonu, telefaksu ani adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków uczestniczących w czynności. Dane te, niezamieszczone w protokole, zamieszcza się w załączniku do protokołu, który przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie.>  
+§ 2. Przepis § 1 zdanie pierwsze nie dotyczy miejsca pracy świadka będącego funkcjonariuszem publicznym, składającego zeznania w związku z pełnioną funkcją, chyba że przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu orzekającego przeprowadzającego czynność uzna, iż dla dobra postępowania karnego nie powinno ono zostać zamieszczone w protokole.  
+[§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu i adresu poczty elektronicznej pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.]  
+<§ 3. Jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu, adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonych i świadków zawarte są w dokumentach innych niż protokół, o którym mowa w § 1, dokumenty, w całości lub w części, w jakiej zawierają te dane, przechowuje się w załączniku adresowym do akt sprawy, do wiadomości organu prowadzącego postępowanie. Do akt sprawy załącza się uwierzytelnione kserokopie dokumentów lub ich części, sporządzone w sposób uniemożliwiający zapoznanie się z tymi danymi.>  
+[§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:  
+1\) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka są oskarżonemu znane;  
+2\) w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;  
+3\) z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej pokrzywdzonego lub świadka z uwagi na charakter sprawy.]  
+<§ 4. Przeprowadzający czynność w postępowaniu przygotowawczym albo przewodniczący składu sądu – w odniesieniu do protokołu, o którym mowa w § 1, a w odniesieniu do innych dokumentów – organ prowadzący postępowanie przygotowawcze albo prezes sądu lub przewodniczący składu sądu, może zarządzić o odstąpieniu, w całości lub w części, od stosowania przepisów § 1 lub 3:  
+1\) jeżeli dane dotyczące miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka są oskarżonemu znane;  
+2\) w odniesieniu do danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka, jeżeli dane te są związane z miejscem prowadzenia działalności gospodarczej przez pokrzywdzonego lub świadka i zostały przekazane do publicznej wiadomości do właściwego rejestru lub ewidencji;  
+3\) z powodu oczywistego braku potrzeby ochrony danych dotyczących miejsca zamieszkania, miejsca pracy, numeru telefonu, telefaksu lub adresu poczty elektronicznej i adresu do doręczeń elektronicznych pokrzywdzonego lub świadka z uwagi na charakter sprawy.>  
 § 5. Sąd lub organ prowadzący postępowanie przygotowawcze może ujawnić w niezbędnym zakresie dane, o których mowa w § 1, lub oryginały dokumentów, o których mowa w § 3, jeżeli mają one znaczenie dla rozstrzygnięcia sprawy.
 
 **Art. 149.**  
@@ -984,7 +1026,10 @@ Sprostowanie oczywistych omyłek pisarskich lub rachunkowych w protokole lub prz
 Dane lub oryginały dokumentów znajdujące się w załączniku adresowym udostępnia się wyłącznie organom państwowym oraz organom samorządu terytorialnego na ich wniosek, jeżeli jest to niezbędne dla wykonywania ustawowych zadań tych organów. Można je udostępnić także na wniosek innych instytucji lub osób, jeżeli przemawia za tym ich ważny interes.
 
 **Art. 157.**  
-[§ 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.] <§ 1. Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.> [§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.] <§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.>  
+[§ 1. Stronom oraz osobom, których orzeczenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jeden uwierzytelniony odpis każdego orzeczenia. Odpis wydaje się z uzasadnieniem, jeżeli je sporządzono.]  
+<§ 1. Stronom oraz osobom, których orzeczenie albo podlegające zaskarżeniu zarządzenie bezpośrednio dotyczy, należy na ich żądanie nieodpłatnie wydać jedną kopię każdego orzeczenia albo podlegającego zaskarżeniu zarządzenia. Kopię wydaje się z uzasadnieniem, jeżeli je sporządzono.>  
+[§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko odpis orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.]  
+<§ 2. W sprawach, w których wyłączono jawność ze względu na ważny interes państwa, osobom, o których mowa w § 1, wydaje się tylko kopię orzeczenia kończącego postępowanie w danej instancji, bez uzasadnienia.>  
 § 3. Nie można odmówić stronie zezwolenia na sporządzenie odpisu protokołu czynności, w której strona uczestniczyła lub miała prawo uczestniczyć, jak również dokumentu pochodzącego od niej lub sporządzonego z jej udziałem.
 
 **Art. 158.**  
@@ -1044,12 +1089,12 @@ Jeżeli w wyniku kontroli operacyjnej zarządzonej na wniosek uprawnionego organ
 
 **Art. 170.**  
 § 1. Oddala się wniosek dowodowy, jeżeli:  
-1) przeprowadzenie dowodu jest niedopuszczalne;  
-2) okoliczność, która ma być udowodniona, nie ma znaczenia dla rozstrzygnięcia sprawy albo jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;  
-3) dowód jest nieprzydatny do stwierdzenia danej okoliczności;  
-4) dowodu nie da się przeprowadzić;  
-5) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;  
-6) wniosek dowodowy został złożony po zakreślonym przez organ procesowy terminie, o którym strona składająca wniosek została zawiadomiona.  
+1\) przeprowadzenie dowodu jest niedopuszczalne;  
+2\) okoliczność, która ma być udowodniona, nie ma znaczenia dla rozstrzygnięcia sprawy albo jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;  
+3\) dowód jest nieprzydatny do stwierdzenia danej okoliczności;  
+4\) dowodu nie da się przeprowadzić;  
+5\) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania;  
+6\) wniosek dowodowy został złożony po zakreślonym przez organ procesowy terminie, o którym strona składająca wniosek została zawiadomiona.  
 § 1a. Nie można oddalić wniosku dowodowego na podstawie § 1 pkt 5 lub 6, jeżeli okoliczność, która ma być udowodniona, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.  
 § 2. Nie można oddalić wniosku dowodowego na tej podstawie, że dotychczasowe dowody wykazały przeciwieństwo tego, co wnioskodawca zamierza udowodnić.  
 § 3. Oddalenie wniosku dowodowego następuje w formie postanowienia.  
@@ -1062,8 +1107,8 @@ Jeżeli w wyniku kontroli operacyjnej zarządzonej na wniosek uprawnionego organ
 § 4. Nie wolno zadawać pytań sugerujących osobie przesłuchiwanej treść odpowiedzi.  
 § 4a. Pytania zadawane świadkowi nie mogą dotyczyć jego życia seksualnego, chyba że jest to niezbędne dla rozstrzygnięcia sprawy.  
 § 5. Niedopuszczalne jest:  
-1) wpływanie na wypowiedzi osoby przesłuchiwanej za pomocą przymusu lub groźby bezprawnej;  
-2) stosowanie hipnozy albo środków chemicznych lub technicznych wpływających na procesy psychiczne osoby przesłuchiwanej albo mających na celu kontrolę nieświadomych reakcji jej organizmu w związku z przesłuchaniem.  
+1\) wpływanie na wypowiedzi osoby przesłuchiwanej za pomocą przymusu lub groźby bezprawnej;  
+2\) stosowanie hipnozy albo środków chemicznych lub technicznych wpływających na procesy psychiczne osoby przesłuchiwanej albo mających na celu kontrolę nieświadomych reakcji jej organizmu w związku z przesłuchaniem.  
 § 6. Organ przesłuchujący uchyla pytania określone w § 4 lub 4a, jak również pytania nieistotne.  
 § 7. Wyjaśnienia, zeznania oraz oświadczenia złożone w warunkach wyłączających swobodę wypowiedzi lub uzyskane wbrew zakazom wymienionym w § 5 nie mogą stanowić dowodu.  
 § 8. Przed pierwszym przesłuchaniem osoba, o której mowa w § 3, otrzymuje informacje o przebiegu, sposobie i warunkach przesłuchania. Informacje zawierają opisowe lub graficzne przedstawienie przebiegu, sposobu i warunków przesłuchania. Pomiędzy doręczeniem informacji a terminem przesłuchania powinno upłynąć co najmniej 3 dni, chyba że dobro postępowania stoi temu na przeszkodzie.  
@@ -1100,16 +1145,16 @@ Dowodu z wyjaśnień oskarżonego lub z zeznań świadka nie wolno zastępować 
 § 1. Każda osoba wezwana w charakterze świadka ma obowiązek stawić się i złożyć zeznania.  
 § 1a. Przesłuchanie świadka może nastąpić przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku. W postępowaniu przygotowawczym, w czynności przeprowadzanej przez prokuratora, w miejscu przebywania świadka bierze udział aplikant prokuratorski, asystent prokuratora lub urzędnik zatrudniony w prokuraturze, a w postępowaniu przed sądem – aplikant sędziowski, referendarz sądowy, asystent sędziego lub urzędnik zatrudniony w sądzie, w którego okręgu świadek przebywa.  
 § 1b. W miejscu przebywania świadka przesłuchiwanego w sposób określony w § 1a, zamiast osób wskazanych w tym przepisie, może być obecny:  
-1) przedstawiciel administracji zakładu karnego lub aresztu śledczego – jeżeli świadek przebywa w zakładzie karnym lub areszcie śledczym;  
-2) urzędnik konsularny – jeżeli świadek będący obywatelem polskim przebywa za granicą.  
+1\) przedstawiciel administracji zakładu karnego lub aresztu śledczego – jeżeli świadek przebywa w zakładzie karnym lub areszcie śledczym;  
+2\) urzędnik konsularny – jeżeli świadek będący obywatelem polskim przebywa za granicą.  
 § 1c. Warunki techniczne przeprowadzenia czynności przesłuchania świadka w sposób określony w § 1a w postępowaniu przygotowawczym zapewnia prokurator.  
 § 1d. Do czynności przesłuchania świadka przeprowadzanej w postępowaniu przygotowawczym przez organ prowadzący postępowanie, niebędący prokuratorem, przepisy § 1a i 1b stosuje się odpowiednio, z tym że w czynności przeprowadzanej w miejscu przebywania świadka bierze udział funkcjonariusz lub inny pracownik upoważniony przez kierownika organu prowadzącego postępowanie przygotowawcze. Warunki techniczne przeprowadzenia czynności przesłuchania świadka zapewnia organ prowadzący postępowanie.  
 § 2. Świadka, który nie może się stawić na wezwanie z powodu choroby, kalectwa lub innej niedającej się pokonać przeszkody, można przesłuchać w miejscu jego pobytu.
 
 **Art. 178.**  
 Nie wolno przesłuchiwać jako świadków:  
-1) obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;  
-2) duchownego co do faktów, o których dowiedział się przy spowiedzi.
+1\) obrońcy albo adwokata lub radcy prawnego działającego na podstawie art. 245 § 1, co do faktów, o których dowiedział się udzielając porady prawnej lub prowadząc sprawę;  
+2\) duchownego co do faktów, o których dowiedział się przy spowiedzi.
 
 **Art. 178a.**  
 Nie wolno przesłuchiwać jako świadka mediatora co do faktów, o których dowiedział się od oskarżonego lub pokrzywdzonego prowadząc postępowanie mediacyjne, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego.
@@ -1205,10 +1250,10 @@ Można zwolnić od złożenia zeznania lub odpowiedzi na pytania osobę pozostaj
 
 **Art. 189.**  
 Nie odbiera się przyrzeczenia:  
-1) od osób, które nie ukończyły 17 lat;  
-2) gdy zachodzi uzasadnione podejrzenie, że świadek z powodu zaburzeń psychicznych nie zdaje sobie należycie sprawy ze znaczenia przyrzeczenia;  
-3) gdy świadek jest osobą podejrzaną o popełnienie przestępstwa będącego przedmiotem postępowania lub pozostającego w ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo został skazany;  
-4) gdy świadek był prawomocnie skazany za fałszywe zeznanie lub oskarżenie.
+1\) od osób, które nie ukończyły 17 lat;  
+2\) gdy zachodzi uzasadnione podejrzenie, że świadek z powodu zaburzeń psychicznych nie zdaje sobie należycie sprawy ze znaczenia przyrzeczenia;  
+3\) gdy świadek jest osobą podejrzaną o popełnienie przestępstwa będącego przedmiotem postępowania lub pozostającego w ścisłym związku z czynem stanowiącym przedmiot postępowania albo gdy za to przestępstwo został skazany;  
+4\) gdy świadek był prawomocnie skazany za fałszywe zeznanie lub oskarżenie.
 
 **Art. 190.**  
 § 1. Przed rozpoczęciem przesłuchania należy uprzedzić świadka o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy.  
@@ -1242,9 +1287,9 @@ Nie odbiera się przyrzeczenia:
 
 **Art. 194.**  
 O dopuszczeniu dowodu z opinii biegłego wydaje się postanowienie, w którym należy wskazać:  
-1) imię, nazwisko i specjalność biegłego lub biegłych, a w wypadku opinii instytucji, w razie potrzeby, specjalność i kwalifikacje osób, które powinny wziąć udział w przeprowadzeniu ekspertyzy;  
-2) przedmiot i zakres ekspertyzy ze sformułowaniem, w miarę potrzeby, pytań szczegółowych;  
-3) termin dostarczenia opinii.
+1\) imię, nazwisko i specjalność biegłego lub biegłych, a w wypadku opinii instytucji, w razie potrzeby, specjalność i kwalifikacje osób, które powinny wziąć udział w przeprowadzeniu ekspertyzy;  
+2\) przedmiot i zakres ekspertyzy ze sformułowaniem, w miarę potrzeby, pytań szczegółowych;  
+3\) termin dostarczenia opinii.
 
 **Art. 195.**  
 Do pełnienia czynności biegłego jest obowiązany nie tylko biegły sądowy, lecz także każda osoba, o której wiadomo, że ma odpowiednią wiedzę w danej dziedzinie.
@@ -1276,12 +1321,12 @@ Stosowanie w czasie badania przez biegłego środków technicznych mających na 
 **Art. 200.**  
 § 1. W zależności od polecenia organu procesowego biegły składa opinię ustnie lub na piśmie.  
 § 2. Opinia powinna zawierać:  
-1) imię, nazwisko, stopień i tytuł naukowy, specjalność i stanowisko zawodowe biegłego;  
-2) imiona i nazwiska oraz pozostałe dane innych osób, które uczestniczyły w przeprowadzeniu ekspertyzy, ze wskazaniem czynności dokonanych przez każdą z nich;  
-3) w wypadku opinii instytucji – także pełną nazwę i siedzibę instytucji;  
-4) czas przeprowadzonych badań oraz datę wydania opinii;  
-5) sprawozdanie z przeprowadzonych czynności i spostrzeżeń oraz oparte na nich wnioski;  
-6) podpisy wszystkich biegłych, którzy uczestniczyli w wydaniu opinii.  
+1\) imię, nazwisko, stopień i tytuł naukowy, specjalność i stanowisko zawodowe biegłego;  
+2\) imiona i nazwiska oraz pozostałe dane innych osób, które uczestniczyły w przeprowadzeniu ekspertyzy, ze wskazaniem czynności dokonanych przez każdą z nich;  
+3\) w wypadku opinii instytucji – także pełną nazwę i siedzibę instytucji;  
+4\) czas przeprowadzonych badań oraz datę wydania opinii;  
+5\) sprawozdanie z przeprowadzonych czynności i spostrzeżeń oraz oparte na nich wnioski;  
+6\) podpisy wszystkich biegłych, którzy uczestniczyli w wydaniu opinii.  
 § 3. Osoby, które brały udział w wydaniu opinii, mogą być, w razie potrzeby, przesłuchiwane w charakterze biegłych, a osoby, które uczestniczyły tylko w badaniach – w charakterze świadków.
 
 **Art. 201.**  
@@ -1303,8 +1348,8 @@ Jeżeli opinia jest niepełna lub niejasna albo gdy zachodzi sprzeczność w sam
 
 **Art. 204.**  
 § 1. Należy wezwać tłumacza, jeżeli zachodzi potrzeba przesłuchania:  
-1) głuchego lub niemego, a nie wystarcza porozumienie się z nim za pomocą pisma;  
-2) osoby niewładającej językiem polskim.  
+1\) głuchego lub niemego, a nie wystarcza porozumienie się z nim za pomocą pisma;  
+2\) osoby niewładającej językiem polskim.  
 § 2. Należy również wezwać tłumacza, jeżeli zachodzi potrzeba przełożenia na język polski pisma sporządzonego w języku obcym lub odwrotnie albo zapoznania strony z treścią przeprowadzanego dowodu.  
 § 3. Do tłumacza stosuje się odpowiednio przepisy dotyczące biegłych.
 
@@ -1348,7 +1393,9 @@ W toku oględzin lub eksperymentu procesowego można dokonywać również przes�
 § 1. W postępowaniu należy ustalić tożsamość oskarżonego, jego numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL – numer i nazwę dokumentu stwierdzającego tożsamość oraz nazwę organu, który wydał dokument, a także wiek oskarżonego, jego stosunki rodzinne i majątkowe, wykształcenie, zawód wyuczony i wykonywany oraz zajmowane stanowisko lub pełnioną funkcję, a także miejsce pracy i źródła dochodu, dane o jego karalności, a w miarę możliwości numer telefonu lub adres poczty elektronicznej umożliwiające kontaktowanie się z oskarżonym oraz numer identyfikacji podatkowej (NIP), o ile został nadany. Odnośnie do oskarżonego będącego funkcjonariuszem publicznym w chwili popełnienia czynu lub w czasie postępowania należy ponadto zebrać dane dotyczące przebiegu służby publicznej, wyróżnień oraz ukarań dyscyplinarnych.  
 § 1a. W razie potrzeby prokurator, inny organ prowadzący postępowanie przygotowawcze lub sąd uzyskuje informację z systemu teleinformatycznego ministra właściwego do spraw finansów publicznych dotyczącą stosunków majątkowych i źródeł dochodu oskarżonego, w tym prowadzonych i zakończonych postępowań podatkowych, na podstawie aktualnych danych znajdujących się w tym systemie. Informację uzyskuje się drogą elektroniczną.  
 § 1b. W postępowaniu w sprawach o przestępstwa w ruchu lądowym określone w rozdziale XXI Kodeksu karnego należy także uzyskać informacje z centralnej ewidencji kierowców oraz z ewidencji kierowców naruszających przepisy ruchu drogowego prowadzonej przez Policję, dotyczące oskarżonego. Jeżeli od sporządzenia tych informacji upłynął okres 6 miesięcy, należy uzyskać je ponownie.  
-§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.>  
+§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio.  
+[§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.]  
+<§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.>  
 § 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.  
 § 3. (uchylony)  
 § 4. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wzór i szczegółowy zakres informacji, o której mowa w § 1a, oraz sposób postępowania w celu jej uzyskania, mając na względzie potrzebę uzyskania przez organ postępowania danych niezbędnych do realizacji celów procesu, zachowanie wymogów tajemnicy ustawowo chronionej oraz okresy rozliczeniowe przyjęte dla poszczególnych zobowiązań podatkowych.
@@ -1356,16 +1403,16 @@ W toku oględzin lub eksperymentu procesowego można dokonywać również przes�
 **Art. 214.**  
 § 1. W razie potrzeby, a w szczególności gdy niezbędne jest ustalenie danych co do właściwości i warunków osobistych oraz dotychczasowego sposobu życia oskarżonego, sąd, a w postępowaniu przygotowawczym prokurator, zarządza w stosunku do oskarżonego przeprowadzenie wywiadu środowiskowego przez kuratora sądowego lub inny podmiot uprawniony na podstawie odrębnych przepisów, a w szczególnie uzasadnionych wypadkach przez Policję.  
 § 2. Przeprowadzenie wywiadu środowiskowego jest obowiązkowe:  
-1) w sprawach o zbrodnie;  
+1\) w sprawach o zbrodnie;  
 1a) w stosunku do oskarżonego, który w chwili czynu nie ukończył 18 lat;  
-2) w stosunku do oskarżonego, który w chwili czynu nie ukończył 21 roku życia, jeżeli zarzucono mu popełnienie umyślnego występku przeciwko życiu.  
+2\) w stosunku do oskarżonego, który w chwili czynu nie ukończył 21 roku życia, jeżeli zarzucono mu popełnienie umyślnego występku przeciwko życiu.  
 § 3. Wywiadu środowiskowego można nie przeprowadzać w stosunku do oskarżonego, który nie ma w kraju stałego miejsca zamieszkania.  
 § 4. Wynik wywiadu środowiskowego powinien w szczególności zawierać:  
-1) imię i nazwisko osoby przeprowadzającej wywiad;  
-2) imię i nazwisko oskarżonego;  
-3) zwięzły opis dotychczasowego życia oskarżonego oraz dokładne informacje o środowisku oskarżonego, w tym rodzinnym, szkolnym lub zawodowym, a nadto informacje o jego stanie majątkowym i źródłach dochodów;  
-4) informacje dotyczące stanu zdrowia oskarżonego, a także o nadużywaniu przez niego alkoholu, środków odurzających, środków zastępczych lub substancji psychotropowych;  
-5) własne spostrzeżenia i konkluzje osoby przeprowadzającej wywiad, zwłaszcza dotyczące właściwości i warunków osobistych oraz dotychczasowego sposobu życia oskarżonego.  
+1\) imię i nazwisko osoby przeprowadzającej wywiad;  
+2\) imię i nazwisko oskarżonego;  
+3\) zwięzły opis dotychczasowego życia oskarżonego oraz dokładne informacje o środowisku oskarżonego, w tym rodzinnym, szkolnym lub zawodowym, a nadto informacje o jego stanie majątkowym i źródłach dochodów;  
+4\) informacje dotyczące stanu zdrowia oskarżonego, a także o nadużywaniu przez niego alkoholu, środków odurzających, środków zastępczych lub substancji psychotropowych;  
+5\) własne spostrzeżenia i konkluzje osoby przeprowadzającej wywiad, zwłaszcza dotyczące właściwości i warunków osobistych oraz dotychczasowego sposobu życia oskarżonego.  
 § 5. Dane o osobach, które dostarczyły informacji w ramach wywiadu środowiskowego, osoba przeprowadzająca wywiad ujawnia jedynie na żądanie sądu, a w postępowaniu przygotowawczym – prokuratora.  
 § 6. Osoby, które dostarczyły informacji w ramach wywiadu środowiskowego, mogą być w razie potrzeby przesłuchane w charakterze świadków.  
 § 7. Policja jest obowiązana udzielić osobie przeprowadzającej wywiad pomocy przy wykonywaniu zadań związanych z wywiadem środowiskowym w celu zapewnienia jej bezpieczeństwa.  
@@ -1499,23 +1546,23 @@ Przepisy rozdziału niniejszego stosuje się odpowiednio do dysponenta i użytko
 § 1. Po wszczęciu postępowania sąd na wniosek prokuratora może zarządzić kontrolę i utrwalanie treści rozmów telefonicznych w celu wykrycia i uzyskania dowodów dla toczącego się postępowania lub zapobieżenia popełnieniu nowego przestępstwa.  
 § 2. W wypadkach niecierpiących zwłoki kontrolę i utrwalanie treści rozmów telefonicznych może zarządzić prokurator, który jest obowiązany zwrócić się w terminie 3 dni do sądu z wnioskiem o zatwierdzenie postanowienia. Sąd wydaje postanowienie w przedmiocie wniosku w terminie 5 dni na posiedzeniu bez udziału stron. W wypadku niezatwierdzenia postanowienia prokuratora sąd w postanowieniu wydanym w przedmiocie wniosku zarządza zniszczenie wszystkich utrwalonych zapisów. Zaskarżenie postanowienia wstrzymuje jego wykonanie.  
 § 3. Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne tylko wtedy, gdy toczące się postępowanie lub uzasadniona obawa popełnienia nowego przestępstwa dotyczy:  
-1) zabójstwa;  
-2) narażenia na niebezpieczeństwo powszechne lub sprowadzenia katastrofy;  
-3) handlu ludźmi;  
-4) uprowadzenia osoby;  
-5) wymuszania okupu;  
-6) uprowadzenia statku powietrznego lub wodnego;  
-7) rozboju, kradzieży rozbójniczej lub wymuszenia rozbójniczego;  
-8) zamachu na niepodległość lub integralność państwa;  
-9) zamachu na konstytucyjny ustrój państwa lub jego naczelne organy, albo na jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej;  
-10) szpiegostwa lub ujawnienia informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”;  
-11) gromadzenia broni, materiałów wybuchowych lub radioaktywnych;  
-12) fałszowania oraz obrotu fałszywymi pieniędzmi, środkami lub instrumentami płatniczymi albo zbywalnymi dokumentami uprawniającymi do otrzymania sumy pieniężnej, towaru, ładunku albo wygranej rzeczowej albo zawierającymi obowiązek wpłaty kapitału, odsetek, udziału w zyskach lub stwierdzenie uczestnictwa w spółce;  
+1\) zabójstwa;  
+2\) narażenia na niebezpieczeństwo powszechne lub sprowadzenia katastrofy;  
+3\) handlu ludźmi;  
+4\) uprowadzenia osoby;  
+5\) wymuszania okupu;  
+6\) uprowadzenia statku powietrznego lub wodnego;  
+7\) rozboju, kradzieży rozbójniczej lub wymuszenia rozbójniczego;  
+8\) zamachu na niepodległość lub integralność państwa;  
+9\) zamachu na konstytucyjny ustrój państwa lub jego naczelne organy, albo na jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej;  
+10\) szpiegostwa lub ujawnienia informacji niejawnych o klauzuli tajności „tajne” lub „ściśle tajne”;  
+11\) gromadzenia broni, materiałów wybuchowych lub radioaktywnych;  
+12\) fałszowania oraz obrotu fałszywymi pieniędzmi, środkami lub instrumentami płatniczymi albo zbywalnymi dokumentami uprawniającymi do otrzymania sumy pieniężnej, towaru, ładunku albo wygranej rzeczowej albo zawierającymi obowiązek wpłaty kapitału, odsetek, udziału w zyskach lub stwierdzenie uczestnictwa w spółce;  
 12a) podrabiania lub przerabiania faktur lub używania faktur podrobionych lub przerobionych w zakresie okoliczności faktycznych mogących mieć znaczenie dla określenia wysokości należności publicznoprawnej lub jej zwrotu albo zwrotu innej należności o charakterze podatkowym oraz wystawiania i używania faktur poświadczających nieprawdę co do okoliczności faktycznych mogących mieć znaczenie dla określenia wysokości należności publicznoprawnej lub jej zwrotu albo zwrotu innej należności o charakterze podatkowym;  
-13) wytwarzania, przetwarzania, obrotu i przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych;  
-14) zorganizowanej grupy przestępczej;  
-15) mienia znacznej wartości;  
-16) użycia przemocy lub groźby bezprawnej w związku z postępowaniem karnym;  
+13\) wytwarzania, przetwarzania, obrotu i przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych;  
+14\) zorganizowanej grupy przestępczej;  
+15\) mienia znacznej wartości;  
+16\) użycia przemocy lub groźby bezprawnej w związku z postępowaniem karnym;  
 16a) składania fałszywych zeznań oraz przedstawienia przez biegłego, rzeczoznawcę lub tłumacza fałszywej opinii, ekspertyzy lub tłumaczenia;  
 16b) fałszywego oskarżenia innej osoby o popełnienie przestępstwa, przestępstwa skarbowego lub wykroczenia skarbowego;  
 16c) tworzenia fałszywych dowodów lub innych podstępnych zabiegów, kierujących przeciwko innej osobie ściganie o przestępstwo, przestępstwo skarbowe lub wykroczenie skarbowe albo podejmowania takich zabiegów w toku postępowania;  
@@ -1523,9 +1570,9 @@ Przepisy rozdziału niniejszego stosuje się odpowiednio do dysponenta i użytko
 16e) zawiadomienia organu powołanego do ścigania o niepopełnionym przestępstwie lub przestępstwie skarbowym;  
 16f) poplecznictwa;  
 16g) niezawiadomienia o przestępstwie;  
-17) łapownictwa i płatnej protekcji;  
-18) stręczycielstwa, kuplerstwa i sutenerstwa;  
-19) przestępstw określonych w rozdziale XVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz w art. 5– 8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz. 1753), zwanego dalej „Statutem”.  
+17\) łapownictwa i płatnej protekcji;  
+18\) stręczycielstwa, kuplerstwa i sutenerstwa;  
+19\) przestępstw określonych w rozdziale XVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz w art. 5– 8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego w Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz. 1753), zwanego dalej „Statutem”.  
 § 3a. Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne również w celu ujawnienia mienia zagrożonego przepadkiem, o którym mowa w art. 45 § 2 Kodeksu karnego albo art. 33 § 2 Kodeksu karnego skarbowego.  
 § 4. Kontrola i utrwalanie treści rozmów telefonicznych są dopuszczalne w stosunku do osoby podejrzanej, oskarżonego oraz w stosunku do pokrzywdzonego lub innej osoby, z którą może się kontaktować oskarżony albo która może mieć związek ze sprawcą lub z grożącym przestępstwem.  
 § 5. Urzędy i instytucje prowadzące działalność telekomunikacyjną oraz przedsiębiorca telekomunikacyjny w rozumieniu ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej, obowiązani są umożliwić wykonanie postanowienia sądu lub prokuratora w zakresie przeprowadzenia kontroli rozmów telefonicznych oraz zapewnić rejestrowanie faktu przeprowadzenia takiej kontroli.  
@@ -1589,8 +1636,8 @@ Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw infor
 
 **Art. 247.**  
 § 1. Prokurator może zarządzić zatrzymanie i przymusowe doprowadzenie osoby podejrzanej albo podejrzanego, jeżeli zachodzi uzasadniona obawa, że:  
-1) nie stawią się na wezwanie w celu przeprowadzenia z ich udziałem czynności, o których mowa w art. 313 § 1 lub art. 314, albo badań lub czynności, o których mowa w art. 74 § 2 lub 3;  
-2) mogą w inny bezprawny sposób utrudniać postępowanie.  
+1\) nie stawią się na wezwanie w celu przeprowadzenia z ich udziałem czynności, o których mowa w art. 313 § 1 lub art. 314, albo badań lub czynności, o których mowa w art. 74 § 2 lub 3;  
+2\) mogą w inny bezprawny sposób utrudniać postępowanie.  
 § 2. Zatrzymanie i przymusowe doprowadzenie, o którym mowa w § 1, może także nastąpić, gdy zachodzi potrzeba niezwłocznego zastosowania środka zapobiegawczego.  
 § 3. W związku z zatrzymaniem można też zarządzić przeszukanie. Przepisy art. 220–222 i art. 224 stosuje się odpowiednio.  
 § 4. Niezwłocznie po doprowadzeniu przeprowadza się z udziałem zatrzymanego czynności wskazane w § 1, a po ich dokonaniu należy zwolnić go, o ile nie zachodzi potrzeba stosowania środka zapobiegawczego.  
@@ -1615,8 +1662,8 @@ Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw infor
 
 **Art. 249a.**  
 § 1. Podstawę orzeczenia o zastosowaniu lub przedłużeniu tymczasowego aresztowania mogą stanowić ustalenia poczynione na podstawie:  
-1) dowodów jawnych dla oskarżonego i jego obrońcy;  
-2) dowodów z zeznań świadków, o których mowa w art. 250 § 2b.  
+1\) dowodów jawnych dla oskarżonego i jego obrońcy;  
+2\) dowodów z zeznań świadków, o których mowa w art. 250 § 2b.  
 § 2. Sąd, uprzedzając o tym prokuratora, uwzględnia z urzędu także okoliczności, których prokurator nie ujawnił, po ich ujawnieniu na posiedzeniu, jeżeli są one korzystne dla oskarżonego.
 
 **Art. 250.**  
@@ -1670,8 +1717,8 @@ Nadzór nad prawidłowością zatrzymania i wykonania środków zapobiegawczych 
 
 **Art. 258.**  
 § 1. Tymczasowe aresztowanie i pozostałe środki zapobiegawcze można stosować, jeżeli zachodzi:  
-1) uzasadniona obawa ucieczki lub ukrycia się oskarżonego, zwłaszcza wtedy, gdy nie można ustalić jego tożsamości albo nie ma on w kraju stałego miejsca pobytu;  
-2) uzasadniona obawa, że oskarżony będzie nakłaniał do składania fałszywych zeznań lub wyjaśnień albo w inny bezprawny sposób utrudniał postępowanie karne.  
+1\) uzasadniona obawa ucieczki lub ukrycia się oskarżonego, zwłaszcza wtedy, gdy nie można ustalić jego tożsamości albo nie ma on w kraju stałego miejsca pobytu;  
+2\) uzasadniona obawa, że oskarżony będzie nakłaniał do składania fałszywych zeznań lub wyjaśnień albo w inny bezprawny sposób utrudniał postępowanie karne.  
 § 2. Jeżeli oskarżonemu zarzuca się popełnienie zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, albo gdy sąd pierwszej instancji skazał go na karę pozbawienia wolności nieniższą niż 3 lata, potrzeba zastosowania tymczasowego aresztowania w celu zabezpieczenia prawidłowego toku postępowania może być uzasadniona grożącą oskarżonemu surową karą.  
 § 3. Środek zapobiegawczy można wyjątkowo zastosować także wtedy, gdy zachodzi uzasadniona obawa, że oskarżony, któremu zarzucono popełnienie zbrodni lub umyślnego występku, popełni przestępstwo przeciwko życiu, zdrowiu lub bezpieczeństwu powszechnemu, zwłaszcza gdy popełnieniem takiego przestępstwa groził.  
 § 4. Decydując o zastosowaniu określonego środka zapobiegawczego, uwzględnia się rodzaj i charakter obaw wskazanych w § 1–3, przyjętych za podstawę stosowania danego środka oraz nasilenie ich zagrożenia dla prawidłowego przebiegu postępowania w określonym jego stadium.
@@ -1681,8 +1728,8 @@ Jeżeli oskarżony uniemożliwia lub utrudnia wykonywanie zastosowanego wobec ni
 
 **Art. 259.**  
 § 1. Jeżeli szczególne względy nie stoją temu na przeszkodzie, należy odstąpić od tymczasowego aresztowania, zwłaszcza gdy pozbawienie oskarżonego wolności:  
-1) spowodowałoby dla jego życia lub zdrowia poważne niebezpieczeństwo;  
-2) pociągałoby wyjątkowo ciężkie skutki dla oskarżonego lub jego najbliższej rodziny.  
+1\) spowodowałoby dla jego życia lub zdrowia poważne niebezpieczeństwo;  
+2\) pociągałoby wyjątkowo ciężkie skutki dla oskarżonego lub jego najbliższej rodziny.  
 § 2. Tymczasowego aresztowania nie stosuje się, gdy na podstawie okoliczności sprawy można przewidywać, że sąd orzeknie w stosunku do oskarżonego karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania lub karę łagodniejszą albo że okres tymczasowego aresztowania przekroczy przewidywany wymiar kary pozbawienia wolności bez warunkowego zawieszenia.  
 § 3. Tymczasowe aresztowanie nie może być stosowane, jeżeli przestępstwo zagrożone jest karą pozbawienia wolności nieprzekraczającą roku.  
 § 4. Ograniczenia przewidziane w § 2 i 3 nie mają zastosowania, gdy oskarżony ukrywa się, uporczywie nie stawia się na wezwania lub w inny bezprawny sposób utrudnia postępowanie albo nie można ustalić jego tożsamości. Ograniczenie przewidziane w § 2 nie ma również zastosowania, gdy zachodzi wysokie prawdopodobieństwo orzeczenia środka zabezpieczającego polegającego na umieszczeniu sprawcy w zakładzie zamkniętym.
@@ -1699,9 +1746,9 @@ Jeżeli oskarżony uniemożliwia lub utrudnia wykonywanie zastosowanego wobec ni
 
 **Art. 262.**  
 § 1. Sąd stosujący tymczasowe aresztowanie ma obowiązek:  
-1) zawiadomienia o tym sądu opiekuńczego, jeżeli zachodzi potrzeba zapewnienia opieki nad dziećmi aresztowanego;  
-2) zawiadomienia organu opieki społecznej, jeżeli zachodzi potrzeba roztoczenia opieki nad osobą niedołężną lub chorą, którą aresztowany się opiekował;  
-3) przedsięwzięcia czynności niezbędnych do ochrony mienia i mieszkania aresztowanego.  
+1\) zawiadomienia o tym sądu opiekuńczego, jeżeli zachodzi potrzeba zapewnienia opieki nad dziećmi aresztowanego;  
+2\) zawiadomienia organu opieki społecznej, jeżeli zachodzi potrzeba roztoczenia opieki nad osobą niedołężną lub chorą, którą aresztowany się opiekował;  
+3\) przedsięwzięcia czynności niezbędnych do ochrony mienia i mieszkania aresztowanego.  
 § 2. O poczynionych wystąpieniach i wydanych zarządzeniach należy powiadomić tymczasowo aresztowanego.
 
 **Art. 263.**  
@@ -1811,11 +1858,11 @@ Jeżeli miejsce pobytu oskarżonego lub osoby podejrzanej nie jest znane, zarzą
 
 **Art. 280.**  
 § 1. W liście gończym podaje się:  
-1) sąd lub prokuratora, który wydał postanowienie o poszukiwaniu listem gończym;  
-2) dane o osobie, które mogą ułatwić jej poszukiwanie, a przede wszystkim personalia, rysopis, znaki szczególne, miejsce zamieszkania i pracy, z dołączeniem w miarę możliwości fotografii poszukiwanego;  
-3) informację o treści zarzutu postawionego oskarżonemu oraz o postanowieniu o jego tymczasowym aresztowaniu albo o zapadłym wyroku;  
-4) wezwanie każdego, kto zna miejsce pobytu poszukiwanego, do zawiadomienia o tym najbliższej jednostki Policji, prokuratora lub sądu;  
-5) ostrzeżenie o odpowiedzialności karnej za ukrywanie poszukiwanego lub dopomaganie mu w ucieczce.  
+1\) sąd lub prokuratora, który wydał postanowienie o poszukiwaniu listem gończym;  
+2\) dane o osobie, które mogą ułatwić jej poszukiwanie, a przede wszystkim personalia, rysopis, znaki szczególne, miejsce zamieszkania i pracy, z dołączeniem w miarę możliwości fotografii poszukiwanego;  
+3\) informację o treści zarzutu postawionego oskarżonemu oraz o postanowieniu o jego tymczasowym aresztowaniu albo o zapadłym wyroku;  
+4\) wezwanie każdego, kto zna miejsce pobytu poszukiwanego, do zawiadomienia o tym najbliższej jednostki Policji, prokuratora lub sądu;  
+5\) ostrzeżenie o odpowiedzialności karnej za ukrywanie poszukiwanego lub dopomaganie mu w ucieczce.  
 § 2. W liście gończym można wyznaczyć nagrodę za ujęcie lub przyczynienie się do ujęcia poszukiwanego, a także udzielić zapewnienia o utrzymaniu tajemnicy co do osoby informującej.  
 § 3. List gończy podlega rozpowszechnieniu przez opublikowanie za pomocą Internetu, chyba że sąd lub prokurator postanowi inaczej.  
 § 4. Sąd lub prokurator, zależnie od potrzeby, może postanowić o rozpowszechnieniu listu gończego przez rozesłanie, rozplakatowanie lub opublikowanie, w szczególności za pomocą prasy, radia i telewizji.
@@ -1830,9 +1877,9 @@ Jeżeli miejsce pobytu oskarżonego lub osoby podejrzanej nie jest znane, zarzą
 
 **Art. 282.**  
 § 1. List żelazny zapewnia oskarżonemu pozostawanie na wolności aż do prawomocnego ukończenia postępowania, jeżeli oskarżony:  
-1) będzie się stawiał w oznaczonym terminie na wezwanie sądu, a w postępowaniu przygotowawczym – także na wezwanie prokuratora;  
-2) nie będzie się wydalał bez pozwolenia sądu z obranego miejsca pobytu w kraju;  
-3) nie będzie nakłaniał do fałszywych zeznań lub wyjaśnień albo w inny bezprawny sposób starał się utrudniać postępowanie karne.  
+1\) będzie się stawiał w oznaczonym terminie na wezwanie sądu, a w postępowaniu przygotowawczym – także na wezwanie prokuratora;  
+2\) nie będzie się wydalał bez pozwolenia sądu z obranego miejsca pobytu w kraju;  
+3\) nie będzie nakłaniał do fałszywych zeznań lub wyjaśnień albo w inny bezprawny sposób starał się utrudniać postępowanie karne.  
 § 2. W razie nieusprawiedliwionego niestawienia się oskarżonego na wezwanie lub naruszenia innych warunków wymienionych w § 1, właściwy miejscowo sąd okręgowy orzeka o odwołaniu listu żelaznego.  
 § 3. W postępowaniu przygotowawczym odwołanie listu żelaznego następuje na wniosek prokuratora.
 
@@ -1881,14 +1928,14 @@ Karę pieniężną należy uchylić, jeżeli ukarany dostatecznie usprawiedliwi 
 
 **Art. 291.**  
 § 1. W razie zarzucenia oskarżonemu popełnienia przestępstwa, za które lub w związku z którym można orzec:  
-1) grzywnę,  
-2) świadczenie pieniężne,  
-3) przepadek,  
-4) środek kompensacyjny,  
-5) zwrot pokrzywdzonemu lub innemu uprawnionemu podmiotowi korzyści majątkowej, jaką sprawca osiągnął z popełnionego przestępstwa, albo jej równowartości – może z urzędu nastąpić zabezpieczenie wykonania tego orzeczenia na mieniu oskarżonego lub na mieniu, o którym mowa w art. 45 § 2 Kodeksu karnego, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia będzie niemożliwe albo znacznie utrudnione.  
+1\) grzywnę,  
+2\) świadczenie pieniężne,  
+3\) przepadek,  
+4\) środek kompensacyjny,  
+5\) zwrot pokrzywdzonemu lub innemu uprawnionemu podmiotowi korzyści majątkowej, jaką sprawca osiągnął z popełnionego przestępstwa, albo jej równowartości – może z urzędu nastąpić zabezpieczenie wykonania tego orzeczenia na mieniu oskarżonego lub na mieniu, o którym mowa w art. 45 § 2 Kodeksu karnego, jeżeli zachodzi uzasadniona obawa, że bez takiego zabezpieczenia wykonanie orzeczenia będzie niemożliwe albo znacznie utrudnione.  
 § 2. W razie popełnienia przestępstwa, w związku z którym można orzec przepadek wskazany w § 1 pkt 3 lub zwrot wskazany w § 1 pkt 5, zabezpieczenie wykonania orzeczenia może nastąpić również:  
-1) na mieniu osoby fizycznej, o której mowa w art. 44a Kodeksu karnego, lub osoby fizycznej, prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, o której mowa w art. 45 § 3 Kodeksu karnego, lub na mieniu, które podlegałoby przepadkowi na podstawie art. 33 § 3 Kodeksu karnego skarbowego;  
-2) niezależnie od tego, czy wydano postanowienie o przedstawieniu zarzutów lub postawiono zarzut w związku z przystąpieniem do przesłuchania w charakterze podejrzanego – na mieniu, które podlegałoby:  
+1\) na mieniu osoby fizycznej, o której mowa w art. 44a Kodeksu karnego, lub osoby fizycznej, prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, o której mowa w art. 45 § 3 Kodeksu karnego, lub na mieniu, które podlegałoby przepadkowi na podstawie art. 33 § 3 Kodeksu karnego skarbowego;  
+2\) niezależnie od tego, czy wydano postanowienie o przedstawieniu zarzutów lub postawiono zarzut w związku z przystąpieniem do przesłuchania w charakterze podejrzanego – na mieniu, które podlegałoby:  
 a) przepadkowi lub zwrotowi na podstawie art. 45a § 1 lub 2 Kodeksu karnego oraz art. 43 § 1 lub 2 lub art. 43a Kodeksu karnego skarbowego,  
 b) przepadkowi lub zwrotowi na podstawie art. 44 Kodeksu karnego, jeżeli co do tego mienia na podstawie odrębnych przepisów zastosowano wstrzymanie transakcji lub blokadę rachunku;  
 c) przepadkowi pojazdu mechanicznego, o którym mowa w art. 44b Kodeksu karnego.  
@@ -1945,11 +1992,11 @@ Zabezpieczenie, o którym mowa w art. 292a § 1, może nastąpić również w st
 
 **Art. 297.**  
 § 1. Celem postępowania przygotowawczego jest:  
-1) ustalenie, czy został popełniony czyn zabroniony i czy stanowi on przestępstwo;  
-2) wykrycie i w razie potrzeby ujęcie sprawcy;  
-3) zebranie danych stosownie do art. 213 i 214;  
-4) wyjaśnienie okoliczności sprawy, w tym ustalenie osób pokrzywdzonych i rozmiarów szkody;  
-5) zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu.  
+1\) ustalenie, czy został popełniony czyn zabroniony i czy stanowi on przestępstwo;  
+2\) wykrycie i w razie potrzeby ujęcie sprawcy;  
+3\) zebranie danych stosownie do art. 213 i 214;  
+4\) wyjaśnienie okoliczności sprawy, w tym ustalenie osób pokrzywdzonych i rozmiarów szkody;  
+5\) zebranie, zabezpieczenie i w niezbędnym zakresie utrwalenie dowodów dla sądu.  
 § 2. (uchylony)
 
 **Art. 298.**  
@@ -1962,7 +2009,9 @@ Zabezpieczenie, o którym mowa w art. 292a § 1, może nastąpić również w st
 § 3. W czynnościach sądowych w postępowaniu przygotowawczym prokuratorowi przysługują prawa strony.
 
 **Art. 299a.**  
-§ 1. Podczas czynności z udziałem pokrzywdzonego w postępowaniu przygotowawczym może być obecna osoba przez niego wskazana, jeżeli nie uniemożliwia to przeprowadzenia czynności albo nie utrudnia jej w istotny sposób. [§ 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.] <§ 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z kopią prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.>
+§ 1. Podczas czynności z udziałem pokrzywdzonego w postępowaniu przygotowawczym może być obecna osoba przez niego wskazana, jeżeli nie uniemożliwia to przeprowadzenia czynności albo nie utrudnia jej w istotny sposób.  
+[§ 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z odpisem prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.]  
+<§ 2. Na wniosek pokrzywdzonego zgłoszony w postępowaniu przygotowawczym sąd powiadamia go o sposobie zakończenia sprawy listem zwykłym, przesłanym na wskazany przez pokrzywdzonego adres, za pośrednictwem telefaksu lub poczty elektronicznej wraz z kopią prawomocnego orzeczenia kończącego postępowanie w sprawie lub jego wyciągiem, które mogą być przesłane w postaci elektronicznej.>
 
 **Art. 299b.**  
 Podczas czynności z udziałem podejrzanego, który nie ukończył 18 lat, w postępowaniu przygotowawczym może być obecny jego przedstawiciel ustawowy lub osoba, pod której pieczą podejrzany pozostaje, chyba że udział tych osób może prowadzić do naruszenia praw lub interesów podejrzanego, jest niecelowy ze względu na jego dobro, uniemożliwia przeprowadzenie czynności albo utrudnia ją w istotny sposób. Jeżeli podejrzany nie posiada przedstawiciela ustawowego lub osoby, pod której pieczą pozostaje, albo jeżeli zaistniały okoliczności wyłączające udział w czynności tych osób, podejrzany może wskazać inną osobę pełnoletnią, chyba że udział tej osoby może prowadzić do naruszenia praw lub interesów podejrzanego, jest niecelowy ze względu na jego dobro, uniemożliwia przeprowadzenie czynności albo utrudnia ją w istotny sposób.
@@ -1974,8 +2023,11 @@ Podczas czynności z udziałem podejrzanego, który nie ukończył 18 lat, w pos
 § 3a. Osoby, o których mowa w § 1–3, nieporadne ze względu na wiek lub stan zdrowia, oraz które nie ukończyły 18 lat, mogą otrzymać dostęp do wyjaśnień co do zakresu ich uprawnień i obowiązków oraz sposobu i warunków przesłuchania. Wzory wyjaśnień umieszcza się także na stronie internetowej Ministerstwa Sprawiedliwości.  
 § 3b. Pouczenia, o których mowa w § 1–3, i wyjaśnienia, o których mowa w § 3a, mogą być opisowe lub graficzne.  
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzory pisemnych:  
-1) pouczeń, o których mowa w § 1–3, w tym odrębne dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;  
-2) wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby. <Art. 300a. Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>
+1\) pouczeń, o których mowa w § 1–3, w tym odrębne dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;  
+2\) wyjaśnień, o których mowa w § 3a, odrębne dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby.
+
+**Art. 300a.**  
+<Przed pierwszym przesłuchaniem podejrzanego, pokrzywdzonego lub świadka odbiera się od nich na piśmie albo zamieszcza w protokole przesłuchania oświadczenie o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody. Przed odebraniem oświadczenia osoby te należy pouczyć o skutkach procesowych wyrażenia zgody albo jej braku.>
 
 **Art. 301.**  
 Na żądanie podejrzanego należy przesłuchać go z udziałem ustanowionego obrońcy. Niestawiennictwo obrońcy nie tamuje przesłuchania.
@@ -1983,7 +2035,10 @@ Na żądanie podejrzanego należy przesłuchać go z udziałem ustanowionego obr
 **Art. 302.**  
 § 1. Osobom niebędącym stronami przysługuje zażalenie na postanowienia i zarządzenia naruszające ich prawa.  
 § 2. Stronom oraz osobom niebędącym stronami służy zażalenie na czynności inne niż postanowienia i zarządzenia naruszające ich prawa.  
-§ 3. Zażalenie na postanowienia i zarządzenia oraz na inne czynności prokuratora w postępowaniu przygotowawczym, o których mowa odpowiednio w § 1 i 2, rozpoznaje prokurator bezpośrednio przełożony. <Art. 302a. Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>
+§ 3. Zażalenie na postanowienia i zarządzenia oraz na inne czynności prokuratora w postępowaniu przygotowawczym, o których mowa odpowiednio w § 1 i 2, rozpoznaje prokurator bezpośrednio przełożony.
+
+**Art. 302a.**  
+<Przepis art. 100a stosuje się odpowiednio do aktu oskarżenia, wniosku o wydanie wyroku skazującego, wniosku o rozpoznanie sprawy w postępowaniu przyspieszonym, wniosku o warunkowe umorzenie postępowania, wniosku o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środka zabezpieczającego.>
 
 ## Rozdział 34: WSZCZĘCIE ŚLEDZTWA
 
@@ -2009,13 +2064,13 @@ Na wniosek pokrzywdzonego składającego zawiadomienie o przestępstwie wydaje m
 
 **Art. 306.**  
 § 1. Na postanowienie o odmowie wszczęcia śledztwa przysługuje zażalenie:  
-1) pokrzywdzonemu;  
-2) instytucji wymienionej w art. 305 § 4;  
-3) osobie wymienionej w art. 305 § 4, jeżeli wskutek przestępstwa doszło do naruszenia jej praw.  
+1\) pokrzywdzonemu;  
+2\) instytucji wymienionej w art. 305 § 4;  
+3\) osobie wymienionej w art. 305 § 4, jeżeli wskutek przestępstwa doszło do naruszenia jej praw.  
 § 1a. Na postanowienie o umorzeniu śledztwa przysługuje zażalenie:  
-1) stronom;  
-2) instytucji państwowej lub samorządowej, która złożyła zawiadomienie o przestępstwie;  
-3) osobie niebędącej pokrzywdzonym, która złożyła zawiadomienie o przestępstwie określonym w art. 228–231, art. 233, art. 235, art. 236, art. 245, art. 270–277, art. 278–294 lub w art. 296–306c Kodeksu karnego, jeżeli postępowanie karne wszczęto w wyniku jej zawiadomienia, a wskutek tego przestępstwa doszło do naruszenia jej praw.  
+1\) stronom;  
+2\) instytucji państwowej lub samorządowej, która złożyła zawiadomienie o przestępstwie;  
+3\) osobie niebędącej pokrzywdzonym, która złożyła zawiadomienie o przestępstwie określonym w art. 228–231, art. 233, art. 235, art. 236, art. 245, art. 270–277, art. 278–294 lub w art. 296–306c Kodeksu karnego, jeżeli postępowanie karne wszczęto w wyniku jej zawiadomienia, a wskutek tego przestępstwa doszło do naruszenia jej praw.  
 § 1b. Uprawnionym do złożenia zażalenia, o którym mowa w § 1 i 1a, przysługuje prawo przejrzenia akt. W celu przejrzenia akt prokurator może udostępnić akta w postaci elektronicznej.  
 § 2. (uchylony)  
 § 3. Jeżeli osoba lub instytucja, która złożyła zawiadomienie o przestępstwie, nie zostanie w ciągu 6 tygodni powiadomiona o wszczęciu albo odmowie wszczęcia śledztwa, może wnieść zażalenie do prokuratora nadrzędnego albo powołanego do nadzoru nad organem, któremu złożono zawiadomienie.
@@ -2039,11 +2094,11 @@ Na wniosek pokrzywdzonego składającego zawiadomienie o przestępstwie wydaje m
 
 **Art. 309.**  
 Śledztwo prowadzi się w sprawach:  
-1) w których rozpoznanie w pierwszej instancji należy do właściwości sądu okręgowego;  
-2) o występki – gdy osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa, Straży Marszałkowskiej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego;  
-3) o występki – gdy osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, w zakresie spraw należących do właściwości tych organów lub o występki popełnione przez tych funkcjonariuszy w związku z wykonywaniem czynności służbowych;  
-4) o występki, w których nie prowadzi się dochodzenia;  
-5) o występki, w których prowadzi się dochodzenie, jeżeli prokurator tak postanowi ze względu na wagę lub zawiłość sprawy.
+1\) w których rozpoznanie w pierwszej instancji należy do właściwości sądu okręgowego;  
+2\) o występki – gdy osobą podejrzaną jest sędzia, prokurator, funkcjonariusz Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Służby Ochrony Państwa, Straży Marszałkowskiej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego;  
+3\) o występki – gdy osobą podejrzaną jest funkcjonariusz Straży Granicznej, Żandarmerii Wojskowej, finansowego organu postępowania przygotowawczego lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, w zakresie spraw należących do właściwości tych organów lub o występki popełnione przez tych funkcjonariuszy w związku z wykonywaniem czynności służbowych;  
+4\) o występki, w których nie prowadzi się dochodzenia;  
+5\) o występki, w których prowadzi się dochodzenie, jeżeli prokurator tak postanowi ze względu na wagę lub zawiłość sprawy.
 
 **Art. 310.**  
 § 1. Śledztwo powinno być ukończone w ciągu 3 miesięcy.  
@@ -2060,8 +2115,8 @@ Na wniosek pokrzywdzonego składającego zawiadomienie o przestępstwie wydaje m
 
 **Art. 312.**  
 Uprawnienia Policji przysługują także:  
-1) organom Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Krajowej Administracji Skarbowej, Centralnego Biura Antykorupcyjnego oraz Żandarmerii Wojskowej, w zakresie ich właściwości;  
-2) innym organom przewidzianym w przepisach szczególnych.
+1\) organom Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Krajowej Administracji Skarbowej, Centralnego Biura Antykorupcyjnego oraz Żandarmerii Wojskowej, w zakresie ich właściwości;  
+2\) innym organom przewidzianym w przepisach szczególnych.
 
 **Art. 313.**  
 § 1. Jeżeli dane istniejące w chwili wszczęcia śledztwa lub zebrane w jego toku uzasadniają dostatecznie podejrzenie, że czyn popełniła określona osoba, wydaje się postanowienie o przedstawieniu zarzutów, ogłasza je niezwłocznie podejrzanemu i przesłuchuje się go, chyba że ogłoszenie postanowienia lub przesłuchanie podejrzanego nie jest możliwe z powodu jego ukrywania się lub nieobecności w kraju.  
@@ -2133,9 +2188,9 @@ Postanowienie o zawieszeniu śledztwa, jeżeli nie zostało wydane przez prokura
 
 **Art. 325b.**  
 § 1. Dochodzenie prowadzi się w sprawach o przestępstwa należące do właściwości sądu rejonowego:  
-1) zagrożone karą nieprzekraczającą 5 lat pozbawienia wolności, z tym że w wypadku przestępstw przeciwko mieniu tylko wówczas, gdy wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł;  
-2) przewidziane w art. 159, art. 254a i art. 262 § 2 Kodeksu karnego;  
-3) przewidziane w art. 278 § 3a, art. 279 § 1, art. 286 § 1 i 2 oraz w art. 289 § 2 Kodeksu karnego, jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł.  
+1\) zagrożone karą nieprzekraczającą 5 lat pozbawienia wolności, z tym że w wypadku przestępstw przeciwko mieniu tylko wówczas, gdy wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł;  
+2\) przewidziane w art. 159, art. 254a i art. 262 § 2 Kodeksu karnego;  
+3\) przewidziane w art. 278 § 3a, art. 279 § 1, art. 286 § 1 i 2 oraz w art. 289 § 2 Kodeksu karnego, jeżeli wartość przedmiotu przestępstwa albo szkoda wyrządzona lub grożąca nie przekracza 200 000 zł.  
 § 2. Spośród spraw o przestępstwa wymienione w § 1 pkt 1 nie prowadzi się dochodzenia w sprawach o przestępstwa określone w art. 155, art. 156 § 2, art. 157a § 1, art. 165 § 2, art. 168, art. 174 § 2, art. 175, art. 181–184, art. 186, art. 201, art. 231 § 1 i 3, art. 240 § 1, art. 250a § 1–3, art. 265 § 3 oraz w rozdziale XXXVI, z wyjątkiem art. 297 i art. 300, i rozdziale XXXVII Kodeksu karnego.
 
 **Art. 325c.** (uchylony)
@@ -2176,10 +2231,10 @@ Minister Sprawiedliwości w porozumieniu z właściwymi ministrami określi, w d
 § 1. Prokurator sprawuje nadzór nad postępowaniem przygotowawczym w zakresie, w jakim go sam nie prowadzi; prokurator może także objąć nadzorem postępowanie, o którym mowa w art. 307.  
 § 2. Prokurator jest obowiązany czuwać nad prawidłowym i sprawnym przebiegiem całego nadzorowanego przez siebie postępowania.  
 § 3. Z tytułu sprawowanego nadzoru prokurator może w szczególności:  
-1) zaznajamiać się z zamierzeniami prowadzącego postępowanie, wskazywać kierunki postępowania oraz wydawać co do tego zarządzenia;  
-2) żądać przedstawienia sobie materiałów zbieranych w toku postępowania;  
-3) uczestniczyć w czynnościach dokonywanych przez prowadzących postępowanie, osobiście je przeprowadzać albo przejąć sprawę do swego prowadzenia;  
-4) wydawać postanowienia, zarządzenia lub polecenia oraz zmieniać i uchylać postanowienia i zarządzenia wydane przez prowadzącego postępowanie.  
+1\) zaznajamiać się z zamierzeniami prowadzącego postępowanie, wskazywać kierunki postępowania oraz wydawać co do tego zarządzenia;  
+2\) żądać przedstawienia sobie materiałów zbieranych w toku postępowania;  
+3\) uczestniczyć w czynnościach dokonywanych przez prowadzących postępowanie, osobiście je przeprowadzać albo przejąć sprawę do swego prowadzenia;  
+4\) wydawać postanowienia, zarządzenia lub polecenia oraz zmieniać i uchylać postanowienia i zarządzenia wydane przez prowadzącego postępowanie.  
 § 4. W razie niewykonania przez organ niebędący prokuratorem postanowienia, zarządzenia lub polecenia wydanego przez prokuratora sprawującego nadzór, na jego żądanie przełożony funkcjonariusza wszczyna postępowanie służbowe; o wyniku postępowania informuje się prokuratora.
 
 **Art. 327.**  
@@ -2215,21 +2270,22 @@ Minister Sprawiedliwości w porozumieniu z właściwymi ministrami określi, w d
 
 **Art. 332.**  
 § 1. Akt oskarżenia powinien zawierać:  
-1) imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego; <1a) informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;>  
+1\) imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego;  
+<1a) informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;>  
 1b) numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo informację o niemożności jego ustalenia – w przypadku oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia 2019/816;  
 1c) numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, o ile oskarżyciel nim dysponuje – w przypadku oskarżonego będącego obywatelem państwa członkowskiego Unii Europejskiej, o którym mowa w art. 2 rozporządzenia 2019/816;  
-2) dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody;  
-3) wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego;  
-4) wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada;  
-5) wskazanie sądu właściwego do rozpoznania sprawy.  
-6) (uchylony)  
+2\) dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody;  
+3\) wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego;  
+4\) wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada;  
+5\) wskazanie sądu właściwego do rozpoznania sprawy.  
+6\) (uchylony)  
 § 2. Do aktu oskarżenia dołącza się jego uzasadnienie, przytaczające fakty i dowody, na których oskarżenie się opiera, a w miarę potrzeby wyjaśniające podstawę prawną oskarżenia i omawiające okoliczności, na które powołuje się oskarżony w swej obronie.  
 § 3. Jeżeli postępowanie przygotowawcze zakończyło się w formie dochodzenia, akt oskarżenia może nie zawierać uzasadnienia.
 
 **Art. 333.**  
 § 1. Akt oskarżenia powinien także zawierać:  
-1) listę osób, których wezwania oskarżyciel żąda;  
-2) wykaz innych dowodów, których przeprowadzenia na rozprawie głównej domaga się oskarżyciel.  
+1\) listę osób, których wezwania oskarżyciel żąda;  
+2\) wykaz innych dowodów, których przeprowadzenia na rozprawie głównej domaga się oskarżyciel.  
 § 2. Prokurator może wnieść o zaniechanie wezwania i odczytanie na rozprawie zeznań świadków, o których mowa w art. 350a.  
 § 3. Do aktu oskarżenia dołącza się, do wiadomości sądu, listę ujawnionych osób pokrzywdzonych z podaniem ich adresów, a także adresy osób, o których mowa w § 1 pkt 1. [Należy również podać numery telefonów, telefaksów i adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić.] <Należy również podać numery telefonów, telefaksów, adresy poczty elektronicznej osób wskazanych w zdaniu pierwszym, chyba że informacji tych nie można ustalić, oraz adresy do doręczeń elektronicznych, jeżeli osoby te wyraziły zgodę na dokonywanie doręczeń na ten adres.>  
 § 3a. Do aktu oskarżenia dołącza się listę pokrzywdzonych, którzy złożyli wnioski na podstawie art. 299a § 2.  
@@ -2239,7 +2295,9 @@ Minister Sprawiedliwości w porozumieniu z właściwymi ministrami określi, w d
 **Art. 334.**  
 § 1. Z aktem oskarżenia przesyła się sądowi akta postępowania przygotowawczego wraz z załącznikami.  
 § 2. Do aktu oskarżenia dołącza się także:  
-1) załącznik adresowy do akt sprawy; [2) po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.] <2) po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.>  
+1\) załącznik adresowy do akt sprawy;  
+[2) po jednym odpisie tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.]  
+<2) po jednej kopii tego aktu dla każdego oskarżonego, a w przypadku określonym w art. 335 § 2 także dla każdego pokrzywdzonego.>  
 § 2a. Odpisy aktu oskarżenia, o których mowa w § 2 pkt 2, mogą być przesłane sądowi w postaci elektronicznej, z wyłączeniem odpisów przeznaczonych dla adresatów, którzy w dniu przesłania sądowi aktu oskarżenia są pozbawieni wolności lub których adresu poczty elektronicznej nie ustalono.  
 § 3. O przesłaniu aktu oskarżenia do sądu oraz o treści przepisów art. 343, art. 343a i art. 378a oskarżyciel publiczny zawiadamia oskarżonego i ujawnionego pokrzywdzonego, a także osobę lub instytucję, która złożyła zawiadomienie o przestępstwie. Pokrzywdzonego należy pouczyć o treści przepisu art. 49a, a także o prawie do złożenia oświadczenia o działaniu w charakterze oskarżyciela posiłkowego.  
 § 4. O złożeniu wniosku, o którym mowa w art. 333 § 5, prokurator zawiadamia podmiot zobowiązany i podmiot uprawniony określone w art. 91a oraz poucza te podmioty o treści przepisów art. 91a, art. 415a i art. 444 § 2.
@@ -2275,8 +2333,11 @@ Minister Sprawiedliwości w porozumieniu z właściwymi ministrami określi, w d
 § 2. Jeżeli wnioski, o których mowa w § 1, złożyło tylu pokrzywdzonych, że ich indywidualne poinformowanie spowodowałoby poważne utrudnienie w prowadzeniu postępowania, informację zamieszcza się przez ogłoszenie na stronie internetowej sądu. W informacji wskazuje się sygnaturę akt sprawy, a nie podaje się danych osobowych zawartych w zarzutach.
 
 **Art. 338.**  
-[§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.] <§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.>  
-§ 1a. Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu. [§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.] <§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.>  
+[§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego odpisu oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.]  
+<§ 1. Jeżeli akt oskarżenia odpowiada warunkom formalnym, prezes sądu lub referendarz sądowy niezwłocznie zarządza doręczenie jego kopii oskarżonemu, wzywając do składania wniosków dowodowych w terminie 7 dni od daty doręczenia mu aktu oskarżenia.>  
+§ 1a. Oskarżonego poucza się również o treści przepisów art. 291 § 3, art. 338a, art. 338b, art. 341 § 1, art. 349 § 8 zdanie trzecie, art. 374, art. 376, art. 377 i art. 422 oraz o tym, że w zależności od wyniku procesu oskarżony może być obciążony kosztami wyznaczenia obrońcy z urzędu.  
+[§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego odpis doręcza się ujawnionemu pokrzywdzonemu.]  
+<§ 1b. Jeżeli złożono wniosek, o którym mowa w art. 335 § 1, albo akt oskarżenia zawiera wniosek, o którym mowa w art. 335 § 2, jego kopię doręcza się ujawnionemu pokrzywdzonemu.>  
 § 2. Oskarżony ma prawo wniesienia, w terminie 7 dni od doręczenia mu aktu oskarżenia, pisemnej odpowiedzi na akt oskarżenia, o czym należy go pouczyć.  
 § 3. [Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się odpis aktu oskarżenia bez uzasadnienia.] <Jeżeli zachodzi niebezpieczeństwo ujawnienia informacji niejawnych o klauzuli „tajne” lub „ściśle tajne”, oskarżonemu doręcza się kopię aktu oskarżenia bez uzasadnienia.> Uzasadnienie aktu oskarżenia udostępnia się jednak z zachowaniem rygorów określonych przez prezesa sądu lub sąd.  
 § 4. Odpis aktu oskarżenia w postaci elektronicznej doręcza się na adres poczty elektronicznej. Art. 132 § 3 zdanie drugie stosuje się.  
@@ -2293,22 +2354,22 @@ Oskarżony, któremu zarzucono przestępstwo zagrożone karą nieprzekraczając�
 
 **Art. 339.**  
 § 1. Prezes sądu kieruje sprawę na posiedzenie, jeżeli:  
-1) prokurator złożył wniosek o orzeczenie środków zabezpieczających;  
-2) zachodzi potrzeba rozważenia kwestii warunkowego umorzenia postępowania;  
-3) do aktu oskarżenia dołączono wniosek, o którym mowa w art. 335 § 2;  
+1\) prokurator złożył wniosek o orzeczenie środków zabezpieczających;  
+2\) zachodzi potrzeba rozważenia kwestii warunkowego umorzenia postępowania;  
+3\) do aktu oskarżenia dołączono wniosek, o którym mowa w art. 335 § 2;  
 3a) prokurator złożył wniosek, o którym mowa w art. 335 § 1.  
-4) (uchylony)  
-5) (uchylony)  
+4\) (uchylony)  
+5\) (uchylony)  
 § 2. (uchylony)  
 § 3. Prezes sądu kieruje sprawę na posiedzenie także wtedy, gdy zachodzi potrzeba innego rozstrzygnięcia przekraczającego jego uprawnienia, a zwłaszcza:  
-1) umorzenia postępowania na podstawie art. 17 § 1 pkt 2–11;  
-2) umorzenia postępowania z powodu oczywistego braku faktycznych podstaw oskarżenia;  
-3) wydania postanowienia o niewłaściwości sądu;  
+1\) umorzenia postępowania na podstawie art. 17 § 1 pkt 2–11;  
+2\) umorzenia postępowania z powodu oczywistego braku faktycznych podstaw oskarżenia;  
+3\) wydania postanowienia o niewłaściwości sądu;  
 3a) zwrotu sprawy prokuratorowi w celu usunięcia istotnych braków postępowania przygotowawczego;  
-4) (uchylony)  
-5) wydania postanowienia o zawieszeniu postępowania;  
-6) wydania postanowienia w przedmiocie tymczasowego aresztowania lub innego środka przymusu;  
-7) wydania wyroku nakazowego.  
+4\) (uchylony)  
+5\) wydania postanowienia o zawieszeniu postępowania;  
+6\) wydania postanowienia w przedmiocie tymczasowego aresztowania lub innego środka przymusu;  
+7\) wydania wyroku nakazowego.  
 § 3a. Prezes sądu może skierować sprawę na posiedzenie, jeżeli oskarżony, któremu zarzucono przestępstwo zagrożone karą nieprzekraczającą 15 lat pozbawienia wolności, przed doręczeniem mu zawiadomienia o wyznaczeniu rozprawy złożył wniosek, o którym mowa w art. 338a, a prezes sądu uzna, że cele postępowania nie sprzeciwiają się rozpoznaniu sprawy na posiedzeniu.  
 § 3b. Jeżeli akt oskarżenia pochodzi od oskarżyciela posiłkowego, prezes sądu na wniosek oskarżonego kieruje sprawę na posiedzenie w celu rozstrzygnięcia, czy zachodzi potrzeba umorzenia postępowania na podstawie art. 17 § 1 pkt 9.  
 § 4. Prezes sądu kieruje sprawę na posiedzenie ponadto, gdy zachodzi potrzeba rozważenia możliwości przekazania jej do postępowania mediacyjnego; przepis art. 23a stosuje się odpowiednio.  
@@ -2392,9 +2453,9 @@ Rozprawę należy wyznaczyć i przeprowadzić bez nieuzasadnionej zwłoki.
 **Art. 350.**  
 § 1. W sprawach, w których nie wyznaczono posiedzenia, o którym mowa w art. 349, prezes sądu wydaje pisemne zarządzenie wskazujące sędziego albo członków składu orzekającego.  
 § 2. Przewodniczący składu orzekającego wydaje pisemne zarządzenie o wyznaczeniu rozprawy głównej, w którym wskazuje:  
-1) dzień, godzinę i salę rozpraw;  
-2) strony i inne osoby, które należy wezwać na rozprawę lub zawiadomić o jej terminie;  
-3) inne czynności konieczne do przygotowania rozprawy.  
+1\) dzień, godzinę i salę rozpraw;  
+2\) strony i inne osoby, które należy wezwać na rozprawę lub zawiadomić o jej terminie;  
+3\) inne czynności konieczne do przygotowania rozprawy.  
 § 3. Co do oskarżonego pozbawionego wolności należy wydać zarządzenie o doprowadzeniu go na rozprawę w celu udziału w czynnościach, o których mowa w art. 374 § 1a, a także jeśli złożył on wniosek, o którym mowa w art. 353 § 3, albo gdy jego obecność na rozprawie została uznana za obowiązkową.  
 § 4. O terminie i miejscu rozprawy głównej zawiadamia się pokrzywdzonego.
 
@@ -2416,15 +2477,15 @@ Przewodniczący składu orzekającego po rozważeniu wniosków stron albo sąd z
 
 **Art. 354.**  
 W wypadku wniosku prokuratora o umorzenie postępowania z powodu niepoczytalności sprawcy i o zastosowanie środków zabezpieczających stosuje się odpowiednio przepisy niniejszego rozdziału z następującymi zmianami:  
-1) nie stosuje się przepisów o oskarżycielu posiłkowym;  
-2) wniosek kieruje się na rozprawę, chyba że w świetle materiałów postępowania przygotowawczego popełnienie czynu zabronionego przez podejrzanego i jego niepoczytalność w chwili czynu nie budzą wątpliwości, a prezes sądu uzna za celowe rozpoznanie sprawy na posiedzeniu z udziałem prokuratora, obrońcy i podejrzanego; podejrzany nie bierze udziału w posiedzeniu, jeżeli z opinii biegłych wynika, że byłoby to niewskazane, chyba że sąd uzna jego udział za konieczny; pokrzywdzony ma prawo wziąć udział w posiedzeniu;  
-3) w razie umorzenia postępowania stosuje się art. 322 § 2 i 3.
+1\) nie stosuje się przepisów o oskarżycielu posiłkowym;  
+2\) wniosek kieruje się na rozprawę, chyba że w świetle materiałów postępowania przygotowawczego popełnienie czynu zabronionego przez podejrzanego i jego niepoczytalność w chwili czynu nie budzą wątpliwości, a prezes sądu uzna za celowe rozpoznanie sprawy na posiedzeniu z udziałem prokuratora, obrońcy i podejrzanego; podejrzany nie bierze udziału w posiedzeniu, jeżeli z opinii biegłych wynika, że byłoby to niewskazane, chyba że sąd uzna jego udział za konieczny; pokrzywdzony ma prawo wziąć udział w posiedzeniu;  
+3\) w razie umorzenia postępowania stosuje się art. 322 § 2 i 3.
 
 **Art. 354a.**  
 § 1. Przed orzeczeniem środka zabezpieczającego, o którym mowa w art. 93a § 1 Kodeksu karnego, albo nakazu lub zakazów, o których mowa w art. 39 pkt 2–3 Kodeksu karnego, orzeczonych tytułem środka zabezpieczającego, sąd wysłuchuje:  
-1) biegłego psychologa;  
-2) w sprawach osób niepoczytalnych, o ograniczonej poczytalności lub z zaburzeniami osobowości albo gdy sąd uzna to za wskazane – ponadto biegłych lekarzy psychiatrów;  
-3) w sprawach osób z zaburzeniami preferencji seksualnych – biegłych wskazanych w pkt 1 i 2 oraz biegłego lekarza seksuologa lub biegłego psychologa seksuologa. W sprawach osób uzależnionych można również wysłuchać biegłego w przedmiocie uzależnienia.  
+1\) biegłego psychologa;  
+2\) w sprawach osób niepoczytalnych, o ograniczonej poczytalności lub z zaburzeniami osobowości albo gdy sąd uzna to za wskazane – ponadto biegłych lekarzy psychiatrów;  
+3\) w sprawach osób z zaburzeniami preferencji seksualnych – biegłych wskazanych w pkt 1 i 2 oraz biegłego lekarza seksuologa lub biegłego psychologa seksuologa. W sprawach osób uzależnionych można również wysłuchać biegłego w przedmiocie uzależnienia.  
 § 2. Jeżeli sprawca, wobec którego istnieją podstawy do orzeczenia terapii lub terapii uzależnień, wyraża zgodę na taką terapię lub terapię uzależnień, przepisu § 1 nie stosuje się; sąd może jednak, jeżeli uzna to za wskazane, wysłuchać jednego lub więcej biegłych wskazanych w tym przepisie.
 
 ## Rozdział 42: JAWNOŚĆ ROZPRAWY GŁÓWNEJ
@@ -2449,18 +2510,18 @@ Jeżeli nie przemawia przeciw temu wzgląd na prawidłowość postępowania, są
 
 **Art. 359.**  
 Niejawna jest rozprawa, która dotyczy:  
-1) wniosku prokuratora o umorzenie postępowania z powodu niepoczytalności sprawcy i zastosowanie środka zabezpieczającego;  
-2) sprawy o pomówienie lub znieważenie; na wniosek pokrzywdzonego rozprawa odbywa się jednak jawnie.
+1\) wniosku prokuratora o umorzenie postępowania z powodu niepoczytalności sprawcy i zastosowanie środka zabezpieczającego;  
+2\) sprawy o pomówienie lub znieważenie; na wniosek pokrzywdzonego rozprawa odbywa się jednak jawnie.
 
 **Art. 360.**  
 § 1. Sąd może wyłączyć jawność rozprawy w całości albo w części:  
-1) jeżeli jawność mogłaby:  
+1\) jeżeli jawność mogłaby:  
 a) wywołać zakłócenie spokoju publicznego,  
 b) obrażać dobre obyczaje,  
 c) ujawnić okoliczności, które ze względu na ważny interes państwa powinny być zachowane w tajemnicy,  
 d) naruszyć ważny interes prywatny;  
-2) jeżeli choćby jeden z oskarżonych nie ukończył 18 lat lub na czas przesłuchania świadka, który nie ukończył 15 lat;  
-3) na żądanie osoby, która złożyła wniosek o ściganie.  
+2\) jeżeli choćby jeden z oskarżonych nie ukończył 18 lat lub na czas przesłuchania świadka, który nie ukończył 15 lat;  
+3\) na żądanie osoby, która złożyła wniosek o ściganie.  
 § 2. Jeżeli prokurator sprzeciwi się wyłączeniu jawności, rozprawa odbywa się jawnie.
 
 **Art. 361.**  
@@ -2647,8 +2708,8 @@ W warunkach określonych w art. 389 § 1 i 3, art. 391 § 1 i 2, art. 392 i art.
 § 1. Dane dotyczące osoby oskarżonego oraz wyniki wywiadu środowiskowego odczytuje się na żądanie oskarżonego lub obrońcy.  
 § 1a. (uchylony)  
 § 2. Protokoły i dokumenty podlegające odczytaniu na rozprawie odczytuje się:  
-1) na wniosek strony, która nie miała możliwości zapoznania się z ich treścią; przepis art. 392 § 2 stosuje się odpowiednio, lub  
-2) gdy sąd uzna to za niezbędne.
+1\) na wniosek strony, która nie miała możliwości zapoznania się z ich treścią; przepis art. 392 § 2 stosuje się odpowiednio, lub  
+2\) gdy sąd uzna to za niezbędne.
 
 **Art. 394a.**  
 Protokoły i dokumenty, o których mowa w art. 389 § 1 i 3, art. 391 § 1 i 2, art. 392 § 1, art. 393, art. 393a i art. 394 § 1, odczytuje przewodniczący lub na jego zarządzenie członek składu orzekającego bądź protokolant.
@@ -2717,18 +2778,18 @@ Orzeczenia zapadające w czasie przerwy w rozprawie wydaje się w składzie rozp
 § 4. Jeżeli w sprawie rozpoznawanej w składzie jednego sędziego przeprowadzone dowody pozwalają na rozstrzygnięcie w przedmiocie odpowiedzialności karnej jednego lub niektórych oskarżonych, przepisu § 1 nie stosuje się, a przepisy § 2 i 3 stosuje się odpowiednio.  
 § 5. Do postępowania po zamknięciu przewodu sądowego, o którym mowa w § 3, art. 406 oraz przepisy rozdziału 47 stosuje się odpowiednio, z tym że w przypadku, o którym mowa w art. 411 § 2, rozprawę prowadzi się w dalszym ciągu w odniesieniu do wszystkich oskarżonych.  
 § 6. Przepisów § 1–4 nie stosuje się, jeżeli:  
-1) oskarżonemu, o którym mowa w § 1, zarzucono popełnienie przestępstwa w warunkach przestępczego współdziałania z oskarżonym nieobjętym zakresem narady wstępnej;  
-2) czyn oskarżonego, o którym mowa w § 1, pozostaje z czynem zarzucanym innemu oskarżonemu w takim związku, że rozstrzygnięcie w przedmiocie jego odpowiedzialności karnej wywarłoby wpływ na ustalenia w przedmiocie odpowiedzialności karnej oskarżonego nieobjętego zakresem narady wstępnej;  
-3) wyrokiem częściowym nie mogą zostać objęte wszystkie czyny zarzucane oskarżonemu, o którym mowa w § 1;  
-4) wydanie wyroku częściowego uniemożliwiłoby pokrzywdzonemu realizację jego uprawnień.
+1\) oskarżonemu, o którym mowa w § 1, zarzucono popełnienie przestępstwa w warunkach przestępczego współdziałania z oskarżonym nieobjętym zakresem narady wstępnej;  
+2\) czyn oskarżonego, o którym mowa w § 1, pozostaje z czynem zarzucanym innemu oskarżonemu w takim związku, że rozstrzygnięcie w przedmiocie jego odpowiedzialności karnej wywarłoby wpływ na ustalenia w przedmiocie odpowiedzialności karnej oskarżonego nieobjętego zakresem narady wstępnej;  
+3\) wyrokiem częściowym nie mogą zostać objęte wszystkie czyny zarzucane oskarżonemu, o którym mowa w § 1;  
+4\) wydanie wyroku częściowego uniemożliwiłoby pokrzywdzonemu realizację jego uprawnień.
 
 **Art. 405.**  
 § 1. Po przeprowadzeniu dowodów dopuszczonych w sprawie przewodniczący zapytuje strony, czy wnoszą o uzupełnienie postępowania dowodowego i w razie odpowiedzi przeczącej – zamyka przewód sądowy.  
 § 2. Z chwilą zamknięcia przewodu sądowego ujawnione są bez odczytywania wszystkie protokoły i dokumenty podlegające odczytaniu na rozprawie, które nie zostały odczytane.  
 § 3. Protokołami i dokumentami, o których mowa w § 2, są protokoły i dokumenty:  
-1) wskazane przez oskarżyciela w akcie oskarżenia jako dowody, których przeprowadzenia na rozprawie głównej się on domaga, z wyjątkiem tych, co do których sąd oddalił wniosek dowodowy;  
-2) wskazane we wniosku dowodowym strony, który został uwzględniony;  
-3) dopuszczone przez sąd z urzędu.  
+1\) wskazane przez oskarżyciela w akcie oskarżenia jako dowody, których przeprowadzenia na rozprawie głównej się on domaga, z wyjątkiem tych, co do których sąd oddalił wniosek dowodowy;  
+2\) wskazane we wniosku dowodowym strony, który został uwzględniony;  
+3\) dopuszczone przez sąd z urzędu.  
 § 4. O ujawnieniu bez odczytywania protokołów i dokumentów zamieszcza się wzmiankę w protokole rozprawy. Wskazywanie poszczególnych protokołów i dokumentów nie jest konieczne.
 
 ## Rozdział 46: GŁOSY KOŃCOWE
@@ -2760,15 +2821,15 @@ Niezwłocznie po ukończeniu głosowania sąd sporządza wyrok na piśmie.
 
 **Art. 413.**  
 § 1. Każdy wyrok powinien zawierać:  
-1) oznaczenie sądu, który go wydał, oraz sędziów, ławników, oskarżycieli i protokolanta;  
-2) datę oraz miejsce rozpoznania sprawy i wydania wyroku;  
-3) imię, nazwisko oraz inne dane określające tożsamość oskarżonego;  
-4) przytoczenie opisu i kwalifikacji prawnej czynu, którego popełnienie oskarżyciel zarzucił oskarżonemu;  
-5) rozstrzygnięcie sądu;  
-6) wskazanie zastosowanych przepisów ustawy karnej.  
+1\) oznaczenie sądu, który go wydał, oraz sędziów, ławników, oskarżycieli i protokolanta;  
+2\) datę oraz miejsce rozpoznania sprawy i wydania wyroku;  
+3\) imię, nazwisko oraz inne dane określające tożsamość oskarżonego;  
+4\) przytoczenie opisu i kwalifikacji prawnej czynu, którego popełnienie oskarżyciel zarzucił oskarżonemu;  
+5\) rozstrzygnięcie sądu;  
+6\) wskazanie zastosowanych przepisów ustawy karnej.  
 § 2. Wyrok skazujący powinien ponadto zawierać:  
-1) dokładne określenie przypisanego oskarżonemu czynu oraz jego kwalifikację prawną;  
-2) rozstrzygnięcia co do kary i środków karnych, środków kompensacyjnych i przepadku, a w razie potrzeby – co do zaliczenia na ich poczet okresów wskazanych w art. 63 Kodeksu karnego.  
+1\) dokładne określenie przypisanego oskarżonemu czynu oraz jego kwalifikację prawną;  
+2\) rozstrzygnięcia co do kary i środków karnych, środków kompensacyjnych i przepadku, a w razie potrzeby – co do zaliczenia na ich poczet okresów wskazanych w art. 63 Kodeksu karnego.  
 § 3. Jeżeli zgłoszono zdanie odrębne, wyrok powinien również zawierać wzmiankę, o której mowa w art. 114 § 1.
 
 **Art. 414.**  
@@ -2831,8 +2892,8 @@ Osobie niebędącej oskarżonym, która zgłasza roszczenie do mienia objętego 
 
 **Art. 424.**  
 § 1. Uzasadnienie powinno zawierać zwięzłe:  
-1) wskazanie, jakie fakty sąd uznał za udowodnione lub nieudowodnione, na jakich w tej mierze oparł się dowodach i dlaczego nie uznał dowodów przeciwnych;  
-2) wyjaśnienie podstawy prawnej wyroku.  
+1\) wskazanie, jakie fakty sąd uznał za udowodnione lub nieudowodnione, na jakich w tej mierze oparł się dowodach i dlaczego nie uznał dowodów przeciwnych;  
+2\) wyjaśnienie podstawy prawnej wyroku.  
 § 2. W uzasadnieniu wyroku należy ponadto przytoczyć okoliczności, które sąd miał na względzie przy wymiarze kary, a zwłaszcza przy zastosowaniu nadzwyczajnego złagodzenia kary, środków zabezpieczających oraz przy innych rozstrzygnięciach zawartych w wyroku.  
 § 3. W wypadku złożenia wniosku o uzasadnienie wyroku jedynie co do rozstrzygnięcia o karze i o innych konsekwencjach prawnych czynu albo o uzasadnienie wyroku wydanego w trybie art. 343, art. 343a lub art. 387 uzasadnienie powinno zawierać co najmniej wyjaśnienie podstawy prawnej tego wyroku oraz wskazanych rozstrzygnięć.
 
@@ -2885,9 +2946,9 @@ Cofnięty środek odwoławczy sąd odwoławczy pozostawia bez rozpoznania, chyba
 
 **Art. 434.**  
 § 1. Sąd odwoławczy może orzec na niekorzyść oskarżonego jedynie:  
-1) wtedy, gdy wniesiono na jego niekorzyść środek odwoławczy, oraz  
-2) w granicach zaskarżenia, chyba że ustawa nakazuje wydanie orzeczenia niezależnie od granic zaskarżenia, oraz  
-3) w razie stwierdzenia uchybień podniesionych w środku odwoławczym, chyba że środek odwoławczy nie pochodzi od oskarżyciela publicznego lub pełnomocnika i nie podniesiono w nim zarzutów albo ustawa nakazuje wydanie orzeczenia niezależnie od podniesionych zarzutów.  
+1\) wtedy, gdy wniesiono na jego niekorzyść środek odwoławczy, oraz  
+2\) w granicach zaskarżenia, chyba że ustawa nakazuje wydanie orzeczenia niezależnie od granic zaskarżenia, oraz  
+3\) w razie stwierdzenia uchybień podniesionych w środku odwoławczym, chyba że środek odwoławczy nie pochodzi od oskarżyciela publicznego lub pełnomocnika i nie podniesiono w nim zarzutów albo ustawa nakazuje wydanie orzeczenia niezależnie od podniesionych zarzutów.  
 § 2. Środek odwoławczy wniesiony na niekorzyść oskarżonego może spowodować orzeczenie także na korzyść oskarżonego, jeżeli zachodzą przesłanki określone w art. 440 lub art. 455.  
 § 3. (uchylony)  
 § 4. W przypadku skazania z zastosowaniem art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego sąd odwoławczy może orzec na niekorzyść oskarżonego, i to niezależnie od granic zaskarżenia i podniesionych zarzutów, także wówczas, jeżeli środek odwoławczy wniesiono wyłącznie na korzyść oskarżonego, który po wydaniu wyroku odwołał lub w istotny sposób zmienił swoje wyjaśnienia lub zeznania. Nie dotyczy to jednak przypadku zasadnego podniesienia zarzutu obrazy prawa materialnego lub stwierdzenia przez sąd odwoławczy okoliczności uzasadniających uchylenie orzeczenia, określonych w art. 439 § 1.  
@@ -2905,25 +2966,25 @@ Sąd może ograniczyć rozpoznanie środka odwoławczego tylko do poszczególnyc
 
 **Art. 438.**  
 Orzeczenie ulega uchyleniu lub zmianie w razie stwierdzenia:  
-1) obrazy przepisów prawa materialnego w zakresie kwalifikacji prawnej czynu przypisanego oskarżonemu;  
+1\) obrazy przepisów prawa materialnego w zakresie kwalifikacji prawnej czynu przypisanego oskarżonemu;  
 1a) obrazy przepisów prawa materialnego w innym wypadku niż wskazany w pkt 1, chyba że pomimo błędnej podstawy prawnej orzeczenie odpowiada prawu;  
-2) obrazy przepisów postępowania, jeżeli mogła ona mieć wpływ na treść orzeczenia;  
-3) błędu w ustaleniach faktycznych przyjętych za podstawę orzeczenia, jeżeli mógł on mieć wpływ na treść tego orzeczenia;  
-4) rażącej niewspółmierności kary, środka karnego, nawiązki lub niesłusznego zastosowania albo niezastosowania środka zabezpieczającego, przepadku lub innego środka.
+2\) obrazy przepisów postępowania, jeżeli mogła ona mieć wpływ na treść orzeczenia;  
+3\) błędu w ustaleniach faktycznych przyjętych za podstawę orzeczenia, jeżeli mógł on mieć wpływ na treść tego orzeczenia;  
+4\) rażącej niewspółmierności kary, środka karnego, nawiązki lub niesłusznego zastosowania albo niezastosowania środka zabezpieczającego, przepadku lub innego środka.
 
 **Art. 439.**  
 § 1. Niezależnie od granic zaskarżenia i podniesionych zarzutów oraz wpływu uchybienia na treść orzeczenia sąd odwoławczy na posiedzeniu uchyla zaskarżone orzeczenie, jeżeli:  
-1) w wydaniu orzeczenia brała udział osoba nieuprawniona lub niezdolna do orzekania bądź podlegająca wyłączeniu na podstawie art. 40;  
-2) sąd był nienależycie obsadzony lub którykolwiek z jego członków nie był obecny na całej rozprawie, z wyjątkiem wypadków, gdy wynika to z prowadzenia w dalszym ciągu na podstawie art. 402 § 2a lub art. 404 § 2a rozprawy przerwanej lub odroczonej;  
-3) sąd powszechny orzekł w sprawie należącej do właściwości sądu szczególnego albo sąd szczególny orzekł w sprawie należącej do właściwości sądu powszechnego;  
-4) sąd niższego rzędu orzekł w sprawie należącej do właściwości sądu wyższego rzędu;  
-5) orzeczono karę, środek karny, środek kompensacyjny lub środek zabezpieczający nieznane ustawie;  
-6) zapadło z naruszeniem zasady większości głosów lub nie zostało podpisane przez którąkolwiek z osób biorących udział w jego wydaniu;  
-7) zachodzi sprzeczność w treści orzeczenia, uniemożliwiająca jego wykonanie;  
-8) zostało wydane pomimo to, że postępowanie karne co do tego samego czynu tej samej osoby zostało już prawomocnie zakończone;  
-9) zachodzi jedna z okoliczności wyłączających postępowanie, określonych w art. 17 § 1 pkt 5, 6 i 8–11;  
-10) oskarżony w postępowaniu sądowym nie miał obrońcy w wypadkach określonych w art. 79 § 1 i 2 oraz art. 80 lub obrońca nie brał udziału w czynnościach, w których jego udział był obowiązkowy;  
-11) sprawę rozpoznano podczas nieobecności oskarżonego, którego obecność była obowiązkowa.  
+1\) w wydaniu orzeczenia brała udział osoba nieuprawniona lub niezdolna do orzekania bądź podlegająca wyłączeniu na podstawie art. 40;  
+2\) sąd był nienależycie obsadzony lub którykolwiek z jego członków nie był obecny na całej rozprawie, z wyjątkiem wypadków, gdy wynika to z prowadzenia w dalszym ciągu na podstawie art. 402 § 2a lub art. 404 § 2a rozprawy przerwanej lub odroczonej;  
+3\) sąd powszechny orzekł w sprawie należącej do właściwości sądu szczególnego albo sąd szczególny orzekł w sprawie należącej do właściwości sądu powszechnego;  
+4\) sąd niższego rzędu orzekł w sprawie należącej do właściwości sądu wyższego rzędu;  
+5\) orzeczono karę, środek karny, środek kompensacyjny lub środek zabezpieczający nieznane ustawie;  
+6\) zapadło z naruszeniem zasady większości głosów lub nie zostało podpisane przez którąkolwiek z osób biorących udział w jego wydaniu;  
+7\) zachodzi sprzeczność w treści orzeczenia, uniemożliwiająca jego wykonanie;  
+8\) zostało wydane pomimo to, że postępowanie karne co do tego samego czynu tej samej osoby zostało już prawomocnie zakończone;  
+9\) zachodzi jedna z okoliczności wyłączających postępowanie, określonych w art. 17 § 1 pkt 5, 6 i 8–11;  
+10\) oskarżony w postępowaniu sądowym nie miał obrońcy w wypadkach określonych w art. 79 § 1 i 2 oraz art. 80 lub obrońca nie brał udziału w czynnościach, w których jego udział był obowiązkowy;  
+11\) sprawę rozpoznano podczas nieobecności oskarżonego, którego obecność była obowiązkowa.  
 § 2. Uchylenie orzeczenia jedynie z powodów określonych w § 1 pkt 9–11 może nastąpić tylko na korzyść oskarżonego.  
 § 3. W posiedzeniu mają prawo wziąć udział strony, obrońcy i pełnomocnicy. Przepis art. 451 stosuje się odpowiednio.
 
@@ -3001,8 +3062,8 @@ Sąd odwoławczy, na wniosek oskarżonego pozbawionego wolności złożony w ter
 **Art. 452.**  
 § 1. (uchylony)  
 § 2. Sąd odwoławczy oddala wniosek dowodowy również, jeżeli:  
-1) przeprowadzenie dowodu przez ten sąd byłoby niecelowe z przyczyn określonych w art. 437 § 2 zdanie drugie;  
-2) dowód nie był powołany przed sądem pierwszej instancji, pomimo że składający wniosek mógł go wówczas powołać, lub okoliczność, która ma być udowodniona, dotyczy nowego faktu, niebędącego przedmiotem postępowania przed sądem pierwszej instancji, a składający wniosek mógł go wówczas wskazać.  
+1\) przeprowadzenie dowodu przez ten sąd byłoby niecelowe z przyczyn określonych w art. 437 § 2 zdanie drugie;  
+2\) dowód nie był powołany przed sądem pierwszej instancji, pomimo że składający wniosek mógł go wówczas powołać, lub okoliczność, która ma być udowodniona, dotyczy nowego faktu, niebędącego przedmiotem postępowania przed sądem pierwszej instancji, a składający wniosek mógł go wówczas wskazać.  
 § 3. Wniosku dowodowego nie można oddalić na podstawie § 2 pkt 2, jeżeli okoliczność, która ma być udowodniona, w granicach rozpoznania sprawy przez sąd odwoławczy, ma istotne znaczenie dla ustalenia, czy został popełniony czyn zabroniony, czy stanowi on przestępstwo i jakie, czy czyn zabroniony został popełniony w warunkach, o których mowa w art. 64 lub art. 65 Kodeksu karnego, lub czy zachodzą warunki do orzeczenia pobytu w zakładzie psychiatrycznym na podstawie art. 93g Kodeksu karnego.
 
 **Art. 453.**  
@@ -3148,9 +3209,9 @@ Przepisy art. 492–494 stosuje się odpowiednio również na rozprawie.
 
 **Art. 501.**  
 Wydanie wyroku nakazowego jest niedopuszczalne:  
-1) (uchylony)  
-2) w sprawie z oskarżenia prywatnego;  
-3) jeżeli zachodzą okoliczności, o których mowa w art. 79 § 1.
+1\) (uchylony)  
+2\) w sprawie z oskarżenia prywatnego;  
+3\) jeżeli zachodzą okoliczności, o których mowa w art. 79 § 1.
 
 **Art. 502.**  
 § 1. Wyrokiem nakazowym można orzec karę ograniczenia wolności lub grzywnę w wysokości do 200 stawek dziennych albo do 200 000 złotych.  
@@ -3161,11 +3222,11 @@ Wydanie wyroku nakazowego jest niedopuszczalne:
 
 **Art. 504.**  
 § 1. Wyrok nakazowy powinien zawierać:  
-1) oznaczenie sądu i sędziego, który go wydał;  
-2) datę wydania wyroku;  
-3) imię i nazwisko oraz inne dane określające tożsamość oskarżonego;  
-4) dokładne określenie czynu przypisanego przez sąd oskarżonemu, ze wskazaniem zastosowanych przepisów ustawy karnej;  
-5) wymiar kary i inne niezbędne rozstrzygnięcia.  
+1\) oznaczenie sądu i sędziego, który go wydał;  
+2\) datę wydania wyroku;  
+3\) imię i nazwisko oraz inne dane określające tożsamość oskarżonego;  
+4\) dokładne określenie czynu przypisanego przez sąd oskarżonemu, ze wskazaniem zastosowanych przepisów ustawy karnej;  
+5\) wymiar kary i inne niezbędne rozstrzygnięcia.  
 § 2. Wyrok nakazowy może nie zawierać uzasadnienia.
 
 **Art. 505.**  
@@ -3284,8 +3345,8 @@ Kasację w stosunku do tego samego oskarżonego i od tego samego orzeczenia każ
 § 2. Kasację na korzyść można wnieść jedynie w razie skazania oskarżonego za przestępstwo lub przestępstwo skarbowe na karę pozbawienia wolności bez warunkowego zawieszenia jej wykonania.  
 § 3. Kasację na niekorzyść można wnieść jedynie w razie uniewinnienia oskarżonego albo umorzenia postępowania.  
 § 4. Ograniczenia przewidziane w § 2 i 3 nie dotyczą kasacji:  
-1) wniesionej z powodu uchybień wymienionych w art. 439;  
-2) w wypadku określonym w art. 521.
+1\) wniesionej z powodu uchybień wymienionych w art. 439;  
+2\) w wypadku określonym w art. 521.
 
 **Art. 524.**  
 § 1. Termin do wniesienia kasacji dla stron wynosi 30 dni od daty doręczenia orzeczenia z uzasadnieniem. Wniosek o doręczenie orzeczenia z uzasadnieniem należy zgłosić w sądzie, który wydał orzeczenie, w terminie zawitym 7 dni od daty ogłoszenia orzeczenia, a jeżeli ustawa przewiduje doręczenie orzeczenia, od daty jego doręczenia. Przepis art. 445 § 2 stosuje się odpowiednio.  
@@ -3309,9 +3370,9 @@ Kasację w stosunku do tego samego oskarżonego i od tego samego orzeczenia każ
 
 **Art. 528.**  
 § 1. Środek odwoławczy nie przysługuje na odmowę:  
-1) zwolnienia od uiszczenia opłaty, o której mowa w art. 527 § 1;  
-2) wyznaczenia adwokata lub radcy prawnego w celu sporządzenia kasacji;  
-3) przywrócenia terminu, o którym mowa w art. 524 § 1 zdanie pierwsze.  
+1\) zwolnienia od uiszczenia opłaty, o której mowa w art. 527 § 1;  
+2\) wyznaczenia adwokata lub radcy prawnego w celu sporządzenia kasacji;  
+3\) przywrócenia terminu, o którym mowa w art. 524 § 1 zdanie pierwsze.  
 § 2. Przepis art. 447 § 4 stosuje się odpowiednio.
 
 **Art. 529.**  
@@ -3395,8 +3456,8 @@ Przepisy art. 425 § 3 i 4, art. 428 § 1, art. 431, art. 432, art. 435, art. 43
 
 **Art. 540.**  
 § 1. Postępowanie sądowe zakończone prawomocnym orzeczeniem wznawia się, jeżeli:  
-1) w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;  
-2) po wydaniu orzeczenia ujawnią się nowe fakty lub dowody wskazujące na to, że:  
+1\) w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do przyjęcia, że mogło to mieć wpływ na treść orzeczenia;  
+2\) po wydaniu orzeczenia ujawnią się nowe fakty lub dowody wskazujące na to, że:  
 a) skazany nie popełnił czynu albo czyn jego nie stanowił przestępstwa lub nie podlegał karze,  
 b) skazano go za przestępstwo zagrożone karą surowszą albo nie uwzględniono okoliczności zobowiązujących do nadzwyczajnego złagodzenia kary albo też błędnie przyjęto okoliczności wpływające na nadzwyczajne obostrzenie kary,  
 c) sąd umorzył lub warunkowo umorzył postępowanie karne, błędnie przyjmując popełnienie przez oskarżonego zarzucanego mu czynu.  
@@ -3405,8 +3466,8 @@ c) sąd umorzył lub warunkowo umorzył postępowanie karne, błędnie przyjmuj�
 
 **Art. 540a.**  
 Postępowanie sądowe zakończone prawomocnym orzeczeniem można wznowić, jeżeli:  
-1) skazany, do którego zastosowano przepis art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego, nie potwierdził w postępowaniu karnym ujawnionych przez siebie informacji;  
-2) zachodzi okoliczność określona w art. 11 § 3.
+1\) skazany, do którego zastosowano przepis art. 60 § 3 lub 4 Kodeksu karnego lub art. 36 § 3 Kodeksu karnego skarbowego, nie potwierdził w postępowaniu karnym ujawnionych przez siebie informacji;  
+2\) zachodzi okoliczność określona w art. 11 § 3.
 
 **Art. 540b.**  
 § 1. Postępowanie sądowe zakończone prawomocnym orzeczeniem można wznowić na wniosek oskarżonego, złożony w terminie zawitym miesiąca od dnia, w którym dowiedział się o zapadłym wobec niego orzeczeniu, jeżeli sprawę rozpoznano pod nieobecność oskarżonego, któremu nie doręczono zawiadomienia o terminie posiedzenia lub rozprawy albo doręczono je w inny sposób niż osobiście, gdy wykaże on, że nie wiedział o terminie oraz o możliwości wydania orzeczenia pod jego nieobecność.  
@@ -3489,9 +3550,9 @@ Ustalając wysokość odszkodowania, sąd uwzględnia zaliczenie oskarżonemu ok
 § 2. Sąd okręgowy orzeka wyrokiem na rozprawie w składzie jednego sędziego.  
 § 2a. Stronami w postępowaniu są: wnioskodawca, prokurator oraz Skarb Państwa.  
 § 2b. Organem reprezentującym Skarb Państwa jest:  
-1) prezes sądu, w którym wydano ostatnie orzeczenie kończące postępowanie w przedmiocie odpowiedzialności karnej, stosowania środka zapobiegawczego, środka zabezpieczającego lub zatrzymania, albo  
-2) prezes sądu pierwszej instancji, w którym wydano zmienione orzeczenie – jeżeli orzeczeniem, o którym mowa w pkt 1, zmieniono orzeczenie sądu pierwszej instancji i zastosowano środek, w związku z którym nie przysługuje odszkodowanie w myśl niniejszego rozdziału, albo  
-3) organ, który dokonał zatrzymania – jeżeli sąd uwzględnił zażalenie na zatrzymanie albo jeżeli sąd nie rozpoznawał zażalenia na zatrzymanie.  
+1\) prezes sądu, w którym wydano ostatnie orzeczenie kończące postępowanie w przedmiocie odpowiedzialności karnej, stosowania środka zapobiegawczego, środka zabezpieczającego lub zatrzymania, albo  
+2\) prezes sądu pierwszej instancji, w którym wydano zmienione orzeczenie – jeżeli orzeczeniem, o którym mowa w pkt 1, zmieniono orzeczenie sądu pierwszej instancji i zastosowano środek, w związku z którym nie przysługuje odszkodowanie w myśl niniejszego rozdziału, albo  
+3\) organ, który dokonał zatrzymania – jeżeli sąd uwzględnił zażalenie na zatrzymanie albo jeżeli sąd nie rozpoznawał zażalenia na zatrzymanie.  
 § 3. O terminie rozprawy zawiadamia się wnioskodawcę, prokuratora oraz organ reprezentujący Skarb Państwa, przesyłając odpis wniosku.  
 § 4. Postępowanie jest wolne od kosztów sądowych. W razie uwzględnienia roszczeń choćby w części wnioskodawcy przysługuje od Skarbu Państwa zwrot uzasadnionych wydatków, w tym z tytułu ustanowienia jednego pełnomocnika.
 
@@ -3500,8 +3561,8 @@ Roszczenia przewidziane w niniejszym rozdziale przedawniają się po upływie ro
 
 **Art. 556.**  
 § 1. W razie śmierci oskarżonego prawo do odszkodowania przysługuje temu, kto wskutek wykonania kary lub niewątpliwie niesłusznego tymczasowego aresztowania utracił:  
-1) należne mu od uprawnionego z mocy ustawy utrzymanie;  
-2) stale dostarczane mu przez zmarłego utrzymanie, jeżeli względy słuszności przemawiają za przyznaniem odszkodowania.  
+1\) należne mu od uprawnionego z mocy ustawy utrzymanie;  
+2\) stale dostarczane mu przez zmarłego utrzymanie, jeżeli względy słuszności przemawiają za przyznaniem odszkodowania.  
 § 2. Żądanie odszkodowania należy zgłosić w terminie przewidzianym w art. 555 lub w ciągu roku od śmierci oskarżonego.  
 § 3. Żądający odszkodowania może ustanowić pełnomocnika. Przepisy art. 78– 81 stosuje się odpowiednio.  
 § 4. Upoważnienie do obrony udzielone obrońcy w sprawie zachowuje moc jako upoważnienie do działania w charakterze pełnomocnika.
@@ -3558,8 +3619,8 @@ Uznając, że szczególnie ważne powody przemawiają za ułaskawieniem, zwłasz
 
 **Art. 568a.**  
 § 1. Sąd orzeka karę łączną:  
-1) w wyroku skazującym – w odniesieniu do kar wymierzonych za przypisane oskarżonemu tym wyrokiem przestępstwa;  
-2) w wyroku łącznym – w pozostałych wypadkach.  
+1\) w wyroku skazującym – w odniesieniu do kar wymierzonych za przypisane oskarżonemu tym wyrokiem przestępstwa;  
+2\) w wyroku łącznym – w pozostałych wypadkach.  
 § 2. Do kary łącznej orzeczonej w wyroku skazującym stosuje się odpowiednio art. 575 § 1 i 2, art. 576 i art. 577. Jeżeli zachodzą warunki do orzeczenia nowej kary łącznej wyłącznie w odniesieniu do kar wymierzonych w tym samym wyroku skazującym, właściwy do wydania wyroku łącznego jest sąd, który wydał ten wyrok skazujący.
 
 **Art. 569.**  
@@ -3601,17 +3662,17 @@ W wyroku łącznym należy, w miarę potrzeby, wymienić okresy zaliczone na poc
 
 **Art. 577a.**  
 Ilekroć w przepisach niniejszego działu jest mowa o:  
-1) postępowaniu europejskim – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającym wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2017/1939”;  
-2) postępowaniu krajowym – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora powszechnej jednostki organizacyjnej prokuratury.
+1\) postępowaniu europejskim – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora Prokuratury Europejskiej zgodnie z właściwością określoną w rozporządzeniu Rady (UE) 2017/1939 z dnia 12 października 2017 r. wdrażającym wzmocnioną współpracę w zakresie ustanowienia Prokuratury Europejskiej (Dz. Urz. UE L 283 z 31.10.2017, str. 1, z późn. zm. ), zwanym dalej „rozporządzeniem 2017/1939”;  
+2\) postępowaniu krajowym – rozumie się przez to postępowanie karne prowadzone lub nadzorowane przez prokuratora powszechnej jednostki organizacyjnej prokuratury.
 
 **Art. 577b.**  
 § 1. Organem właściwym do wydania:  
-1) opinii w przedmiocie przejęcia postępowania, o której mowa w art. 27 ust. 4 rozporządzenia 2017/1939,  
-2) zgody, o której mowa w art. 25 ust. 4 i art. 34 ust. 5 rozporządzenia 2017/1939 – jest Prokurator Krajowy.  
+1\) opinii w przedmiocie przejęcia postępowania, o której mowa w art. 27 ust. 4 rozporządzenia 2017/1939,  
+2\) zgody, o której mowa w art. 25 ust. 4 i art. 34 ust. 5 rozporządzenia 2017/1939 – jest Prokurator Krajowy.  
 § 2. Organem właściwym do:  
-1) przeprowadzenia konsultacji przewidzianych w art. 39 ust. 3 rozporządzenia 2017/1939,  
-2) wydania opinii, o której mowa w art. 25 ust. 2 i 3 oraz art. 40 ust. 1 zdanie drugie rozporządzenia 2017/1939,  
-3) złożenia wniosku, o którym mowa w art. 34 ust. 6 i art. 91 ust. 6 zdanie pierwsze rozporządzenia 2017/1939 – jest kierownik jednostki organizacyjnej prokuratury, od której Prokuratura Europejska przejęła sprawę, a jeśli sprawa nie była dotychczas prowadzona przez powszechną jednostkę organizacyjną prokuratury – Prokurator Krajowy.  
+1\) przeprowadzenia konsultacji przewidzianych w art. 39 ust. 3 rozporządzenia 2017/1939,  
+2\) wydania opinii, o której mowa w art. 25 ust. 2 i 3 oraz art. 40 ust. 1 zdanie drugie rozporządzenia 2017/1939,  
+3\) złożenia wniosku, o którym mowa w art. 34 ust. 6 i art. 91 ust. 6 zdanie pierwsze rozporządzenia 2017/1939 – jest kierownik jednostki organizacyjnej prokuratury, od której Prokuratura Europejska przejęła sprawę, a jeśli sprawa nie była dotychczas prowadzona przez powszechną jednostkę organizacyjną prokuratury – Prokurator Krajowy.  
 § 3. Spór o właściwość, o którym mowa w art. 25 ust. 6 rozporządzenia 2017/1939, rozstrzyga Prokurator Generalny. Na postanowienie Prokuratora Generalnego przysługuje zażalenie prokuratorowi Prokuratury Europejskiej, jeżeli rozstrzygnięcie sporu wymaga wykładni art. 22 lub art. 25 rozporządzenia 2017/1939. Zażalenie wnosi się do sądu okręgowego właściwego miejscowo dla siedziby powszechnej jednostki organizacyjnej prokuratury, przy której utworzono biuro delegowanego prokuratora europejskiego uczestniczącego w sporze.
 
 **Art. 577c.**  
@@ -3628,16 +3689,16 @@ Ilekroć w przepisach niniejszego działu jest mowa o:
 
 **Art. 578.**  
 Nie podlegają orzecznictwu polskich sądów karnych:  
-1) uwierzytelnieni w Rzeczypospolitej Polskiej szefowie przedstawicielstw dyplomatycznych państw obcych;  
-2) osoby należące do personelu dyplomatycznego tych przedstawicielstw;  
-3) osoby należące do personelu administracyjnego i technicznego tych przedstawicielstw;  
-4) członkowie rodzin osób wymienionych w pkt 1–3, jeżeli pozostają z nimi we wspólnocie domowej;  
-5) inne osoby korzystające z immunitetów dyplomatycznych na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
+1\) uwierzytelnieni w Rzeczypospolitej Polskiej szefowie przedstawicielstw dyplomatycznych państw obcych;  
+2\) osoby należące do personelu dyplomatycznego tych przedstawicielstw;  
+3\) osoby należące do personelu administracyjnego i technicznego tych przedstawicielstw;  
+4\) członkowie rodzin osób wymienionych w pkt 1–3, jeżeli pozostają z nimi we wspólnocie domowej;  
+5\) inne osoby korzystające z immunitetów dyplomatycznych na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych.
 
 **Art. 579.**  
 § 1. Nie podlegają orzecznictwu polskich sądów karnych w zakresie czynności pełnionych podczas i w związku z wykonywaniem ich funkcji urzędowych, a na zasadzie wzajemności w pozostałym zakresie:  
-1) kierownicy urzędów konsularnych i inni urzędnicy konsularni państw obcych;  
-2) osoby zrównane z nimi na podstawie umów lub powszechnie uznanych zwyczajów międzynarodowych.  
+1\) kierownicy urzędów konsularnych i inni urzędnicy konsularni państw obcych;  
+2\) osoby zrównane z nimi na podstawie umów lub powszechnie uznanych zwyczajów międzynarodowych.  
 § 2. Kierownik urzędu konsularnego oraz inni urzędnicy konsularni państw obcych podlegają zatrzymaniu lub tymczasowemu aresztowaniu jedynie w razie zarzutu popełnienia zbrodni. O ich zatrzymaniu lub tymczasowym aresztowaniu zawiadamia się niezwłocznie Ministra Spraw Zagranicznych .  
 § 3. Poza wypadkiem określonym w § 2 osoby te mogą być pozbawione wolności tylko w wykonaniu prawomocnego wyroku sądu polskiego.
 
@@ -3664,12 +3725,12 @@ Przepisów art. 578–583 nie stosuje się do osób w nich wymienionych, w zakre
 
 **Art. 585.**  
 W drodze pomocy prawnej mogą być dokonywane niezbędne czynności postępowania karnego, a w szczególności:  
-1) doręczanie pism osobom przebywającym za granicą lub instytucjom mającym siedzibę za granicą;  
-2) przesłuchiwanie osób w charakterze oskarżonych, świadków lub biegłych;  
-3) dokonywanie oględzin oraz przeszukiwanie pomieszczeń, innych miejsc i osób, zajęcie przedmiotów i wydawanie przedmiotów tych za granicę;  
-4) wzywanie osób przebywających za granicą do osobistego dobrowolnego stawiennictwa przed sądem lub prokuratorem w celu przesłuchania świadka lub konfrontacji, jak również doprowadzanie w tym celu osób pozbawionych w tym czasie wolności;  
-5) udostępnianie akt i dokumentów oraz informacji o karalności oskarżonych;  
-6) udzielanie informacji o prawie.
+1\) doręczanie pism osobom przebywającym za granicą lub instytucjom mającym siedzibę za granicą;  
+2\) przesłuchiwanie osób w charakterze oskarżonych, świadków lub biegłych;  
+3\) dokonywanie oględzin oraz przeszukiwanie pomieszczeń, innych miejsc i osób, zajęcie przedmiotów i wydawanie przedmiotów tych za granicę;  
+4\) wzywanie osób przebywających za granicą do osobistego dobrowolnego stawiennictwa przed sądem lub prokuratorem w celu przesłuchania świadka lub konfrontacji, jak również doprowadzanie w tym celu osób pozbawionych w tym czasie wolności;  
+5\) udostępnianie akt i dokumentów oraz informacji o karalności oskarżonych;  
+6\) udzielanie informacji o prawie.
 
 **Art. 586.**  
 § 1. O doręczenie pisma przebywającej za granicą osobie, która ma obywatelstwo polskie, lub o przesłuchanie takiej osoby w charakterze oskarżonego, świadka lub biegłego sąd lub prokurator zwraca się do polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.  
@@ -3682,9 +3743,9 @@ Sporządzone na wniosek polskiego sądu lub prokuratora protokoły oględzin, pr
 § 1. Sądy i prokuratorzy udzielają pomocy prawnej na wniosek sądów i prokuratorów państw obcych.  
 § 2. Sąd i prokurator odmawiają udzielenia pomocy prawnej i przekazują odmowę właściwym organom obcego państwa, jeżeli żądana czynność byłaby sprzeczna z zasadami porządku prawnego Rzeczypospolitej Polskiej albo naruszałaby jej suwerenność.  
 § 3. Sąd i prokurator mogą odmówić udzielenia pomocy prawnej, jeżeli:  
-1) wykonanie żądanej czynności nie należy do zakresu działania sądu lub prokuratora według prawa polskiego;  
-2) państwo, od którego wniosek o udzielenie pomocy prawnej pochodzi, nie zapewnia w tym zakresie wzajemności;  
-3) wniosek dotyczy czynu, który nie jest przestępstwem według prawa polskiego.  
+1\) wykonanie żądanej czynności nie należy do zakresu działania sądu lub prokuratora według prawa polskiego;  
+2\) państwo, od którego wniosek o udzielenie pomocy prawnej pochodzi, nie zapewnia w tym zakresie wzajemności;  
+3\) wniosek dotyczy czynu, który nie jest przestępstwem według prawa polskiego.  
 § 4. Do czynności procesowych, dokonywanych na wniosek sądu lub prokuratora państwa obcego, stosuje się ustawy polskie. Należy jednak uczynić zadość życzeniu tych organów, aby przy dokonaniu czynności zastosowano szczególny tryb postępowania lub szczególną formę, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej.  
 § 5. Koszty udzielania pomocy prawnej ustala się zgodnie z art. 616–619.
 
@@ -3702,16 +3763,16 @@ Sporządzone na wniosek polskiego sądu lub prokuratora protokoły oględzin, pr
 § 1. Pomoc prawna w postępowaniu przygotowawczym między polskimi organami uprawnionymi do prowadzenia tego postępowania oraz właściwymi organami państwa członkowskiego Unii Europejskiej lub innego państwa, jeżeli pozwala na to umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, albo na zasadach wzajemności, może także polegać na wykonywaniu czynności śledztwa w ramach wspólnego zespołu śledczego, zwanego dalej „zespołem”.  
 § 2. Zespół powołują, w drodze porozumienia, Prokurator Generalny oraz właściwy organ państwa, o którym mowa w § 1, zwanego dalej „państwem współpracującym”, na potrzeby określonego postępowania przygotowawczego, na czas oznaczony.  
 § 3. Porozumienie o powołaniu zespołu powinno określać:  
-1) przedmiot, cel, miejsce i okres współpracy;  
-2) skład zespołu, ze wskazaniem osoby kierującej;  
-3) zadania poszczególnych członków zespołu.  
+1\) przedmiot, cel, miejsce i okres współpracy;  
+2\) skład zespołu, ze wskazaniem osoby kierującej;  
+3\) zadania poszczególnych członków zespołu.  
 § 4. W porozumieniu o powołaniu zespołu można zastrzec możliwość dopuszczenia do prac w zespole, w określonych warunkach, przedstawiciela instytucji międzynarodowej powołanej do zwalczania przestępczości.  
 § 5. Okres współpracy w ramach zespołu, wskazany w porozumieniu o powołaniu zespołu, może być przedłużony na dalszy czas oznaczony, niezbędny do osiągnięcia celu tej współpracy; przedłużenie wymaga zgody wszystkich stron porozumienia.
 
 **Art. 589c.**  
 § 1. Zespół, w ramach którego współpraca odbywa się na terytorium Rzeczypospolitej Polskiej, zwany dalej „zespołem polskim”, można powołać w szczególności, gdy:  
-1) w toku prowadzonego na terytorium Rzeczypospolitej Polskiej postępowania przygotowawczego w sprawie o przestępstwo o charakterze terrorystycznym, handlu ludźmi, obrotu środkami odurzającymi, substancjami psychotropowymi lub ich prekursorami albo o inne ciężkie przestępstwo ujawniono, że sprawca działał lub następstwa jego czynu wystąpiły na terytorium innego państwa i zachodzi potrzeba wykonania czynności śledztwa na terytorium tego państwa lub z udziałem jego organu;  
-2) prowadzone na terytorium Rzeczypospolitej Polskiej postępowanie przygo- towawcze pozostaje w związku przedmiotowym lub podmiotowym z postę- powaniem przygotowawczym o przestępstwo wymienione w pkt 1, prowa- dzonym na terytorium innego państwa i zachodzi potrzeba wykonania więk- szości czynności śledztwa w obu postępowaniach na terytorium Rzeczypo- spolitej Polskiej.  
+1\) w toku prowadzonego na terytorium Rzeczypospolitej Polskiej postępowania przygotowawczego w sprawie o przestępstwo o charakterze terrorystycznym, handlu ludźmi, obrotu środkami odurzającymi, substancjami psychotropowymi lub ich prekursorami albo o inne ciężkie przestępstwo ujawniono, że sprawca działał lub następstwa jego czynu wystąpiły na terytorium innego państwa i zachodzi potrzeba wykonania czynności śledztwa na terytorium tego państwa lub z udziałem jego organu;  
+2\) prowadzone na terytorium Rzeczypospolitej Polskiej postępowanie przygo- towawcze pozostaje w związku przedmiotowym lub podmiotowym z postę- powaniem przygotowawczym o przestępstwo wymienione w pkt 1, prowa- dzonym na terytorium innego państwa i zachodzi potrzeba wykonania więk- szości czynności śledztwa w obu postępowaniach na terytorium Rzeczypo- spolitej Polskiej.  
 § 2. Pracami zespołu polskiego kieruje polski prokurator.  
 § 3. W skład zespołu polskiego mogą wchodzić inni polscy prokuratorzy i przedstawiciele innych organów uprawnionych do prowadzenia śledztwa oraz funkcjonariusze właściwych organów państwa współpracującego, zwani dalej „funkcjonariuszami delegowanymi”.  
 § 4. Do czynności w postępowaniu przygotowawczym wykonywanych w ramach zespołu polskiego stosuje się przepisy prawa krajowego, z zastrzeżeniem § 5–8 oraz art. 589e.  
@@ -3727,9 +3788,9 @@ Sporządzone na wniosek polskiego sądu lub prokuratora protokoły oględzin, pr
 
 **Art. 589e.**  
 § 1. Informacje uzyskane przez członka zespołu w związku z udziałem w pracach zespołu, niedostępne w innym trybie dla państwa, które go delegowało, mogą być wykorzystane przez właściwy organ tego państwa także w celu:  
-1) przeprowadzenia postępowania karnego we własnym zakresie – za zgodą państwa współpracującego, którego instytucja lub organ udzieliły informacji;  
-2) zapobiegnięcia bezpośredniemu, poważnemu zagrożeniu dla bezpieczeństwa publicznego;  
-3) innym niż wymienione w pkt 1 i 2, jeżeli tak stanowi porozumienie o powołaniu zespołu.  
+1\) przeprowadzenia postępowania karnego we własnym zakresie – za zgodą państwa współpracującego, którego instytucja lub organ udzieliły informacji;  
+2\) zapobiegnięcia bezpośredniemu, poważnemu zagrożeniu dla bezpieczeństwa publicznego;  
+3\) innym niż wymienione w pkt 1 i 2, jeżeli tak stanowi porozumienie o powołaniu zespołu.  
 § 2. Zgoda, o której mowa w § 1 pkt 1, może być cofnięta wyłącznie wtedy, gdy wykorzystanie informacji mogłoby zagrażać dobru postępowania przygotowawczego prowadzonego w państwie współpracującym, którego instytucja lub organ udzieliły informacji, oraz w wypadku, w którym państwo to mogłoby odmówić wzajemnej pomocy.
 
 **Art. 589f.**  
@@ -3776,14 +3837,14 @@ Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do 
 
 **Art. 589m.**  
 § 1. Można odmówić wykonania orzeczenia o zatrzymaniu dowodów, o którym mowa w art. 589l § 1, jeżeli:  
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1–33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;  
-2) dowody, których dotyczy orzeczenie, nie mogą być zajęte z przyczyn faktycznych, w szczególności z uwagi na ich utratę, zniszczenie lub niemożność odnalezienia;  
-3) do orzeczenia o zatrzymaniu dowodów nie dołączono zaświadczenia zawierającego wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie albo zaświadczenie to jest niekompletne lub oczywiście nie odpowiada treści orzeczenia;  
-4) z treści zaświadczenia, określonego w pkt 3, w oczywistym stopniu wynika, że przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do którego postępowanie karne zostało prawomocnie zakończone;  
-5) wykonanie orzeczenia nie jest możliwe z powodu odmowy przedstawienia korespondencji i dokumentów na podstawie art. 582 § 2.  
+1\) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1–33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;  
+2\) dowody, których dotyczy orzeczenie, nie mogą być zajęte z przyczyn faktycznych, w szczególności z uwagi na ich utratę, zniszczenie lub niemożność odnalezienia;  
+3\) do orzeczenia o zatrzymaniu dowodów nie dołączono zaświadczenia zawierającego wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie albo zaświadczenie to jest niekompletne lub oczywiście nie odpowiada treści orzeczenia;  
+4\) z treści zaświadczenia, określonego w pkt 3, w oczywistym stopniu wynika, że przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do którego postępowanie karne zostało prawomocnie zakończone;  
+5\) wykonanie orzeczenia nie jest możliwe z powodu odmowy przedstawienia korespondencji i dokumentów na podstawie art. 582 § 2.  
 § 2. Można odmówić wykonania orzeczenia mającego na celu zabezpieczenie mienia, o którym mowa w art. 589l § 1:  
-1) jeżeli według prawa polskiego w sprawie o przestępstwo, w związku z którym wydano to orzeczenie, zabezpieczenie wykonania przepadku byłoby niedopuszczalne, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1–33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;  
-2) w wypadkach określonych w § 1 pkt 2–4.  
+1\) jeżeli według prawa polskiego w sprawie o przestępstwo, w związku z którym wydano to orzeczenie, zabezpieczenie wykonania przepadku byłoby niedopuszczalne, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w pkt 1–33, zagrożone karą pozbawienia wolności, której górna granica wynosi co najmniej 3 lata, lub innym środkiem polegającym na pozbawieniu wolności co najmniej w tym samym wymiarze;  
+2\) w wypadkach określonych w § 1 pkt 2–4.  
 § 3. Przepisów § 1 pkt 1 oraz § 2 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 4. W wypadku określonym w § 1 pkt 2, właściwy sąd albo prokurator, przed wydaniem postanowienia w przedmiocie wykonania orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia, konsultuje się z organem, który je wydał, dla uzyskania wszystkich istotnych informacji, umożliwiających odnalezienie tych dowodów albo mienia. Jeżeli uzyskane informacje nie przyczyniły się do odnalezienia tych dowodów albo mienia, sąd lub prokurator powiadamia niezwłocznie właściwy organ sądowy państwa wydania orzeczenia o niemożności wykonania orzeczenia.  
 § 5. W wypadku, o którym mowa w § 1 pkt 3, właściwy sąd albo prokurator może wyznaczyć organowi, który wydał orzeczenie, termin do przekazania zaświadczenia, określonego w § 1 pkt 3, jego uzupełnienia lub sprostowania.  
@@ -3798,8 +3859,8 @@ Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do 
 
 **Art. 589o.**  
 Wydając postanowienie o wykonaniu orzeczenia o zatrzymaniu dowodów lub mające na celu zabezpieczenie mienia, właściwy sąd albo prokurator może jednocześnie wstrzymać jego wykonanie, jeżeli:  
-1) wykonanie orzeczenia mogłoby utrudnić inne, toczące się postępowanie karne – na czas niezbędny dla zabezpieczenia prawidłowego toku tego postępowania;  
-2) dowód albo mienie, których dotyczy orzeczenie, zostały wcześniej zatrzymane albo zajęte dla potrzeb innego toczącego się postępowania karnego – do czasu zwolnienia spod zatrzymania albo zajęcia.
+1\) wykonanie orzeczenia mogłoby utrudnić inne, toczące się postępowanie karne – na czas niezbędny dla zabezpieczenia prawidłowego toku tego postępowania;  
+2\) dowód albo mienie, których dotyczy orzeczenie, zostały wcześniej zatrzymane albo zajęte dla potrzeb innego toczącego się postępowania karnego – do czasu zwolnienia spod zatrzymania albo zajęcia.
 
 **Art. 589p.**  
 § 1. O treści postanowienia w przedmiocie wykonania orzeczenia o zatrzymaniu dowodów lub mającego na celu zabezpieczenie mienia powiadamia się niezwłocznie, w miarę możliwości w ciągu 24 godzin od otrzymania orzeczenia, właściwy organ sądowy państwa wydania tego orzeczenia. Powiadomienie to może być przekazane również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności przekazanych dokumentów.  
@@ -3838,18 +3899,18 @@ Przepisy niniejszego rozdziału w zakresie zatrzymania dowodów stosuje się do 
 
 **Art. 589x.**  
 Wydanie END jest niedopuszczalne, jeżeli:  
-1) nie wymaga tego interes wymiaru sprawiedliwości;  
-2) prawo polskie nie dopuszcza przeprowadzenia lub uzyskania danego dowodu.
+1\) nie wymaga tego interes wymiaru sprawiedliwości;  
+2\) prawo polskie nie dopuszcza przeprowadzenia lub uzyskania danego dowodu.
 
 **Art. 589y.**  
 § 1. END zawiera:  
-1) oznaczenie organu wydającego END i zatwierdzającego END, ze wskazaniem ich adresów, numerów telefonów, telefaksów i adresów poczty elektronicznej;  
-2) datę oraz wskazanie miejsca wydania END;  
-3) określenie żądanej czynności dochodzeniowej podlegającej END lub dowodu, który należy uzyskać, lub okoliczności, jakie mają zostać ustalone w wyniku czynności dochodzeniowej;  
-4) dostępne dane określające tożsamość i obywatelstwo osoby, której dotyczy END, a także adres zamieszkania lub inny adres, w tym adres zakładu karnego, jeżeli ta osoba w nim przebywa;  
-5) sygnaturę akt i wskazanie rodzaju postępowania, w związku z którym END został wydany;  
-6) przytoczenie opisu i kwalifikacji prawnej czynu będącego przedmiotem postępowania;  
-7) zwięzły opis stanu faktycznego sprawy.  
+1\) oznaczenie organu wydającego END i zatwierdzającego END, ze wskazaniem ich adresów, numerów telefonów, telefaksów i adresów poczty elektronicznej;  
+2\) datę oraz wskazanie miejsca wydania END;  
+3\) określenie żądanej czynności dochodzeniowej podlegającej END lub dowodu, który należy uzyskać, lub okoliczności, jakie mają zostać ustalone w wyniku czynności dochodzeniowej;  
+4\) dostępne dane określające tożsamość i obywatelstwo osoby, której dotyczy END, a także adres zamieszkania lub inny adres, w tym adres zakładu karnego, jeżeli ta osoba w nim przebywa;  
+5\) sygnaturę akt i wskazanie rodzaju postępowania, w związku z którym END został wydany;  
+6\) przytoczenie opisu i kwalifikacji prawnej czynu będącego przedmiotem postępowania;  
+7\) zwięzły opis stanu faktycznego sprawy.  
 § 2. END zawiera odwołanie do wcześniej wydanego END, jeżeli jest z nim związany, wraz z datą jego wydania, oznaczeniem organu, do którego został przekazany, oraz sygnaturą akt nadaną przez organ wydający END i państwo wykonania orzeczenia.  
 § 3. Jeżeli END jest wydany w celu zabezpieczenia śladów i dowodów przestępstwa przed ich utratą, zniekształceniem lub zniszczeniem, zawiera także informację o tym, czy ślad lub dowód ma zostać przekazany organowi wydającemu END, czy ma pozostać w państwie wykonania orzeczenia. W przypadku gdy ślad lub dowód ma pozostać w państwie wykonania orzeczenia organ wydający END określa termin obowiązywania zabezpieczenia.  
 § 4. END powinien zostać przetłumaczony na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.  
@@ -3882,9 +3943,9 @@ Wydanie END jest niedopuszczalne, jeżeli:
 § 1. W związku z kontrolą i utrwalaniem treści rozmów telefonicznych zarządzonymi lub zatwierdzonymi na podstawie art. 237 § 1 i 2 w stosunku do osoby znajdującej się na terytorium innego państwa członkowskiego Unii Europejskiej, jeżeli nie zachodzi potrzeba wydania END, prokurator, Policja lub organ, o którym mowa w art. 312, powiadamia właściwy organ tego państwa o zamiarze przeprowadzenia tych czynności, ich przeprowadzaniu albo wykonaniu w zależności od tego, kiedy dowiedział się, że osoba, której czynność dotyczy, przebywa na terytorium tego państwa członkowskiego.  
 § 2. Do powiadomienia stosuje się odpowiednio przepis art. 589y § 4.  
 § 3. Powiadomienie zawiera informacje dotyczące:  
-1) organu, który zarządził kontrolę i utrwalanie treści rozmów telefonicznych;  
-2) kontroli i utrwalania treści rozmów telefonicznych, w tym okresu, na jaki ją zarządzono;  
-3) osoby, której dotyczy kontrola i utrwalanie treści rozmów telefonicznych.  
+1\) organu, który zarządził kontrolę i utrwalanie treści rozmów telefonicznych;  
+2\) kontroli i utrwalania treści rozmów telefonicznych, w tym okresu, na jaki ją zarządzono;  
+3\) osoby, której dotyczy kontrola i utrwalanie treści rozmów telefonicznych.  
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór formularza powiadomienia, o którym mowa w § 1, mając na uwadze udostępnienie państwu członkowskiemu Unii Europejskiej danych niezbędnych do przekazania informacji w przedmiocie możliwości przeprowadzenia czynności na terytorium tego państwa oraz wykorzystania uzyskanych w ich wyniku dowodów w postępowaniu karnym.
 
 ## Rozdział 62d: WYSTĄPIENIE PAŃSTWA CZŁONKOWSKIEGO UNII EUROPEJSKIEJ O PRZEPROWADZENIE CZYNNOŚCI DOCHODZENIOWYCH NA PODSTAWIE EUROPEJSKIEGO NAKAZU DOCHODZENIOWEGO
@@ -3919,11 +3980,11 @@ Wydanie END jest niedopuszczalne, jeżeli:
 § 1. Jeżeli przepisy niniejszego rozdziału nie stanowią inaczej, przy wykonywaniu END stosuje się przepisy prawa polskiego. Należy jednak uczynić zadość życzeniu organu wydającego END, aby przy dokonaniu czynności zastosowano szczególny tryb postępowania lub szczególną formę, jeżeli nie jest to sprzeczne z zasadami porządku prawnego Rzeczypospolitej Polskiej.  
 § 2. Jeżeli czynność dochodzeniowa określona w END nie jest przewidziana przez prawo polskie lub byłaby niedopuszczalna w podobnej sprawie krajowej, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END oraz określając możliwą do przeprowadzenia zastępczą czynność dochodzeniową zgodną z celem END. Po upływie terminu sąd lub prokurator postanawia o wykonaniu zastępczej czynności dochodzeniowej. Jeżeli zastępczej czynności nie da się określić, sąd lub prokurator odmawia wykonania END.  
 § 3. Zastępczej czynności dochodzeniowej nie przeprowadza się, jeżeli END dotyczy:  
-1) dowodów już znajdujących się w posiadaniu sądu lub prokuratora;  
-2) informacji uzyskanych z rejestrów i baz danych dostępnych dla sądu lub prokuratora wykonującego END;  
-3) przesłuchania osoby na terytorium Rzeczypospolitej Polskiej;  
-4) dowodu, którego dopuszczenie, uzyskanie ani przeprowadzenie nie wymaga wydania postanowienia;  
-5) identyfikacji abonenta telefonu lub adresu IP.  
+1\) dowodów już znajdujących się w posiadaniu sądu lub prokuratora;  
+2\) informacji uzyskanych z rejestrów i baz danych dostępnych dla sądu lub prokuratora wykonującego END;  
+3\) przesłuchania osoby na terytorium Rzeczypospolitej Polskiej;  
+4\) dowodu, którego dopuszczenie, uzyskanie ani przeprowadzenie nie wymaga wydania postanowienia;  
+5\) identyfikacji abonenta telefonu lub adresu IP.  
 § 4. W przypadkach, o których mowa w § 3, przeprowadza się czynność wskazaną w END.  
 § 5. Jeżeli uzyskanie dowodu określonego w END jest możliwe przez przeprowadzenie zastępczej czynności dochodzeniowej, innej niż wskazana w tym orzeczeniu i mniej dolegliwej dla osoby, której END dotyczy, sąd lub prokurator informuje o tym organ wydający END, wskazując termin do zmiany, uzupełnienia lub cofnięcia END. Po upływie terminu sąd lub prokurator określa w postanowieniu przeprowadzenie zastępczej czynności dochodzeniowej.  
 § 6. Jeżeli END zawiera wniosek o przeprowadzenie czynności operacyjno- rozpoznawczych, w zakresie tego wniosku odpowiednie służby polskie i służby państwa wydania orzeczenia uzgadniają czas trwania i warunki wykonywania czynności. Można odmówić wykonania END, który nie zawiera informacji o uzgodnieniu, a organ wydający END nie uzupełni tej informacji w terminie wskazanym przez sąd lub prokuratora. Odmawia się wykonania END, jeżeli wykonanie czynności w nim określonych nie byłoby dopuszczalne w podobnej sprawie krajowej.  
@@ -3931,22 +3992,22 @@ Wydanie END jest niedopuszczalne, jeżeli:
 
 **Art. 589zj.**  
 § 1. Odmawia się wykonania END, jeżeli:  
-1) sąd lub prokurator nie uzyskał wymaganego zezwolenia umożliwiającego przeprowadzenie czynności z udziałem osoby wskazanej w END;  
-2) w stosunku do osoby ściganej zapadło w państwie członkowskim Unii Europejskiej prawomocne orzeczenie co do tych samych czynów, które zostały wskazane w END, oraz, w przypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
-3) wykonanie END mogłoby narazić na niebezpieczeństwo funkcjonariusza przy wykonywaniu czynności operacyjno-rozpoznawczych oraz osobę udzielającą mu pomocy w zakresie tych czynności;  
-4) END dotyczy przesłuchania na okoliczność objętą bezwzględnym zakazem przesłuchania;  
-5) wykonanie END naruszyłoby wolności i prawa człowieka i obywatela;  
-6) żądana czynność zagrażałaby bezpieczeństwu narodowemu;  
-7) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia, a jego wykonanie skutkowałoby przedłużeniem okresu pozbawienia wolności tej osoby.  
+1\) sąd lub prokurator nie uzyskał wymaganego zezwolenia umożliwiającego przeprowadzenie czynności z udziałem osoby wskazanej w END;  
+2\) w stosunku do osoby ściganej zapadło w państwie członkowskim Unii Europejskiej prawomocne orzeczenie co do tych samych czynów, które zostały wskazane w END, oraz, w przypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
+3\) wykonanie END mogłoby narazić na niebezpieczeństwo funkcjonariusza przy wykonywaniu czynności operacyjno-rozpoznawczych oraz osobę udzielającą mu pomocy w zakresie tych czynności;  
+4\) END dotyczy przesłuchania na okoliczność objętą bezwzględnym zakazem przesłuchania;  
+5\) wykonanie END naruszyłoby wolności i prawa człowieka i obywatela;  
+6\) żądana czynność zagrażałaby bezpieczeństwu narodowemu;  
+7\) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia, a jego wykonanie skutkowałoby przedłużeniem okresu pozbawienia wolności tej osoby.  
 § 2. Można odmówić wykonania END, jeżeli:  
-1) czyn będący podstawą wydania END, inny niż wymieniony w art. 607w, nie stanowi przestępstwa według prawa polskiego;  
-2) czyn będący podstawą wydania END według prawa polskiego został popełniony w całości lub w części na terytorium Rzeczypospolitej Polskiej lub na polskim statku wodnym lub powietrznym i nie stanowi przestępstwa według prawa polskiego;  
-3) wykonanie END wiązałoby się z ujawnieniem informacji niejawnych uzyskanych w toku czynności operacyjno-rozpoznawczych, jak również związanych z prowadzeniem tych czynności;  
-4) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w sprawie o przestępstwo będące podstawą jego wydania;  
-5) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w postępowaniu, w którym został on wydany;  
-6) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia albo do Rzeczypospolitej Polskiej, a osoba ta nie wyraża na to zgody;  
-7) END dotyczy przesłuchania przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, a oskarżony, który ma zostać przesłuchany, nie wyraża na to zgody;  
-8) END dotyczy przesłuchania osób, o których mowa w art. 179 § 1 lub art. 180 § 1 i 2, co do okoliczności określonych w tych przepisach.  
+1\) czyn będący podstawą wydania END, inny niż wymieniony w art. 607w, nie stanowi przestępstwa według prawa polskiego;  
+2\) czyn będący podstawą wydania END według prawa polskiego został popełniony w całości lub w części na terytorium Rzeczypospolitej Polskiej lub na polskim statku wodnym lub powietrznym i nie stanowi przestępstwa według prawa polskiego;  
+3\) wykonanie END wiązałoby się z ujawnieniem informacji niejawnych uzyskanych w toku czynności operacyjno-rozpoznawczych, jak również związanych z prowadzeniem tych czynności;  
+4\) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w sprawie o przestępstwo będące podstawą jego wydania;  
+5\) według prawa polskiego czynność dochodzeniowa, której dotyczy END, nie może być przeprowadzona w postępowaniu, w którym został on wydany;  
+6\) END dotyczy czasowego wydania osoby pozbawionej wolności do państwa wydania orzeczenia albo do Rzeczypospolitej Polskiej, a osoba ta nie wyraża na to zgody;  
+7\) END dotyczy przesłuchania przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku, a oskarżony, który ma zostać przesłuchany, nie wyraża na to zgody;  
+8\) END dotyczy przesłuchania osób, o których mowa w art. 179 § 1 lub art. 180 § 1 i 2, co do okoliczności określonych w tych przepisach.  
 § 3. Przepisów § 2 pkt 1 i 2 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 4. W przypadku określonym w § 2 pkt 8 sąd, działając z urzędu lub na wniosek prokuratora, orzeka w przedmiocie zwolnienia tych osób z zachowania tajemnicy. Przepisy art. 179 i art. 180 § 1–4 stosuje się.  
 § 5. Przed wydaniem postanowienia o odmowie wykonania END z przyczyn określonych w § 1 pkt 1–6 lub § 2 pkt 2, 3 i 8 sąd lub prokurator konsultuje się z organem wydającym END w celu umożliwienia mu zmiany lub uzupełnienia END.  
@@ -3954,8 +4015,8 @@ Wydanie END jest niedopuszczalne, jeżeli:
 
 **Art. 589zk.**  
 § 1. Właściwy sąd lub prokurator może postanowić o odroczeniu wykonania END na niezbędny okres, jeżeli:  
-1) jego wykonanie mogłoby zaszkodzić toczącemu się postępowaniu karnemu;  
-2) przedmioty, dokumenty lub dane są wykorzystywane w innym postępowaniu.  
+1\) jego wykonanie mogłoby zaszkodzić toczącemu się postępowaniu karnemu;  
+2\) przedmioty, dokumenty lub dane są wykorzystywane w innym postępowaniu.  
 § 2. Po ustaniu przyczyny odroczenia wykonania END właściwy sąd lub prokurator niezwłocznie przystępuje do jego wykonania, informując o tym jednocześnie organ wydający END.
 
 **Art. 589zl.**  
@@ -3965,12 +4026,12 @@ Wydanie END jest niedopuszczalne, jeżeli:
 
 **Art. 589zm.**  
 Sąd lub prokurator niezwłocznie informuje organ wydający END:  
-1) o niemożności wydania postanowienia w sprawie END, w przypadku gdy formularz END jest niekompletny lub błędnie wypełniony;  
-2) jeżeli uzna, że może być celowe przeprowadzenie czynności dochodzeniowych, których nie przewidziano lub których nie można było wskazać w chwili wydawania END;  
-3) o niemożności dopełnienia formalności i procedur wskazanych przez organ wydający END;  
-4) o każdym przypadku odmowy wykonania END lub o postanowieniu przeprowadzenia zastępczej czynności dochodzeniowej na podstawie art. 589zi § 2 lub 5;  
-5) o każdym przypadku odroczenia wykonania END, podając przyczyny uzasadniające to odroczenie i jego okres;  
-6) o uchyleniu lub zakończeniu okresu zabezpieczenia stosowanego zgodnie z art. 589zq.
+1\) o niemożności wydania postanowienia w sprawie END, w przypadku gdy formularz END jest niekompletny lub błędnie wypełniony;  
+2\) jeżeli uzna, że może być celowe przeprowadzenie czynności dochodzeniowych, których nie przewidziano lub których nie można było wskazać w chwili wydawania END;  
+3\) o niemożności dopełnienia formalności i procedur wskazanych przez organ wydający END;  
+4\) o każdym przypadku odmowy wykonania END lub o postanowieniu przeprowadzenia zastępczej czynności dochodzeniowej na podstawie art. 589zi § 2 lub 5;  
+5\) o każdym przypadku odroczenia wykonania END, podając przyczyny uzasadniające to odroczenie i jego okres;  
+6\) o uchyleniu lub zakończeniu okresu zabezpieczenia stosowanego zgodnie z art. 589zq.
 
 **Art. 589zn.**  
 § 1. W przypadku powzięcia wątpliwości, czy wydanie END było uzasadnione lub celowe lub czy dana czynność dochodzeniowa byłaby dopuszczalna w państwie wydania orzeczenia, właściwy sąd lub prokurator konsultuje się z organem wydającym END i jeżeli wymaga tego interes wymiaru sprawiedliwości, występuje z wnioskiem o cofnięcie END.  
@@ -3997,27 +4058,27 @@ Sąd lub prokurator niezwłocznie informuje organ wydający END:
 **Art. 589zs.**  
 § 1. Na wniosek innego państwa członkowskiego Unii Europejskiej Minister Sprawiedliwości udziela zezwolenia na przewóz przez terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności czasowo wydanej.  
 § 2. Wniosek o zezwolenie na przewóz zawiera:  
-1) oznaczenie organu wnioskującego;  
-2) datę oraz wskazanie miejsca wydania END;  
-3) dane określające tożsamość i obywatelstwo osoby;  
-4) wskazanie czynności dochodzeniowej, na potrzeby której osoba jest czasowo wydawana.  
+1\) oznaczenie organu wnioskującego;  
+2\) datę oraz wskazanie miejsca wydania END;  
+3\) dane określające tożsamość i obywatelstwo osoby;  
+4\) wskazanie czynności dochodzeniowej, na potrzeby której osoba jest czasowo wydawana.  
 § 3. W przypadku korzystania z drogi powietrznej bez planowanego lądowania można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby pozbawionej wolności czasowo wydanej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo, które wystąpiło z wnioskiem, dostarcza niezwłocznie dane, o których mowa w § 2.  
 § 4. Jeżeli jest to uzasadnione długością pobytu na terytorium Rzeczypospolitej Polskiej osoby pozbawionej wolności i przewożonej przez to terytorium w celu jej czasowego wydania, do osoby tej stosuje się odpowiednio przepis art. 589zf.
 
 **Art. 589zt.**  
 § 1. Jeżeli organ innego państwa członkowskiego Unii Europejskiej zamiast END przekazał powiadomienie o zamiarze przeprowadzenia albo o przeprowadzeniu kontroli i utrwalania treści rozmów telefonicznych, prokurator bez- pośrednio lub za pośrednictwem właściwego komendanta Policji przekazuje temu organowi informacje w przedmiocie dopuszczalności:  
-1) czynności, mając na względzie art. 237 § 3–4 oraz art. 238 § 1 i 2;  
-2) wykorzystania uzyskanego dowodu w postępowaniu karnym.  
+1\) czynności, mając na względzie art. 237 § 3–4 oraz art. 238 § 1 i 2;  
+2\) wykorzystania uzyskanego dowodu w postępowaniu karnym.  
 § 2. Informacje, o których mowa w § 1, przekazuje się w terminie 96 godzin od otrzymania powiadomienia.
 
 ## Rozdział 63: PRZEJĘCIE I PRZEKAZANIE ŚCIGANIA KARNEGO
 
 **Art. 590.**  
 § 1. W sprawie o przestępstwo popełnione za granicą przez:  
-1) obywatela polskiego,  
-2) osobę mającą na terytorium Rzeczypospolitej Polskiej stałe miejsce zamieszkania,  
-3) osobę, która odbywa lub będzie odbywać w Rzeczypospolitej Polskiej karę pozbawienia wolności,  
-4) osobę, przeciwko której zostało wszczęte w Rzeczypospolitej Polskiej postępowanie karne – Minister Sprawiedliwości zwraca się, jeżeli wymaga tego interes wymiaru sprawiedliwości, do właściwego organu państwa obcego z wnioskiem o przekazanie ścigania albo może przyjąć taki wniosek od właściwego organu państwa obcego.  
+1\) obywatela polskiego,  
+2\) osobę mającą na terytorium Rzeczypospolitej Polskiej stałe miejsce zamieszkania,  
+3\) osobę, która odbywa lub będzie odbywać w Rzeczypospolitej Polskiej karę pozbawienia wolności,  
+4\) osobę, przeciwko której zostało wszczęte w Rzeczypospolitej Polskiej postępowanie karne – Minister Sprawiedliwości zwraca się, jeżeli wymaga tego interes wymiaru sprawiedliwości, do właściwego organu państwa obcego z wnioskiem o przekazanie ścigania albo może przyjąć taki wniosek od właściwego organu państwa obcego.  
 § 2. Przejęcie ścigania karnego uważa się za wszczęcie postępowania karnego według prawa polskiego.  
 § 3. Jeżeli przejęcie ścigania łączy się z przekazaniem przez państwo obce tymczasowo aresztowanego, art. 598 stosuje się.  
 § 4. Do dowodów zebranych za granicą przed przejęciem ścigania stosuje się odpowiednio art. 587, choćby czynności dowodowe nie były podjęte na wniosek polskiego sądu lub prokuratora.  
@@ -4025,10 +4086,10 @@ Sąd lub prokurator niezwłocznie informuje organ wydający END:
 
 **Art. 591.**  
 § 1. W sprawie o przestępstwo popełnione na terytorium Rzeczypospolitej Polskiej przez cudzoziemca, Minister Sprawiedliwości, z urzędu albo z inicjatywy sądu lub prokuratora, zwraca się, jeżeli wymaga tego interes wymiaru sprawiedliwości, do właściwego organu państwa:  
-1) którego osoba ścigana jest obywatelem,  
-2) w którym osoba ścigana ma stałe miejsce zamieszkania,  
-3) w którym osoba ścigana odbywa lub będzie odbywała karę pozbawienia wolności,  
-4) w którym zostało wszczęte przeciwko osobie ściganej postępowanie karne – z wnioskiem o przejęcie ścigania karnego albo może przyjąć taki wniosek od właściwego organu państwa obcego.  
+1\) którego osoba ścigana jest obywatelem,  
+2\) w którym osoba ścigana ma stałe miejsce zamieszkania,  
+3\) w którym osoba ścigana odbywa lub będzie odbywała karę pozbawienia wolności,  
+4\) w którym zostało wszczęte przeciwko osobie ściganej postępowanie karne – z wnioskiem o przejęcie ścigania karnego albo może przyjąć taki wniosek od właściwego organu państwa obcego.  
 § 2. Jeżeli pokrzywdzonym jest obywatel polski, złożenie wniosku o przejęcie ścigania może nastąpić tylko za jego zgodą, chyba że uzyskanie tej zgody nie jest możliwe.  
 § 3. Przed wystąpieniem z wnioskiem, o którym mowa w § 1, lub rozstrzygnięciem takiego wniosku pochodzącego od organu państwa obcego właściwy organ umożliwia osobie ściganej przebywającej na terytorium Rzeczypospolitej Polskiej zajęcie stanowiska ustnie lub na piśmie w przedmiocie przejęcia ścigania.  
 § 4. W razie pozytywnego rozstrzygnięcia wniosku o przekazanie ścigania dotyczącego osoby tymczasowo aresztowanej na terytorium Rzeczypospolitej Polskiej Minister Sprawiedliwości zwraca się do właściwego organu o niezwłoczne podjęcie czynności mających na celu wydanie i przekazanie takiej osoby organom państwa obcego. Wraz z osobą przekazuje się akta sprawy, o ile nie zostały one uprzednio przekazane wraz z wnioskiem.  
@@ -4120,22 +4181,22 @@ Przekazane przez państwo obce przedmioty uzyskane w wyniku przestępstwa zwraca
 
 **Art. 604.**  
 § 1. Wydanie jest niedopuszczalne, jeżeli:  
-1) osoba, której wniosek dotyczy, jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu;  
-2) czyn nie zawiera znamion czynu zabronionego albo gdy ustawa uznaje, że czyn nie stanowi przestępstwa albo że sprawca nie popełnia przestępstwa lub nie podlega karze;  
-3) nastąpiło przedawnienie;  
-4) postępowanie karne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone;  
-5) byłoby ono sprzeczne z polskim prawem;  
-6) zachodzi uzasadniona obawa, że w państwie żądającym wydania wobec osoby wydanej może zostać orzeczona lub wykonana kara śmierci;  
-7) zachodzi uzasadniona obawa, że w państwie żądającym wydania może dojść do naruszenia wolności i praw osoby wydanej;  
-8) dotyczy osoby ściganej za popełnienie bez użycia przemocy przestępstwa z przyczyn politycznych.  
+1\) osoba, której wniosek dotyczy, jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu;  
+2\) czyn nie zawiera znamion czynu zabronionego albo gdy ustawa uznaje, że czyn nie stanowi przestępstwa albo że sprawca nie popełnia przestępstwa lub nie podlega karze;  
+3\) nastąpiło przedawnienie;  
+4\) postępowanie karne co do tego samego czynu tej samej osoby zostało prawomocnie zakończone;  
+5\) byłoby ono sprzeczne z polskim prawem;  
+6\) zachodzi uzasadniona obawa, że w państwie żądającym wydania wobec osoby wydanej może zostać orzeczona lub wykonana kara śmierci;  
+7\) zachodzi uzasadniona obawa, że w państwie żądającym wydania może dojść do naruszenia wolności i praw osoby wydanej;  
+8\) dotyczy osoby ściganej za popełnienie bez użycia przemocy przestępstwa z przyczyn politycznych.  
 § 2. Wydania można odmówić w szczególności, jeżeli:  
-1) osoba, której wniosek dotyczy, ma w Rzeczypospolitej Polskiej stałe miejsce zamieszkania;  
-2) przestępstwo zostało popełnione na terytorium Rzeczypospolitej Polskiej albo na polskim statku wodnym lub powietrznym;  
-3) co do tego samego czynu tej samej osoby toczy się postępowanie karne;  
-4) przestępstwo podlega ściganiu z oskarżenia prywatnego;  
-5) według prawa państwa, które złożyło wniosek o wydanie, przestępstwo jest zagrożone karą pozbawienia wolności do roku lub karą łagodniejszą albo orzeczono taką karę;  
-6) przestępstwo, w związku z którym żąda się wydania, jest przestępstwem o charakterze wojskowym lub skarbowym, albo o charakterze politycznym innym niż określone w § 1 pkt 8;  
-7) państwo, które złożyło wniosek o wydanie, nie zapewnia wzajemności.  
+1\) osoba, której wniosek dotyczy, ma w Rzeczypospolitej Polskiej stałe miejsce zamieszkania;  
+2\) przestępstwo zostało popełnione na terytorium Rzeczypospolitej Polskiej albo na polskim statku wodnym lub powietrznym;  
+3\) co do tego samego czynu tej samej osoby toczy się postępowanie karne;  
+4\) przestępstwo podlega ściganiu z oskarżenia prywatnego;  
+5\) według prawa państwa, które złożyło wniosek o wydanie, przestępstwo jest zagrożone karą pozbawienia wolności do roku lub karą łagodniejszą albo orzeczono taką karę;  
+6\) przestępstwo, w związku z którym żąda się wydania, jest przestępstwem o charakterze wojskowym lub skarbowym, albo o charakterze politycznym innym niż określone w § 1 pkt 8;  
+7\) państwo, które złożyło wniosek o wydanie, nie zapewnia wzajemności.  
 § 3. W wypadkach wskazanych w § 1 pkt 4 i § 2 pkt 3 rozpoznanie wniosku o wydanie można odroczyć do czasu ukończenia w Rzeczypospolitej Polskiej postępowania karnego przeciwko tej samej osobie lub odbycia przez nią orzeczonej kary albo jej darowania.
 
 **Art. 605.**  
@@ -4165,19 +4226,19 @@ W razie podejrzenia, że osoba ścigana za przestępstwo podlegające jurysdykcj
 
 **Art. 607b.**  
 Wydanie nakazu jest niedopuszczalne, jeśli nie wymaga tego interes wymiaru sprawiedliwości. Ponadto wydanie nakazu jest niedopuszczalne:  
-1) w związku z prowadzonym przeciwko osobie ściganej postępowaniem karnym o przestępstwo zagrożone karą pozbawienia wolności do roku;  
-2) w celu wykonania kary pozbawienia wolności orzeczonej w wymiarze do 4 miesięcy albo innego środka polegającego na pozbawieniu wolności na czas nieprzekraczający 4 miesięcy.
+1\) w związku z prowadzonym przeciwko osobie ściganej postępowaniem karnym o przestępstwo zagrożone karą pozbawienia wolności do roku;  
+2\) w celu wykonania kary pozbawienia wolności orzeczonej w wymiarze do 4 miesięcy albo innego środka polegającego na pozbawieniu wolności na czas nieprzekraczający 4 miesięcy.
 
 **Art. 607c.**  
 § 1. Nakaz powinien zawierać:  
-1) oznaczenie sądu występującego, ze wskazaniem jego adresu, numeru telefonu, telefaksu i adresu poczty elektronicznej;  
-2) datę oraz miejsce wydania nakazu;  
-3) dane określające tożsamość i obywatelstwo osoby ściganej;  
-4) sygnaturę, rodzaj i treść prawomocnego albo podlegającego wykonaniu orzeczenia sądu, w związku z którym nakaz został wydany;  
-5) przytoczenie opisu i kwalifikacji prawnej czynu;  
-6) górną granicę ustawowego zagrożenia karą pozbawienia wolności przestępstwa, o które toczy się postępowanie, lub wysokość orzeczonej kary pozbawienia wolności albo innego środka polegającego na pozbawieniu wolności;  
-7) zwięzły opis stanu faktycznego sprawy;  
-8) wskazanie następstw czynu nieobjętych ustawowymi znamionami przestępstwa.  
+1\) oznaczenie sądu występującego, ze wskazaniem jego adresu, numeru telefonu, telefaksu i adresu poczty elektronicznej;  
+2\) datę oraz miejsce wydania nakazu;  
+3\) dane określające tożsamość i obywatelstwo osoby ściganej;  
+4\) sygnaturę, rodzaj i treść prawomocnego albo podlegającego wykonaniu orzeczenia sądu, w związku z którym nakaz został wydany;  
+5\) przytoczenie opisu i kwalifikacji prawnej czynu;  
+6\) górną granicę ustawowego zagrożenia karą pozbawienia wolności przestępstwa, o które toczy się postępowanie, lub wysokość orzeczonej kary pozbawienia wolności albo innego środka polegającego na pozbawieniu wolności;  
+7\) zwięzły opis stanu faktycznego sprawy;  
+8\) wskazanie następstw czynu nieobjętych ustawowymi znamionami przestępstwa.  
 § 2. Nakaz powinien zostać przetłumaczony na język urzędowy państwa wykonania nakazu.  
 § 3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór nakazu, mając na uwadze konieczność udostępnienia państwu członkowskiemu Unii Europejskiej, do którego jest kierowany, danych niezbędnych do podjęcia prawidłowej decyzji w przedmiocie przekazania osoby ściganej.
 
@@ -4191,14 +4252,14 @@ Wydanie nakazu jest niedopuszczalne, jeśli nie wymaga tego interes wymiaru spra
 § 1. Osoby przekazanej w wyniku wykonania nakazu nie można ścigać za przestępstwa inne niż te, które stanowiły podstawę przekazania, ani wykonać orzeczonych wobec niej za te przestępstwa kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności.  
 § 2. Sąd, który prawomocnie orzekł w sprawie, może zarządzić wykonanie kary tylko za te przestępstwa, które stanowiły podstawę przekazania osoby ściganej. W posiedzeniu sądu mają prawo wziąć udział prokurator i osoba ścigana. Przepis art. 451 stosuje się odpowiednio.  
 § 3. Przepisu § 1 nie stosuje się, jeżeli:  
-1) państwo wykonania nakazu złożyło oświadczenie o dopuszczalności ścigania lub wykonania kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za wszystkie czyny popełnione przed przekazaniem, chyba że organ sądowy tego państwa w orzeczeniu o przekazaniu postanowił inaczej;  
-2) osoba przekazana, pomimo takiej możliwości, nie opuściła terytorium Rze- czypospolitej Polskiej w ciągu 45 dni od dnia prawomocnego zakończenia postępowania albo po opuszczeniu terytorium Rzeczypospolitej Polskiej na nie powróciła;  
-3) nie została orzeczona kara pozbawienia wolności albo inny środek polegający na pozbawieniu wolności;  
-4) postępowanie karne nie wiąże się ze stosowaniem wobec osoby ściganej środka polegającego na pozbawieniu wolności;  
-5) czyn osoby ściganej jest zagrożony karą lub środkiem niepolegającymi na pozbawieniu wolności;  
-6) osoba ścigana wyraziła zgodę na przekazanie i zrzekła się korzystania z prawa określonego w § 1;  
-7) osoba ścigana, po jej przekazaniu, złożyła przed sądem właściwym do rozpoznania sprawy oświadczenie o zrzeczeniu się korzystania z prawa określonego w § 1 w odniesieniu do czynów popełnionych przed przekazaniem;  
-8) organ sądowy państwa wykonania nakazu, który przekazał osobę ściganą, na wniosek sądu właściwego do wydania nakazu, wyraził zgodę na ściganie lub wykonanie kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za przestępstwa określone w pkt 1.  
+1\) państwo wykonania nakazu złożyło oświadczenie o dopuszczalności ścigania lub wykonania kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za wszystkie czyny popełnione przed przekazaniem, chyba że organ sądowy tego państwa w orzeczeniu o przekazaniu postanowił inaczej;  
+2\) osoba przekazana, pomimo takiej możliwości, nie opuściła terytorium Rze- czypospolitej Polskiej w ciągu 45 dni od dnia prawomocnego zakończenia postępowania albo po opuszczeniu terytorium Rzeczypospolitej Polskiej na nie powróciła;  
+3\) nie została orzeczona kara pozbawienia wolności albo inny środek polegający na pozbawieniu wolności;  
+4\) postępowanie karne nie wiąże się ze stosowaniem wobec osoby ściganej środka polegającego na pozbawieniu wolności;  
+5\) czyn osoby ściganej jest zagrożony karą lub środkiem niepolegającymi na pozbawieniu wolności;  
+6\) osoba ścigana wyraziła zgodę na przekazanie i zrzekła się korzystania z prawa określonego w § 1;  
+7\) osoba ścigana, po jej przekazaniu, złożyła przed sądem właściwym do rozpoznania sprawy oświadczenie o zrzeczeniu się korzystania z prawa określonego w § 1 w odniesieniu do czynów popełnionych przed przekazaniem;  
+8\) organ sądowy państwa wykonania nakazu, który przekazał osobę ściganą, na wniosek sądu właściwego do wydania nakazu, wyraził zgodę na ściganie lub wykonanie kar pozbawienia wolności albo innych środków polegających na pozbawieniu wolności za przestępstwa określone w pkt 1.  
 § 3a. Osoba ścigana nie może cofnąć zgody ani oświadczenia, o których mowa w § 3 pkt 6 i 7.  
 § 4. Wniosek, o którym mowa w § 3 pkt 8, powinien zawierać informacje wymienione w art. 607c § 1. Przepis art. 607c § 2 stosuje się odpowiednio.
 
@@ -4216,9 +4277,9 @@ Po prawomocnym zakończeniu postępowania karnego przeciwko osobie ściganej lub
 
 **Art. 607i.**  
 § 1. Osoba ścigana, która w wyniku przekazania znalazła się na terytorium Rzeczypospolitej Polskiej, podlega dalszemu przekazaniu bez zgody państwa wykonania nakazu w związku z przestępstwami popełnionymi przed przekazaniem, tylko wtedy, gdy:  
-1) pomimo takiej możliwości nie opuściła terytorium Rzeczypospolitej Polskiej w ciągu 45 dni od dnia prawomocnego zakończenia postępowania albo po opuszczeniu terytorium Rzeczypospolitej Polskiej na nie powróciła;  
-2) wyraziła zgodę na przekazanie do państwa innego niż państwo wykonania nakazu;  
-3) stosuje się do niej przepis art. 607e § 3 pkt 2, 6, 7 albo 8.  
+1\) pomimo takiej możliwości nie opuściła terytorium Rzeczypospolitej Polskiej w ciągu 45 dni od dnia prawomocnego zakończenia postępowania albo po opuszczeniu terytorium Rzeczypospolitej Polskiej na nie powróciła;  
+2\) wyraziła zgodę na przekazanie do państwa innego niż państwo wykonania nakazu;  
+3\) stosuje się do niej przepis art. 607e § 3 pkt 2, 6, 7 albo 8.  
 § 2. Na dalsze przekazanie osoby ściganej, która w wyniku przekazania znalazła się na terytorium Rzeczypospolitej Polskiej, wymagana jest zgoda właściwego organu sądowego państwa wykonania nakazu, które przekazało tę osobę. Wniosek właściwego sądu okręgowego o wyrażenie zgody na dalsze przekazanie powinien zawierać informacje wymienione w art. 607c § 1. Przepis art. 607c § 2 stosuje się odpowiednio.  
 § 3. Na wydanie osoby ściganej, która w wyniku przekazania znalazła się na terytorium Rzeczypospolitej Polskiej, wymagana jest zgoda właściwego organu państwa wykonania nakazu, które przekazało tę osobę.
 
@@ -4246,8 +4307,8 @@ Po prawomocnym zakończeniu postępowania karnego przeciwko osobie ściganej lub
 § 3b. Osoby, o których mowa w § 3a, nieporadne ze względu na wiek lub stan zdrowia, oraz które nie ukończyły 18 lat, mogą otrzymać dostęp do wyjaśnień co do zakresu ich uprawnień. Wzory wyjaśnień umieszcza się także na stronie internetowej Ministerstwa Sprawiedliwości.  
 § 3c. Pouczenie, o którym mowa w § 3a, i wyjaśnienia, o których mowa w § 3b, mogą być opisowe lub graficzne.  
 § 4. Minister Sprawiedliwości określi, w drodze rozporządzenia:  
-1) wzór pisemnego pouczenia, o którym mowa w § 3a, w tym odrębny dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;  
-2) wzory pisemnych wyjaśnień, o których mowa w § 3b, odrębnych dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby.
+1\) wzór pisemnego pouczenia, o którym mowa w § 3a, w tym odrębny dla osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia pouczenia przez osoby niekorzystające z pomocy obrońcy lub pełnomocnika, osoby nieporadne ze względu na wiek lub stan zdrowia lub osoby, które nie ukończyły 18 lat;  
+2\) wzory pisemnych wyjaśnień, o których mowa w § 3b, odrębnych dla osób nieporadnych ze względu na wiek lub stan zdrowia oraz osób, które nie ukończyły 18 lat, mając na względzie konieczność zrozumienia wyjaśnień przez te osoby.
 
 **Art. 607m.**  
 § 1. Postanowienie w przedmiocie przekazania sąd okręgowy wydaje w terminie 40 dni od dnia zatrzymania osoby ściganej. Jeżeli osoba ścigana złożyła oświadczenie, o którym mowa w art. 607l § 2, termin ten wynosi 3 dni i biegnie od dnia złożenia oświadczenia.  
@@ -4266,22 +4327,22 @@ Po prawomocnym zakończeniu postępowania karnego przeciwko osobie ściganej lub
 
 **Art. 607p.**  
 § 1. Odmawia się wykonania nakazu europejskiego, jeżeli:  
-1) przestępstwo, którego dotyczy nakaz europejski, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
-2) w stosunku do osoby ściganej zapadło w innym państwie prawomocne orzeczenie co do tych samych czynów oraz, w wypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
-3) w stosunku do osoby ściganej zapadło prawomocne orzeczenie o przekazaniu do innego państwa członkowskiego Unii Europejskiej;  
-4) osoba, której dotyczy nakaz europejski, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania nakazu europejskiego;  
-5) naruszałoby to wolności i prawa człowieka i obywatela;  
-6) nakaz wydany został w związku z przestępstwem popełnionym bez użycia przemocy z przyczyn politycznych.  
+1\) przestępstwo, którego dotyczy nakaz europejski, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
+2\) w stosunku do osoby ściganej zapadło w innym państwie prawomocne orzeczenie co do tych samych czynów oraz, w wypadku skazania za te same czyny, osoba ścigana odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
+3\) w stosunku do osoby ściganej zapadło prawomocne orzeczenie o przekazaniu do innego państwa członkowskiego Unii Europejskiej;  
+4\) osoba, której dotyczy nakaz europejski, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania nakazu europejskiego;  
+5\) naruszałoby to wolności i prawa człowieka i obywatela;  
+6\) nakaz wydany został w związku z przestępstwem popełnionym bez użycia przemocy z przyczyn politycznych.  
 § 2. Jeżeli nakaz europejski został wydany wobec osoby ściganej, która jest obywatelem polskim, wykonanie nakazu może nastąpić pod warunkiem, że czyn, którego nakaz europejski dotyczy, nie został popełniony na terytorium Rzeczy- pospolitej Polskiej ani na polskim statku wodnym lub powietrznym oraz stanowił przestępstwo według prawa Rzeczypospolitej Polskiej lub stanowiłby przestępstwo według prawa Rzeczypospolitej Polskiej w razie popełnienia na terytorium Rzeczypospolitej Polskiej, zarówno w czasie jego popełnienia, jak i w chwili wpłynięcia nakazu europejskiego.
 
 **Art. 607r.**  
 § 1. Można odmówić wykonania nakazu europejskiego, jeżeli:  
-1) przestępstwo będące podstawą wydania nakazu europejskiego, inne niż wymienione w art. 607w, nie stanowi przestępstwa według prawa polskiego;  
-2) przeciwko osobie ściganej, której dotyczy nakaz europejski, toczy się w Rzeczypospolitej Polskiej postępowanie karne o przestępstwo, które stanowi podstawę nakazu europejskiego;  
-3) wobec osoby ściganej, w związku z czynem będącym podstawą wydania nakazu europejskiego zapadło prawomocne orzeczenie o odmowie wszczęcia postępowania, o umorzeniu postępowania lub inne orzeczenie kończące postępowanie w sprawie;  
-4) według prawa polskiego nastąpiło przedawnienie ścigania lub wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
-5) nakaz europejski dotyczy przestępstw, które według prawa polskiego zostały popełnione, w całości lub w części, na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-6) za czyn zabroniony, którego dotyczy nakaz europejski, w państwie wydania nakazu europejskiego można orzec karę dożywotniego pozbawienia wolności albo inny środek polegający na pozbawieniu wolności bez możliwości ubiegania się o jego skrócenie.  
+1\) przestępstwo będące podstawą wydania nakazu europejskiego, inne niż wymienione w art. 607w, nie stanowi przestępstwa według prawa polskiego;  
+2\) przeciwko osobie ściganej, której dotyczy nakaz europejski, toczy się w Rzeczypospolitej Polskiej postępowanie karne o przestępstwo, które stanowi podstawę nakazu europejskiego;  
+3\) wobec osoby ściganej, w związku z czynem będącym podstawą wydania nakazu europejskiego zapadło prawomocne orzeczenie o odmowie wszczęcia postępowania, o umorzeniu postępowania lub inne orzeczenie kończące postępowanie w sprawie;  
+4\) według prawa polskiego nastąpiło przedawnienie ścigania lub wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
+5\) nakaz europejski dotyczy przestępstw, które według prawa polskiego zostały popełnione, w całości lub w części, na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+6\) za czyn zabroniony, którego dotyczy nakaz europejski, w państwie wydania nakazu europejskiego można orzec karę dożywotniego pozbawienia wolności albo inny środek polegający na pozbawieniu wolności bez możliwości ubiegania się o jego skrócenie.  
 § 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 3. Można także odmówić wykonania nakazu europejskiego, wydanego w celu wykonania kary albo środka polegającego na pozbawieniu wolności, orzeczonych pod nieobecność osoby ściganej, chyba że:  
 a) osobę ściganą wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo miała ona obrońcę, który był obecny na rozprawie lub posiedzeniu,  
@@ -4304,39 +4365,39 @@ Jeżeli nakaz europejski został wydany w celu wykonania kary albo środka poleg
 
 **Art. 607w.**  
 Jeżeli nakaz europejski dotyczy osoby niebędącej obywatelem polskim, okoliczność, że czyn nie jest przestępstwem według prawa polskiego, nie stanowi przeszkody do wykonania nakazu europejskiego, o ile dotyczy on czynu zagrożonego w państwie jego wydania karą co najmniej 3 lat pozbawienia wolności albo czynu, za który może być orzeczony co najmniej w tym samym wymiarze inny środek polegający na pozbawieniu wolności, będącego przestępstwem:  
-1) udziału w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw;  
-2) o charakterze terrorystycznym;  
-3) handlu ludźmi;  
-4) przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego;  
-5) nielegalnego wytwarzania, przetwarzania, przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych lub obrotu nimi;  
-6) nielegalnego obrotu bronią, amunicją, materiałami wybuchowymi lub radioaktywnymi;  
-7) łapownictwa i płatnej protekcji;  
-8) oszustwa;  
-9) wprowadzania do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;  
-10) fałszowania oraz obrotu fałszywymi pieniędzmi lub innymi środkami płatniczymi;  
-11) przeciwko ochronie danych gromadzonych, przechowywanych, przetwarzanych lub przekazywanych w systemie informatycznym;  
-12) przeciwko środowisku naturalnemu, w tym nielegalnego obrotu zagrożonymi gatunkami zwierząt i roślin;  
-13) udzielenia pomocy w nielegalnym przekroczeniu granicy lub pobycie;  
-14) zabójstwa;  
-15) spowodowania ciężkiego uszczerbku na zdrowiu;  
-16) nielegalnego obrotu organami i tkankami ludzkimi;  
-17) bezprawnego pozbawienia człowieka wolności;  
-18) uprowadzenia człowieka dla okupu;  
-19) wzięcia lub przetrzymywania zakładnika;  
-20) popełnionym z powodów narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość;  
-21) rozboju z użyciem broni palnej lub groźby jej użycia;  
-22) wymuszenia rozbójniczego z użyciem broni palnej lub groźby jej użycia;  
-23) nielegalnego obrotu dobrami kultury;  
-24) sprzeniewierzenia cudzego mienia;  
-25) podrabiania oraz obrotu podrobionymi wyrobami;  
-26) fałszowania oraz obrotu sfałszowanymi dokumentami;  
-27) nielegalnego obrotu hormonami lub podobnymi substancjami;  
-28) obrotu kradzionymi pojazdami mechanicznymi;  
-29) zgwałcenia;  
-30) podpalenia;  
-31) należącym do właściwości Międzynarodowego Trybunału Karnego;  
-32) porwania statku wodnego lub powietrznego;  
-33) sabotażu.
+1\) udziału w zorganizowanej grupie albo związku mających na celu popełnianie przestępstw;  
+2\) o charakterze terrorystycznym;  
+3\) handlu ludźmi;  
+4\) przeciwko wolności seksualnej lub obyczajności na szkodę małoletniego;  
+5\) nielegalnego wytwarzania, przetwarzania, przemytu środków odurzających, prekursorów, środków zastępczych lub substancji psychotropowych lub obrotu nimi;  
+6\) nielegalnego obrotu bronią, amunicją, materiałami wybuchowymi lub radioaktywnymi;  
+7\) łapownictwa i płatnej protekcji;  
+8\) oszustwa;  
+9\) wprowadzania do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł;  
+10\) fałszowania oraz obrotu fałszywymi pieniędzmi lub innymi środkami płatniczymi;  
+11\) przeciwko ochronie danych gromadzonych, przechowywanych, przetwarzanych lub przekazywanych w systemie informatycznym;  
+12\) przeciwko środowisku naturalnemu, w tym nielegalnego obrotu zagrożonymi gatunkami zwierząt i roślin;  
+13\) udzielenia pomocy w nielegalnym przekroczeniu granicy lub pobycie;  
+14\) zabójstwa;  
+15\) spowodowania ciężkiego uszczerbku na zdrowiu;  
+16\) nielegalnego obrotu organami i tkankami ludzkimi;  
+17\) bezprawnego pozbawienia człowieka wolności;  
+18\) uprowadzenia człowieka dla okupu;  
+19\) wzięcia lub przetrzymywania zakładnika;  
+20\) popełnionym z powodów narodowościowych, etnicznych, rasowych, wyznaniowych albo ze względu na bezwyznaniowość;  
+21\) rozboju z użyciem broni palnej lub groźby jej użycia;  
+22\) wymuszenia rozbójniczego z użyciem broni palnej lub groźby jej użycia;  
+23\) nielegalnego obrotu dobrami kultury;  
+24\) sprzeniewierzenia cudzego mienia;  
+25\) podrabiania oraz obrotu podrobionymi wyrobami;  
+26\) fałszowania oraz obrotu sfałszowanymi dokumentami;  
+27\) nielegalnego obrotu hormonami lub podobnymi substancjami;  
+28\) obrotu kradzionymi pojazdami mechanicznymi;  
+29\) zgwałcenia;  
+30\) podpalenia;  
+31\) należącym do właściwości Międzynarodowego Trybunału Karnego;  
+32\) porwania statku wodnego lub powietrznego;  
+33\) sabotażu.
 
 **Art. 607wa.**  
 § 1. Właściwy sąd lub prokurator na wniosek organu sądowego państwa wydania nakazu europejskiego dokonuje zajęcia i przekazania przedmiotów pochodzących bezpośrednio z przestępstwa, przedmiotów, które służyły lub były przeznaczone do popełnienia przestępstwa, lub mogących stanowić dowód w sprawie rzeczy, korespondencji, przesyłek, wykazów połączeń telekomunikacyjnych lub innych przekazów informacji lub danych przechowywanych w systemie informatycznym lub na nośniku, w tym korespondencji przesyłanej pocztą elektroniczną.  
@@ -4364,11 +4425,11 @@ Jeżeli nakaz europejski dotyczy osoby niebędącej obywatelem polskim, okoliczn
 **Art. 607zb.**  
 § 1. Na wniosek państwa wykonania nakazu europejskiego Minister Sprawiedliwości udziela zezwolenia na przewóz osoby ściganej na podstawie nakazu europejskiego przez terytorium Rzeczypospolitej Polskiej.  
 § 2. Wniosek o zezwolenie na przewóz, o którym mowa w § 1, powinien zawierać:  
-1) oznaczenie organu wnioskującego;  
-2) datę oraz miejsce wydania nakazu europejskiego;  
-3) dane określające tożsamość i obywatelstwo osoby ściganej;  
-4) przytoczenie opisu i kwalifikacji prawnej czynu;  
-5) zwięzły opis stanu faktycznego sprawy.  
+1\) oznaczenie organu wnioskującego;  
+2\) datę oraz miejsce wydania nakazu europejskiego;  
+3\) dane określające tożsamość i obywatelstwo osoby ściganej;  
+4\) przytoczenie opisu i kwalifikacji prawnej czynu;  
+5\) zwięzły opis stanu faktycznego sprawy.  
 § 3. Jeżeli osoba ścigana jest obywatelem polskim albo korzysta w Rzeczypospolitej Polskiej z prawa azylu, zezwolenie, o którym mowa w § 1, można wydać pod warunkiem, że osoba ta po zakończeniu postępowania zostanie przekazana do wykonania kary pozbawienia wolności lub środka polegającego na pozbawieniu wolności na terytorium Rzeczypospolitej Polskiej.  
 § 4. W wypadku korzystania z drogi powietrznej bez planowanego lądowania, można poprzestać na powiadomieniu Ministra Sprawiedliwości o przewożeniu osoby ściganej nad terytorium Rzeczypospolitej Polskiej. Jeżeli jednak nastąpi nieprzewidziane lądowanie, państwo wykonania nakazu europejskiego dostarcza niezwłocznie dane, o których mowa w § 2; przepis § 3 stosuje się odpowiednio.
 
@@ -4402,14 +4463,14 @@ Na postanowienie sądu lub prokuratora w sprawie wystąpienia do właściwego s�
 
 **Art. 607zh.**  
 § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie orzeczenia wydanego w celu zapewnienia prawidłowego toku postępowania i nakładającego na osobę, przeciwko której w tym państwie prowadzone jest postępowanie karne, obowiązek:  
-1) stawiennictwa przed określonym organem,  
-2) powstrzymania się od opuszczania miejsca pobytu lub kraju,  
-3) informowania określonego organu o zmianie miejsca pobytu albo uzyskiwania zgody na taką zmianę,  
-4) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach,  
-5) powstrzymania się od kontaktów z określonymi osobami lub zbliżania się do określonych osób,  
-6) powstrzymania się od wykonywania czynności służbowych lub zawodu,  
-7) powstrzymania się od określonej działalności,  
-8) powstrzymania się od prowadzenia określonego rodzaju pojazdów – orzeczenie to podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na legalne stałe miejsce pobytu tej osoby.  
+1\) stawiennictwa przed określonym organem,  
+2\) powstrzymania się od opuszczania miejsca pobytu lub kraju,  
+3\) informowania określonego organu o zmianie miejsca pobytu albo uzyskiwania zgody na taką zmianę,  
+4\) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach,  
+5\) powstrzymania się od kontaktów z określonymi osobami lub zbliżania się do określonych osób,  
+6\) powstrzymania się od wykonywania czynności służbowych lub zawodu,  
+7\) powstrzymania się od określonej działalności,  
+8\) powstrzymania się od prowadzenia określonego rodzaju pojazdów – orzeczenie to podlega wykonaniu przez prokuratora właściwego miejscowo ze względu na legalne stałe miejsce pobytu tej osoby.  
 § 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające informacje umożliwiające jego prawidłowe wykonanie.  
 § 3. Jeżeli prokurator, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu prokuratorowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.  
 § 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia prokurator może wyrazić zgodę na wykonanie orzeczenia, o którym mowa w § 1, wydanego wobec osoby określonej w tym paragrafie, nieposiadającej legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli w większym stopniu zapewni to prawidłowy tok postępowania.  
@@ -4428,20 +4489,20 @@ Na postanowienie sądu lub prokuratora w sprawie wystąpienia do właściwego s�
 
 **Art. 607zk.**  
 § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:  
-1) czyn, w związku z którym zastosowano środek zapobiegawczy, nie stanowi przestępstwa według prawa polskiego;  
-2) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że na nie powróci.  
+1\) czyn, w związku z którym zastosowano środek zapobiegawczy, nie stanowi przestępstwa według prawa polskiego;  
+2\) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że na nie powróci.  
 § 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 607zh § 1, jeżeli:  
-1) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 607zh § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
-3) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
-4) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-5) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;  
-6) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;  
-7) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 607zh § 1;  
-8) orzeczenie zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 607zh § 4;  
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
-10) pomimo niestosowania się osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, do wymagań określonych w orzeczeniu nie jest możliwe przekazanie jej z terytorium Rzeczypospolitej Polskiej na podstawie europejskiego nakazu aresztowania.  
+1\) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 607zh § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
+2\) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa karę lub ją odbyła albo kara nie może być wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
+3\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
+4\) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+5\) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;  
+6\) osoba, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;  
+7\) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 607zh § 1;  
+8\) orzeczenie zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 607zh § 4;  
+9\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
+10\) pomimo niestosowania się osoby, przeciwko której w państwie wydania orzeczenia prowadzone jest postępowanie karne, do wymagań określonych w orzeczeniu nie jest możliwe przekazanie jej z terytorium Rzeczypospolitej Polskiej na podstawie europejskiego nakazu aresztowania.  
 § 4. W wypadku wskazanym w § 3 pkt 10, gdy przemawiają za tym szczególne względy, prokurator, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia.  
 § 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2 i 7 prokurator przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
 
@@ -4500,17 +4561,17 @@ Minister Sprawiedliwości może zawrzeć z odpowiednim organem państwa obcego p
 
 **Art. 611b.**  
 § 1. Przejęcie orzeczenia do wykonania w Rzeczypospolitej Polskiej jest niedopuszczalne, jeżeli:  
-1) orzeczenie nie jest prawomocne albo nie podlega wykonaniu;  
-2) wykonanie orzeczenia mogłoby naruszać suwerenność, bezpieczeństwo lub porządek prawny Rzeczypospolitej Polskiej;  
-3) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, nie wyraża zgody na przejęcie;  
-4) skazany na grzywnę albo wobec którego orzeczono przepadek, niezamieszkujący na stałe na terytorium Rzeczypospolitej Polskiej, nie posiada mienia na jej terytorium;  
-5) czyn wskazany we wniosku nie stanowi czynu zabronionego według prawa polskiego;  
-6) zachodzą okoliczności, o których mowa w art. 604 § 1 pkt 2, 3 i 5.  
+1\) orzeczenie nie jest prawomocne albo nie podlega wykonaniu;  
+2\) wykonanie orzeczenia mogłoby naruszać suwerenność, bezpieczeństwo lub porządek prawny Rzeczypospolitej Polskiej;  
+3\) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, nie wyraża zgody na przejęcie;  
+4\) skazany na grzywnę albo wobec którego orzeczono przepadek, niezamieszkujący na stałe na terytorium Rzeczypospolitej Polskiej, nie posiada mienia na jej terytorium;  
+5\) czyn wskazany we wniosku nie stanowi czynu zabronionego według prawa polskiego;  
+6\) zachodzą okoliczności, o których mowa w art. 604 § 1 pkt 2, 3 i 5.  
 § 2. Przekazanie orzeczenia do wykonania w państwie obcym jest niedopuszczalne, jeżeli:  
-1) orzeczenie nie jest prawomocne albo nie podlega wykonaniu;  
-2) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, nie wyraża zgody na przekazanie;  
-3) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, jest osobą określoną w art. 604 § 1 pkt 1;  
-4) zachodzą okoliczności, o których mowa w art. 604 § 1 pkt 3 i 5.
+1\) orzeczenie nie jest prawomocne albo nie podlega wykonaniu;  
+2\) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, nie wyraża zgody na przekazanie;  
+3\) skazany na karę pozbawienia wolności lub osoba, wobec której orzeczono środek polegający na pozbawieniu wolności, jest osobą określoną w art. 604 § 1 pkt 1;  
+4\) zachodzą okoliczności, o których mowa w art. 604 § 1 pkt 3 i 5.
 
 **Art. 611c.**  
 § 1. Po przejęciu orzeczenia do wykonania sąd określa kwalifikację prawną czynu według prawa polskiego oraz karę i środek podlegające wykonaniu.  
@@ -4527,11 +4588,11 @@ Jeżeli skazany prawomocnym wyrokiem albo wobec którego prawomocnie orzeczono �
 
 **Art. 611ea.**  
 § 1. Jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje bezpośrednie przekazywanie wniosków o przejęcie i przekazanie orzeczeń do wykonania między polskimi sądami a właściwymi organami państwa obcego, to:  
-1) przepisów niniejszego rozdziału o udziale Ministra Sprawiedliwości w przejmowaniu i przekazywaniu orzeczeń do wykonania nie stosuje się;  
-2) postępowanie w przedmiocie dopuszczalności przejęcia lub przekazania można wszcząć z urzędu;  
-3) o przekazanie orzeczenia do wykonania sąd może do właściwego organu państwa obcego zwrócić się z urzędu;  
-4) stwierdzenie dopuszczalności przejęcia lub przekazania jest równoznaczne ze zgodą na przejęcie lub przekazanie;  
-5) stwierdzenie niedopuszczalności przejęcia lub przekazania jest równoznaczne z odmową zgody na przejęcie lub przekazanie.  
+1\) przepisów niniejszego rozdziału o udziale Ministra Sprawiedliwości w przejmowaniu i przekazywaniu orzeczeń do wykonania nie stosuje się;  
+2\) postępowanie w przedmiocie dopuszczalności przejęcia lub przekazania można wszcząć z urzędu;  
+3\) o przekazanie orzeczenia do wykonania sąd może do właściwego organu państwa obcego zwrócić się z urzędu;  
+4\) stwierdzenie dopuszczalności przejęcia lub przekazania jest równoznaczne ze zgodą na przejęcie lub przekazanie;  
+5\) stwierdzenie niedopuszczalności przejęcia lub przekazania jest równoznaczne z odmową zgody na przejęcie lub przekazanie.  
 § 2. Minister Sprawiedliwości może przejąć prowadzenie każdej sprawy w przedmiocie przejęcia lub przekazania orzeczenia do wykonania, jeżeli umowa międzynarodowa nie sprzeciwia się temu.  
 § 3. Minister Sprawiedliwości może zażądać przedstawienia mu niezbędnych informacji lub kopii dokumentów z akt sprawy, jeśli zachodzi konieczność, aby rozważył przejęcie prowadzenia sprawy o przejęcie lub przekazanie orzeczenia do wykonania.  
 § 4. Przejęcie prowadzenia sprawy przez Ministra Sprawiedliwości może nastąpić do czasu prawomocnego zakończenia postępowania w przedmiocie dopuszczalności przejęcia lub przekazania orzeczenia do wykonania. W razie skutecznego przejęcia sprawy przepisu § 1 nie stosuje się, a postępowanie prowadzi się od początku.
@@ -4571,10 +4632,10 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 
 **Art. 611ff.**  
 § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia o karach o charakterze pieniężnym, orzeczenie to podlega wykonaniu przez sąd rejonowy, w okręgu którego sprawca posiada mienie lub osiąga dochody, albo ma stałe lub czasowe miejsce pobytu. W rozumieniu przepisów niniejszego rozdziału „karą o charakterze pieniężnym” jest obowiązek uiszczenia przez sprawcę określonych w orzeczeniu:  
-1) kwoty pieniężnej jako kary za popełnione przestępstwo;  
-2) zadośćuczynienia na rzecz pokrzywdzonego, jeżeli nie mógł on w ramach postępowania karnego dochodzić roszczeń o charakterze cywilnym;  
-3) kwoty pieniężnej na rzecz funduszu publicznego lub organizacji pomocy ofiarom przestępstw;  
-4) kosztów procesu.  
+1\) kwoty pieniężnej jako kary za popełnione przestępstwo;  
+2\) zadośćuczynienia na rzecz pokrzywdzonego, jeżeli nie mógł on w ramach postępowania karnego dochodzić roszczeń o charakterze cywilnym;  
+3\) kwoty pieniężnej na rzecz funduszu publicznego lub organizacji pomocy ofiarom przestępstw;  
+4\) kosztów procesu.  
 § 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.  
 § 3. Do wykonania orzeczenia sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.  
 § 4. Jeżeli sąd, do którego zostało skierowane orzeczenie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i powiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia.  
@@ -4583,7 +4644,7 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 
 **Art. 611fg.**  
 Można odmówić wykonania orzeczenia, o którym mowa w art. 611ff § 1, jeżeli:  
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w lub zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo:  
+1\) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w lub zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo:  
 a) popełnione z użyciem przemocy na osobie lub gróźb karalnych,  
 b) popełnione w związku z imprezą masową,  
 c) przeciwko bezpieczeństwu w komunikacji,  
@@ -4592,19 +4653,19 @@ e) zniszczenia lub uszkodzenia mienia,
 f) przemytu towarów,  
 g) przeciwko prawom własności intelektualnej,  
 h) określone w celu wykonania wynikających z aktów prawnych przyjętych przez właściwe instytucje Unii Europejskiej zobowiązań do ustanowienia sankcji w prawie wewnętrznym państw członkowskich, jednakże wyłącznie w granicach, w jakich zobowiązanie to zostało w tych aktach określone;  
-2) do orzeczenia nie dołączono zaświadczenia o którym mowa w art. 611ff § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;  
-3) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie kary o charakterze pieniężnym zostało wykonane;  
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
-5) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-6) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;  
-7) sprawca nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;  
-8) osoba, której dotyczy orzeczenie, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
-9) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, iż osoba, której dotyczy orzeczenie, nie została należycie pouczona o możliwości i prawie do zaskarżenia tego orzeczenia;  
-10) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
+2\) do orzeczenia nie dołączono zaświadczenia o którym mowa w art. 611ff § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;  
+3\) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie kary o charakterze pieniężnym zostało wykonane;  
+4\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
+5\) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+6\) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;  
+7\) sprawca nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;  
+8\) osoba, której dotyczy orzeczenie, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
+9\) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, iż osoba, której dotyczy orzeczenie, nie została należycie pouczona o możliwości i prawie do zaskarżenia tego orzeczenia;  
+10\) z treści zaświadczenia, o którym mowa w art. 611ff § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
 a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,  
 b) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;  
-11) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
-12) orzeczenie dotyczy kary o charakterze pieniężnym niższej niż 70 euro lub niższej niż równowartość tej kwoty w innej walucie.
+11\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
+12\) orzeczenie dotyczy kary o charakterze pieniężnym niższej niż 70 euro lub niższej niż równowartość tej kwoty w innej walucie.
 
 **Art. 611fh.**  
 § 1. Sąd rozpoznaje sprawę wykonania orzeczenia o karach o charakterze pieniężnym na posiedzeniu, w którym ma prawo wziąć udział prokurator, sprawca, jeżeli przebywa na terytorium Rzeczypospolitej Polskiej, i jego obrońca, jeżeli się na nie stawi. Jeżeli sprawca, który nie przebywa na terytorium Rzeczypospolitej Polskiej, nie posiada obrońcy, prezes sądu właściwego do rozpoznania sprawy może mu wyznaczyć obrońcę z urzędu.  
@@ -4637,8 +4698,8 @@ Koszty związane z wykonaniem orzeczenia, o którym mowa w art. 611ff § 1, pono
 § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca przepadku, sąd może wystąpić o jego wykonanie bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, w którym sprawca posiada mienie lub osiąga dochody, a w razie niemożności jego ustalenia, państwa, w którym ma stałe lub czasowe miejsce pobytu.  
 § 2. Wystąpienie, o którym mowa w § 1, sąd każdorazowo kieruje wyłącznie do jednego państwa wykonania orzeczenia, z zastrzeżeniem § 3 i 4.  
 § 3. Jeżeli wystąpienie dotyczy określonych składników mienia, może ono nastąpić do więcej niż jednego państwa wykonania orzeczenia, jeżeli istnieje prawdopodobieństwo, że:  
-1) określone składniki mienia znajdują się w więcej niż jednym państwie wy- konania orzeczenia lub w jednym z wielu państw wykonania orzeczenia lub  
-2) postępowanie wykonawcze będzie prowadzone w więcej niż jednym państwie wykonania orzeczenia.  
+1\) określone składniki mienia znajdują się w więcej niż jednym państwie wy- konania orzeczenia lub w jednym z wielu państw wykonania orzeczenia lub  
+2\) postępowanie wykonawcze będzie prowadzone w więcej niż jednym państwie wykonania orzeczenia.  
 § 4. Jeżeli wystąpienie dotyczy kwoty pieniężnej, może być skierowane do więcej niż jednego państwa wykonania orzeczenia, jeżeli mienie, co do którego może nastąpić przepadek, nie zostało zabezpieczone na podstawie postanowienia, o którym mowa w art. 589g § 1, lub gdy jego wartość nie jest wystarczająca do wyegzekwowania kwoty pieniężnej, co do której orzeczono przepadek, lub gdy przemawia za tym dobro postępowania.  
 § 5. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.  
 § 6. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.  
@@ -4677,23 +4738,23 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 
 **Art. 611fw.**  
 § 1. Odmawia się wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości w części, w której zostało ono wydane w oparciu o domniemanie pochodzenia tej korzyści z przestępstwa, inne niż domniemanie:  
-1) pochodzenia korzyści majątkowej z przestępstwa innego niż to, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;  
-2) pochodzenia korzyści majątkowej z innego przestępstwa podobnego do przestępstwa, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;  
-3) pochodzenia z przestępstwa mienia nieznajdującego pokrycia w ujawnionych źródłach przychodu sprawcy.  
+1\) pochodzenia korzyści majątkowej z przestępstwa innego niż to, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;  
+2\) pochodzenia korzyści majątkowej z innego przestępstwa podobnego do przestępstwa, za które sprawca został skazany, popełnionego do chwili wydania chociażby nieprawomocnego wyroku;  
+3\) pochodzenia z przestępstwa mienia nieznajdującego pokrycia w ujawnionych źródłach przychodu sprawcy.  
 § 2. Można odmówić wykonania orzeczenia przepadku korzyści majątkowej albo jej równowartości, wydanego w oparciu o domniemania, o których mowa w § 1, w części, w której orzeczenie przepadku byłoby niedopuszczalne według prawa polskiego.  
 § 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:  
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego lub za przestępstwo będące podstawą wydania orzeczenia nie można orzec przepadku według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w; przepis art. 607r § 2 stosuje się odpowiednio;  
-2) do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611fu § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;  
-3) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie przepadku zostało wyko- nane;  
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a prze- stępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
-5) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały po- pełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-6) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;  
-7) sprawca nie podlega jurysdykcji polskich sądów karnych lub też brak jest wymaganego zezwolenia na jego ściganie;  
-8) z treści zaświadczenia, o którym mowa w art. 611fu § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
+1\) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego lub za przestępstwo będące podstawą wydania orzeczenia nie można orzec przepadku według prawa polskiego, chyba że zgodnie z prawem państwa wydania orzeczenia jest to przestępstwo wymienione w art. 607w; przepis art. 607r § 2 stosuje się odpowiednio;  
+2\) do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611fu § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty jest niezgodne z treścią orzeczenia;  
+3\) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim, a orzeczenie w zakresie przepadku zostało wyko- nane;  
+4\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a prze- stępstwa, których to dotyczy, podlegały jurysdykcji sądów polskich;  
+5\) orzeczenie dotyczy przestępstw, które według prawa polskiego zostały po- pełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+6\) orzeczenie dotyczy przestępstw popełnionych poza terytorium państwa wydania orzeczenia, a prawo polskie nie dopuszcza ścigania takiego rodzaju przestępstw, jeżeli zostały one popełnione poza terytorium Rzeczypospolitej Polskiej;  
+7\) sprawca nie podlega jurysdykcji polskich sądów karnych lub też brak jest wymaganego zezwolenia na jego ściganie;  
+8\) z treści zaświadczenia, o którym mowa w art. 611fu § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
 a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia albo sprawca miał obrońcę, który był obecny na rozprawie lub posiedzeniu,  
 b) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;  
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
-10) zachodzi uzasadniona obawa, że wykonanie orzeczenia może naruszyć prawa osób trzecich.  
+9\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych, podlega darowaniu na mocy amnestii;  
+10\) zachodzi uzasadniona obawa, że wykonanie orzeczenia może naruszyć prawa osób trzecich.  
 § 4. Jeżeli informacje przekazane przez państwo wydania orzeczenia nie są wystarczające do podjęcia decyzji w przedmiocie wykonania orzeczenia przepadku, sąd wzywa właściwy sąd lub inny organ państwa wydania orzeczenia do ich uzupełnienia we wskazanym terminie.  
 § 5. W razie niedotrzymania terminu, o którym mowa w § 4, postanowienie w przedmiocie wykonania orzeczenia wydaje się w oparciu o informacje przekazane wcześniej.  
 § 6. Jeżeli wykonanie orzeczenia nie jest możliwe z przyczyn faktycznych lub prawnych, sąd niezwłocznie powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia.
@@ -4705,10 +4766,10 @@ b) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przysługującym
 
 **Art. 611fy.**  
 § 1. Sąd może zawiesić postępowanie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611fu § 1, jeżeli:  
-1) wystąpienie, dotyczące kwoty pieniężnej, nastąpiło do więcej niż jednego państwa członkowskiego, a istnieje prawdopodobieństwo, że wskutek wy- konania orzeczenia w kilku państwach członkowskich przepadkowi ulegnie kwota wyższa niż określona w orzeczeniu;  
-2) wykonanie orzeczenia mogłoby utrudnić toczące się postępowanie karne;  
-3) mienie może podlegać przepadkowi w toczącym się w Polsce postępowaniu;  
-4) uzna za niezbędne przetłumaczenie orzeczenia na język polski.  
+1\) wystąpienie, dotyczące kwoty pieniężnej, nastąpiło do więcej niż jednego państwa członkowskiego, a istnieje prawdopodobieństwo, że wskutek wy- konania orzeczenia w kilku państwach członkowskich przepadkowi ulegnie kwota wyższa niż określona w orzeczeniu;  
+2\) wykonanie orzeczenia mogłoby utrudnić toczące się postępowanie karne;  
+3\) mienie może podlegać przepadkowi w toczącym się w Polsce postępowaniu;  
+4\) uzna za niezbędne przetłumaczenie orzeczenia na język polski.  
 § 2. Na postanowienie w przedmiocie zawieszenia postępowania zażalenie przysługuje stronom oraz osobie trzeciej, o której mowa w art. 611fx § 1. Sąd, który wydał postanowienie, powiadamia właściwy sąd lub inny organ państwa wydania orzeczenia o zawieszeniu postępowania i jego przyczynach.  
 § 3. W razie zawieszenia postępowania sąd z urzędu może zabezpieczyć wykonanie orzeczenia. Przepisy o zabezpieczeniu majątkowym na mieniu oskarżonego stosuje się odpowiednio.
 
@@ -4793,14 +4854,14 @@ Ustaleń z Trybunałem, o których mowa w przepisach Statutu, innych niż okreś
 § 1. W razie prawomocnego orzeczenia przez sąd polski wobec obywatela polskiego lub cudzoziemca kary pozbawienia wolności podlegającej wykonaniu, sąd okręgowy, w którego okręgu wydano orzeczenie, za zgodą skazanego, może wystąpić o wykonanie orzeczenia bezpośrednio do właściwego sądu lub innego organu państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wykonania orzeczenia”, jeżeli przekazanie orzeczenia do wykonania pozwoli w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.  
 § 2. Wystąpienie, o którym mowa w § 1, może nastąpić także na wniosek Ministra Sprawiedliwości, właściwego sądu lub innego organu państwa wykonania orzeczenia lub skazanego.  
 § 3. Wystąpienie, o którym mowa w § 1, sąd kieruje do właściwego sądu lub innego organu:  
-1) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym posiada stałe lub czasowe miejsce pobytu,  
-2) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym nie posiada stałego lub czasowego miejsca pobytu, lecz na podstawie prawomocnej decyzji będzie do niego wydalony po odbyciu kary lub zwolnieniu z zakładu karnego,  
-3) innego państwa wykonania orzeczenia, za zgodą właściwego sądu lub innego organu tego państwa – o ile skazany przebywa na terytorium Rzeczypospolitej Polskiej lub w państwie, do którego skierowano wystąpienie.  
+1\) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym posiada stałe lub czasowe miejsce pobytu,  
+2\) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym nie posiada stałego lub czasowego miejsca pobytu, lecz na podstawie prawomocnej decyzji będzie do niego wydalony po odbyciu kary lub zwolnieniu z zakładu karnego,  
+3\) innego państwa wykonania orzeczenia, za zgodą właściwego sądu lub innego organu tego państwa – o ile skazany przebywa na terytorium Rzeczypospolitej Polskiej lub w państwie, do którego skierowano wystąpienie.  
 § 4. Wystąpienie, o którym mowa w § 1, każdorazowo sąd kieruje wyłącznie do jednego państwa wykonania orzeczenia. Ponowne wystąpienie do innego państwa wykonania orzeczenia może nastąpić jedynie w razie niewykonania albo częściowego wykonania orzeczenia.  
 § 5. Zgoda skazanego na przekazanie nie jest wymagana, w wypadku gdy orzeczenie jest przekazywane do:  
-1) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym posiada stałe lub czasowe miejsce pobytu;  
-2) państwa wykonania orzeczenia, do którego skazany będzie wydalony po odbyciu kary lub zwolnieniu z zakładu karnego na podstawie prawomocnej decyzji o zobowiązaniu cudzoziemca do powrotu;  
-3) państwa wykonania orzeczenia, do którego skazany zbiegł z obawy przed toczącym się na terytorium Rzeczypospolitej Polskiej postępowaniem karnym lub obowiązkiem odbycia orzeczonej kary.  
+1\) państwa wykonania orzeczenia, którego skazany jest obywatelem i w którym posiada stałe lub czasowe miejsce pobytu;  
+2\) państwa wykonania orzeczenia, do którego skazany będzie wydalony po odbyciu kary lub zwolnieniu z zakładu karnego na podstawie prawomocnej decyzji o zobowiązaniu cudzoziemca do powrotu;  
+3\) państwa wykonania orzeczenia, do którego skazany zbiegł z obawy przed toczącym się na terytorium Rzeczypospolitej Polskiej postępowaniem karnym lub obowiązkiem odbycia orzeczonej kary.  
 § 6. Do poświadczonego za zgodność z oryginałem odpisu orzeczenia, o którym mowa w § 1, dołącza się zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie. Odpis orzeczenia wraz z odpisem zaświadczenia przekazuje się Ministrowi Sprawiedliwości.  
 § 7. Zaświadczenie powinno zostać przetłumaczone na język urzędowy państwa wykonania orzeczenia albo na inny język wskazany przez to państwo.  
 § 8. Przekazanie odpisu orzeczenia oraz zaświadczenia, o którym mowa w § 6, może nastąpić również przy użyciu urządzeń służących do automatycznego przesyłania danych, w sposób umożliwiający stwierdzenie autentyczności tych dokumentów. Na żądanie właściwego sądu lub innego organu państwa wykonania orzeczenia sąd przekazuje odpis orzeczenia oraz oryginał zaświadczenia.  
@@ -4863,35 +4924,37 @@ W razie uchylenia orzeczenia, o którym mowa w art. 611t § 1, na skutek kasacji
 § 1. Postanowienie w przedmiocie wykonania orzeczenia, o którym mowa w art. 611tg § 1, sąd wydaje w terminie 40 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.  
 § 2. Na postanowienie sądu w przedmiocie wykonania orzeczenia przysługuje zażalenie.  
 § 3. Postępowanie w przedmiocie wykonania orzeczenia powinno zakończyć się prawomocnie w terminie 90 dni od daty otrzymania orzeczenia wraz z zaświadczeniem.  
-§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia. [§ 5. Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.] <§ 5. Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.>  
+§ 4. W wypadku gdy termin określony w § 3 nie może być dotrzymany, należy zawiadomić właściwy sąd lub inny organ państwa wydania orzeczenia, podając przyczynę opóźnienia i przewidywany termin wydania orzeczenia.  
+[§ 5. Odpis postanowienia przekazuje się Ministrowi Sprawiedliwości.]  
+<§ 5. Kopię postanowienia przekazuje się Ministrowi Sprawiedliwości.>  
 § 6. Do wykonania orzeczenia właściwego sądu lub innego organu państwa wydania orzeczenia sąd przystępuje niezwłocznie.
 
 **Art. 611tk.**  
 § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:  
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;  
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności zostało wykonane;  
-3) skazany nie wyraża zgody na przekazanie, chyba że:  
+1\) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;  
+2\) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności zostało wykonane;  
+3\) skazany nie wyraża zgody na przekazanie, chyba że:  
 a) jest obywatelem polskim i posiada stałe lub czasowe miejsce pobytu na terytorium Rzeczypospolitej Polskiej,  
 b) została wobec niego wydana decyzja o wydaleniu lub deportacji na tery- torium Rzeczypospolitej Polskiej,  
 c) zbiegł na terytorium Rzeczypospolitej Polskiej w obawie przed toczącym się w państwie wydania orzeczenia postępowaniem karnym lub obowiąz- kiem odbycia orzeczonej kary;  
-4) skazany z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
-5) naruszałoby to wolności i prawa człowieka i obywatela;  
-6) wykonanie kary łączy się z zastosowaniem terapii lub innych środków nieznanych ustawie;  
-7) skazany nie jest obywatelem polskim, chyba że zachodzą przesłanki określone w § 4.  
+4\) skazany z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
+5\) naruszałoby to wolności i prawa człowieka i obywatela;  
+6\) wykonanie kary łączy się z zastosowaniem terapii lub innych środków nieznanych ustawie;  
+7\) skazany nie jest obywatelem polskim, chyba że zachodzą przesłanki określone w § 4.  
 § 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611tg § 1, jeżeli:  
-1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611tg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
-2) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
-3) skazany nie ma na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, chyba że na podstawie prawomocnej decyzji ma zostać wydalony do Polski lub zachodzą przesłanki określone w § 4;  
-4) z treści zaświadczenia, o którym mowa w art. 611tg § 3, wynika, iż orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
+1\) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611tg § 3, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
+2\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
+3\) skazany nie ma na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, chyba że na podstawie prawomocnej decyzji ma zostać wydalony do Polski lub zachodzą przesłanki określone w § 4;  
+4\) z treści zaświadczenia, o którym mowa w art. 611tg § 3, wynika, iż orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
 a) skazanego wezwano do udziału w postępowaniu lub w inny sposób za- wiadomiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,  
 b) obrońca sprawcy był obecny na rozprawie lub posiedzeniu,  
 c) po doręczeniu skazanemu odpisu orzeczenia wraz z pouczeniem o przy- sługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, skazany w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;  
-5) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-6) w chwili otrzymania orzeczenia pozostała do wykonania kara jest krótsza niż 6 miesięcy pozbawienia wolności;  
-7) skazany nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;  
-8) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
-9) organ państwa wydania orzeczenia nie wyraził zgody na podstawie art. 607e § 3 pkt 8 w związku z art. 611tm na to, by sprawcę ścigać za przestępstwo inne niż to, które stanowiło podstawę przekazania, lub by wykonać orzeczoną wobec niego karę pozbawienia wolności za inne przestępstwo.  
+5\) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+6\) w chwili otrzymania orzeczenia pozostała do wykonania kara jest krótsza niż 6 miesięcy pozbawienia wolności;  
+7\) skazany nie podlega jurysdykcji polskich sądów karnych, lub też brak jest wymaganego zezwolenia na jego ściganie;  
+8\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
+9\) organ państwa wydania orzeczenia nie wyraził zgody na podstawie art. 607e § 3 pkt 8 w związku z art. 611tm na to, by sprawcę ścigać za przestępstwo inne niż to, które stanowiło podstawę przekazania, lub by wykonać orzeczoną wobec niego karę pozbawienia wolności za inne przestępstwo.  
 § 4. Sąd może wyrazić zgodę na przejęcie do wykonania orzeczenia, o którym mowa w art. 611tg § 1, zapadłego wobec skazanego niebędącego obywatelem polskim lub niemającego na terytorium Rzeczypospolitej Polskiej stałego ani czasowego miejsca pobytu, jeżeli ze względu na sytuację rodzinną lub szczególne warunki osobiste skazanego przejęcie orzeczenia pozwoli w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary.  
 § 5. W wypadkach przewidzianych w § 1 pkt 2, 3 i 6 oraz w § 3 pkt 1, 2, 4, 5 i 8 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
 
@@ -4958,18 +5021,18 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 
 **Art. 611ud.**  
 § 1. W razie wystąpienia państwa członkowskiego Unii Europejskiej, zwanego w niniejszym rozdziale „państwem wydania orzeczenia”, o wykonanie prawomocnego orzeczenia skazującego na karę pozbawienia wolności z warunkowym zawieszeniem jej wykonania albo na samoistną karę lub środek niepolegający na pozbawieniu wolności lub na grzywnie, bądź orzekającego o warunkowym zwolnieniu, warunkowym umorzeniu postępowania karnego lub innym warunkowym odroczeniu wykonania kary, orzeczenie to podlega wykonaniu przez sąd rejonowy, w którego okręgu sprawca posiada legalne stałe miejsce pobytu, jeżeli w wyznaczonym okresie próby nakłada ono na sprawcę obowiązek:  
-1) stawiennictwa przed określonym organem;  
-2) informowania określonego organu o zmianie miejsca pobytu lub miejsca pracy albo uzyskiwania zgody na taką zmianę;  
-3) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach, w tym również jeśli orzeczenie zakazuje wstępu do określonych miejsc lub na imprezy o charakterze masowym;  
-4) powstrzymania się od kontaktowania z określonymi osobami lub zbliżania się do określonych osób;  
-5) powstrzymania się od posiadania określonych przedmiotów;  
-6) łożenia na utrzymanie innej osoby;  
-7) naprawienia szkody;  
-8) nauki;  
-9) wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, pracy społecznie użytecznej lub pracy zarobkowej;  
-10) poddania się określonym zakazom albo ograniczeniom w wykonywaniu zawodu, prowadzeniu działalności zawodowej lub gospodarczej;  
-11) poddania się leczeniu albo oddziaływaniom terapeutycznym;  
-12) poddania się dozorowi kuratora, pracownika społecznego lub instytucji publicznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.  
+1\) stawiennictwa przed określonym organem;  
+2\) informowania określonego organu o zmianie miejsca pobytu lub miejsca pracy albo uzyskiwania zgody na taką zmianę;  
+3\) przebywania albo powstrzymania się od przebywania w określonych środowiskach lub miejscach, w tym również jeśli orzeczenie zakazuje wstępu do określonych miejsc lub na imprezy o charakterze masowym;  
+4\) powstrzymania się od kontaktowania z określonymi osobami lub zbliżania się do określonych osób;  
+5\) powstrzymania się od posiadania określonych przedmiotów;  
+6\) łożenia na utrzymanie innej osoby;  
+7\) naprawienia szkody;  
+8\) nauki;  
+9\) wykonywania nieodpłatnej, kontrolowanej pracy na cele społeczne, pracy społecznie użytecznej lub pracy zarobkowej;  
+10\) poddania się określonym zakazom albo ograniczeniom w wykonywaniu zawodu, prowadzeniu działalności zawodowej lub gospodarczej;  
+11\) poddania się leczeniu albo oddziaływaniom terapeutycznym;  
+12\) poddania się dozorowi kuratora, pracownika społecznego lub instytucji publicznej, do której działalności należy troska o wychowanie, zapobieganie demoralizacji lub pomoc skazanym.  
 § 2. Do orzeczenia, o którym mowa w § 1, lub jego odpisu poświadczonego za zgodność z oryginałem powinno być dołączone zaświadczenie zawierające wszystkie istotne informacje umożliwiające jego prawidłowe wykonanie.  
 § 3. Jeżeli sąd, do którego zostało skierowane wystąpienie, nie jest właściwy do nadania mu biegu, przekazuje je właściwemu sądowi i zawiadamia o tym właściwy sąd lub inny organ państwa wydania orzeczenia. Art. 32 § 3 stosuje się odpowiednio.  
 § 4. Na wniosek właściwego sądu lub innego organu państwa wydania orzeczenia, sąd może wyrazić zgodę na wykonanie kary lub środka, o których mowa w § 1, orzeczonego wobec sprawcy nieposiadającego legalnego stałego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli pozwoli to w większym stopniu zrealizować wychowawcze i zapobiegawcze cele kary lub środka.  
@@ -4990,24 +5053,24 @@ Sąd rozpoznaje sprawę wystąpienia do właściwego sądu lub innego organu pa�
 
 **Art. 611ug.**  
 § 1. Odmawia się wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:  
-1) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;  
-2) sprawca nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że sprawca na nie powróci.  
+1\) czyn, w związku z którym wydano to orzeczenie, nie stanowi przestępstwa według prawa polskiego;  
+2\) sprawca nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że sprawca na nie powróci.  
 § 2. Przepisu § 1 pkt 1 nie stosuje się, jeżeli czyn nie stanowi przestępstwa z powodu braku lub odmiennego uregulowania w prawie polskim odpowiednich opłat, podatków, ceł lub zasad obrotu dewizowego.  
 § 3. Można odmówić wykonania orzeczenia, o którym mowa w art. 611ud § 1, jeżeli:  
-1) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611ud § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
-2) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności z warunkowym zawieszeniem wykonania albo samoistnej kary lub środka niepolegającego na pozbawieniu wolności lub na grzywnie zostało wykonane;  
-3) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
-4) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-5) sprawca z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
-6) sprawca korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;  
-7) z treści zaświadczenia, o którym mowa w art. 611ud § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
+1\) mimo wezwania przez sąd do uzupełnienia informacji we wskazanym terminie, do orzeczenia nie dołączono zaświadczenia, o którym mowa w art. 611ud § 2, albo zaświadczenie to jest niekompletne lub w sposób oczywisty niezgodne z treścią orzeczenia;  
+2\) przekazane do wykonania orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a orzeczenie w zakresie kary pozbawienia wolności z warunkowym zawieszeniem wykonania albo samoistnej kary lub środka niepolegającego na pozbawieniu wolności lub na grzywnie zostało wykonane;  
+3\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
+4\) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+5\) sprawca z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyny będące podstawą wydania orzeczenia;  
+6\) sprawca korzysta z immunitetu, zgodnie z którym niemożliwy jest nadzór nad przestrzeganiem nałożonych obowiązków;  
+7\) z treści zaświadczenia, o którym mowa w art. 611ud § 2, wynika, że orzeczenie zostało wydane pod nieobecność sprawcy, chyba że:  
 a) sprawcę wezwano do udziału w postępowaniu lub w inny sposób zawia- domiono o terminie i miejscu rozprawy albo posiedzenia, pouczając, że niestawiennictwo nie stanowi przeszkody dla wydania orzeczenia,  
 b) obrońca sprawcy był obecny na rozprawie lub posiedzeniu,  
 c) po doręczeniu sprawcy odpisu orzeczenia wraz z pouczeniem o przy- sługującym mu prawie, terminie i sposobie złożenia w państwie wydania nakazu wniosku o przeprowadzenie z jego udziałem nowego postępowania sądowego w tej samej sprawie, sprawca w ustawowym terminie nie złożył takiego wniosku albo oświadczył, że nie kwestionuje orzeczenia;  
-8) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611ud § 1 lub zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 611u;  
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
-10) orzeczenie przewiduje środek związany z leczeniem, nieznany ustawie;  
-11) pozostały czas wykonania nałożonych obowiązków jest krótszy niż 6 miesięcy.  
+8\) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611ud § 1 lub zostało przekazane pomimo niespełnienia warunków przewidzianych w art. 611u;  
+9\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii;  
+10\) orzeczenie przewiduje środek związany z leczeniem, nieznany ustawie;  
+11\) pozostały czas wykonania nałożonych obowiązków jest krótszy niż 6 miesięcy.  
 § 4. W wypadkach wskazanych w § 1 i 3, gdy przemawiają za tym szczególne względy, sąd, w uzgodnieniu z właściwym sądem lub innym organem państwa wydania orzeczenia, może orzec o wykonaniu orzeczenia jedynie w zakresie nałożonych w nim obowiązków. W zakresie zarządzenia wykonania kary, odwołania warunkowego zwolnienia, orzeczenia kary zastępczej oraz ustanowienia, rozszerzenia, zmiany i zwolnienia od wykonania nałożonych obowiązków w okresie próby albo uznania kary lub środka za wykonane – orzeczenie wykonuje właściwy sąd lub inny organ państwa wydania orzeczenia, chyba że uzgodniono inaczej.  
 § 5. W wypadkach przewidzianych w § 1 pkt 2 oraz w § 3 pkt 1, 2, 4, 7 lub 9– 11 sąd przed podjęciem decyzji w przedmiocie wykonania orzeczenia informuje o możliwości odmowy wykonania orzeczenia właściwy sąd lub inny organ państwa wydania orzeczenia.
 
@@ -5063,15 +5126,15 @@ Na postanowienie sądu lub prokuratora w przedmiocie europejskiego nakazu ochron
 **Art. 611wg.**  
 § 1. Odmawia się wykonania europejskiego nakazu ochrony, jeżeli osoba podlegająca ochronie nie przebywa na terytorium Rzeczypospolitej Polskiej, chyba że istnieją podstawy do uznania, że zamierza na nim przebywać.  
 § 2. Można odmówić wykonania nakazu, jeżeli:  
-1) czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego;  
-2) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia;  
-3) orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
-4) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
-5) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
-6) osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;  
-7) osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków;  
-8) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1;  
-9) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
+1\) czyn, w związku z którym nałożono obowiązek, nie stanowi przestępstwa według prawa polskiego;  
+2\) pomimo wezwania przez prokuratora do uzupełnienia informacji we wskazanym terminie do nakazu nie dołączono orzeczenia, o którym mowa w art. 611wd § 1, albo jest on niekompletny lub w sposób oczywisty niezgodny z treścią orzeczenia;  
+3\) orzeczenie dotyczy tego samego czynu tej samej osoby, co do której postępowanie karne zostało prawomocnie zakończone w państwie członkowskim Unii Europejskiej, a osoba ta odbywa lub odbyła karę albo kara nie może zostać wykonana według prawa państwa, w którym zapadł wyrok skazujący;  
+4\) według prawa polskiego nastąpiło przedawnienie wykonania kary, a przestępstwo, którego to dotyczy, podlegało jurysdykcji sądów polskich;  
+5\) orzeczenie dotyczy przestępstwa, które według prawa polskiego zostało popełnione w całości albo w części na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym;  
+6\) osoba, przeciwko której jest lub było prowadzone postępowanie karne, z powodu wieku nie ponosi według prawa polskiego odpowiedzialności karnej za czyn będący podstawą wydania orzeczenia;  
+7\) osoba, przeciwko której jest lub było prowadzone postępowanie karne, korzysta z immunitetu, zgodnie z którym jest niemożliwy nadzór nad przestrzeganiem nałożonych obowiązków;  
+8\) orzeczenie dotyczy wyłącznie obowiązków innych niż określone w art. 611wd § 1;  
+9\) przestępstwo, którego dotyczy orzeczenie, w wypadku jurysdykcji polskich sądów karnych podlegałoby darowaniu na mocy amnestii.
 
 **Art. 611wh.**  
 § 1. W razie otrzymania od właściwego sądu lub innego organu państwa wydania nakazu informacji o tym, iż europejski nakaz ochrony nie podlega dalszemu wykonaniu, prokurator niezwłocznie wydaje postanowienie o zaprzestaniu jego wykonywania.  
@@ -5119,34 +5182,34 @@ Wydatki poniesione w związku z czynnościami przewidzianymi w niniejszym dziale
 
 **Art. 616.**  
 § 1. Do kosztów procesu należą:  
-1) koszty sądowe;  
-2) uzasadnione wydatki stron, w tym z tytułu ustanowienia w sprawie jednego obrońcy lub pełnomocnika.  
+1\) koszty sądowe;  
+2\) uzasadnione wydatki stron, w tym z tytułu ustanowienia w sprawie jednego obrońcy lub pełnomocnika.  
 § 2. Koszty sądowe obejmują:  
-1) opłaty;  
-2) wydatki poniesione przez Skarb Państwa od chwili wszczęcia postępowania.
+1\) opłaty;  
+2\) wydatki poniesione przez Skarb Państwa od chwili wszczęcia postępowania.
 
 **Art. 617.**  
 Rodzaje i wysokość opłat oraz zasady i tryb ich wymierzania określa odrębna ustawa.
 
 **Art. 618.**  
 § 1. Wydatki Skarbu Państwa obejmują w szczególności wypłaty dokonane z tytułu:  
-1) doręczenia wezwań i innych pism;  
-2) przejazdów sędziów, prokuratorów i innych osób z powodu czynności postępowania;  
-3) sprowadzenia i przewozu oskarżonego, świadków i biegłych;  
+1\) doręczenia wezwań i innych pism;  
+2\) przejazdów sędziów, prokuratorów i innych osób z powodu czynności postępowania;  
+3\) sprowadzenia i przewozu oskarżonego, świadków i biegłych;  
 3a) sprowadzenia i przewozu osoby wydanej na skutek wniosku, o którym mowa w art. 593, lub zobowiązanej do powrotu do Rzeczypospolitej Polskiej, jeżeli organ procesowy tak postanowi ze względu na wagę sprawy;  
-4) oględzin, badań przedsięwziętych w toku postępowania oraz przesyłek i przechowania zajętych przedmiotów, jak również ich sprzedaży;  
-5) ogłoszeń w prasie, radiu i telewizji;  
-6) wykonania orzeczenia, w tym również o zabezpieczeniu grożących kar majątkowych, jeżeli kary te zostały orzeczone, z wyłączeniem kosztów utrzymania w zakładzie karnym i kosztów pobytu w zakładach leczniczych na obserwacji psychiatrycznej;  
-7) należności świadków i tłumaczy;  
-8) kosztów postępowania mediacyjnego;  
-9) należności biegłych lub instytucji wyznaczonych do wydania opinii lub wystawienia zaświadczenia, w tym koszty wystawienia zaświadczenia przez lekarza sądowego;  
+4\) oględzin, badań przedsięwziętych w toku postępowania oraz przesyłek i przechowania zajętych przedmiotów, jak również ich sprzedaży;  
+5\) ogłoszeń w prasie, radiu i telewizji;  
+6\) wykonania orzeczenia, w tym również o zabezpieczeniu grożących kar majątkowych, jeżeli kary te zostały orzeczone, z wyłączeniem kosztów utrzymania w zakładzie karnym i kosztów pobytu w zakładach leczniczych na obserwacji psychiatrycznej;  
+7\) należności świadków i tłumaczy;  
+8\) kosztów postępowania mediacyjnego;  
+9\) należności biegłych lub instytucji wyznaczonych do wydania opinii lub wystawienia zaświadczenia, w tym koszty wystawienia zaświadczenia przez lekarza sądowego;  
 9a) kosztów obserwacji psychiatrycznej oskarżonego, z wyłączeniem należności biegłych psychiatrów;  
 9b) kosztów zarządu przymusowego;  
-10) opłat przewidzianych za udzielenie informacji z rejestru skazanych;  
-11) nieopłaconej przez strony pomocy prawnej udzielonej z urzędu przez adwokatów lub radców prawnych;  
-12) ryczałtu kuratora sądowego za przeprowadzenie wywiadu środowiskowego, o którym mowa w art. 214 § 1;  
+10\) opłat przewidzianych za udzielenie informacji z rejestru skazanych;  
+11\) nieopłaconej przez strony pomocy prawnej udzielonej z urzędu przez adwokatów lub radców prawnych;  
+12\) ryczałtu kuratora sądowego za przeprowadzenie wywiadu środowiskowego, o którym mowa w art. 214 § 1;  
 12a) ryczałtu asystenta rodziny za udział w posiedzeniu albo rozprawie, o których mowa w art. 76a § 1;  
-13) realizacji umów międzynarodowych, których Rzeczpospolita Polska jest stroną, i postępowań prowadzonych na podstawie działu XIII, także jeżeli nie zostało wydane postanowienie, o którym mowa w art. 303.  
+13\) realizacji umów międzynarodowych, których Rzeczpospolita Polska jest stroną, i postępowań prowadzonych na podstawie działu XIII, także jeżeli nie zostało wydane postanowienie, o którym mowa w art. 303.  
 § 2. Jeżeli wysokości i zasad ustalania należności określonych w § 1 nie regulują odrębne przepisy, Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość i sposób ich obliczania, mając na uwadze faktyczny koszt dokonania danej czynności.  
 § 3. W razie braku przepisów wymienionych w § 2, o wysokości danego wydatku decydują kwoty przyznane przez sąd, prokuratora lub inny organ prowadzący postępowanie.
 
@@ -5256,8 +5319,8 @@ Od skazanego w sprawach z oskarżenia publicznego sąd zasądza koszty sądowe n
 
 **Art. 628.**  
 Od skazanego w sprawach z oskarżenia prywatnego sąd zasądza na rzecz:  
-1) oskarżyciela prywatnego poniesione przez niego koszty procesu;  
-2) Skarbu Państwa wydatki ustalone na podstawie art. 618, od których uiszczenia oskarżyciel został zwolniony lub w razie rozpoznania sprawy bez ich uiszczenia.
+1\) oskarżyciela prywatnego poniesione przez niego koszty procesu;  
+2\) Skarbu Państwa wydatki ustalone na podstawie art. 618, od których uiszczenia oskarżyciel został zwolniony lub w razie rozpoznania sprawy bez ich uiszczenia.
 
 **Art. 629.**  
 Przepisy art. 627 i 628 stosuje się odpowiednio w razie warunkowego umorzenia postępowania, a w sprawach z oskarżenia prywatnego – również w razie umorzenia postępowania na podstawie art. 17 § 1 pkt 3.
@@ -5270,15 +5333,15 @@ W sprawach z oskarżenia prywatnego, w razie odstąpienia od wymierzenia kary z 
 
 **Art. 632.**  
 Jeżeli ustawa nie stanowi inaczej, w razie uniewinnienia oskarżonego lub umorzenia postępowania koszty procesu ponosi:  
-1) w sprawach z oskarżenia prywatnego – oskarżyciel prywatny, a w razie pojednania się stron – oskarżyciel i oskarżony w zakresie przez siebie poniesionym, jeżeli strony w zawartej ugodzie nie uregulowały tego inaczej;  
-2) w sprawach z oskarżenia publicznego – Skarb Państwa, z wyjątkiem należności z tytułu udziału adwokata lub radcy prawnego w charakterze pełnomocnika pokrzywdzonego, oskarżyciela posiłkowego albo innej osoby.
+1\) w sprawach z oskarżenia prywatnego – oskarżyciel prywatny, a w razie pojednania się stron – oskarżyciel i oskarżony w zakresie przez siebie poniesionym, jeżeli strony w zawartej ugodzie nie uregulowały tego inaczej;  
+2\) w sprawach z oskarżenia publicznego – Skarb Państwa, z wyjątkiem należności z tytułu udziału adwokata lub radcy prawnego w charakterze pełnomocnika pokrzywdzonego, oskarżyciela posiłkowego albo innej osoby.
 
 **Art. 632a.**  
 § 1. W wyjątkowych wypadkach, w razie umorzenia postępowania, sąd może orzec, że koszty procesu ponosi w całości lub w części oskarżony, a w sprawach z oskarżenia prywatnego oskarżony lub Skarb Państwa.  
 § 2. W razie uniewinnienia oskarżonego lub umorzenia postępowania sąd orzeka, że koszty procesu ponosi w całości lub w części oskarżony, jeżeli:  
-1) oskarżony skierował przeciwko sobie podejrzenie popełnienia czynu zabronionego;  
-2) ukrywanie się oskarżonego przyczyniło się do przedawnienia karalności zarzucanego mu czynu;  
-3) umorzono przeciwko oskarżonemu postępowanie na podstawie art. 11 § 1.  
+1\) oskarżony skierował przeciwko sobie podejrzenie popełnienia czynu zabronionego;  
+2\) ukrywanie się oskarżonego przyczyniło się do przedawnienia karalności zarzucanego mu czynu;  
+3\) umorzono przeciwko oskarżonemu postępowanie na podstawie art. 11 § 1.  
 § 3. W razie umorzenia postępowania ze względu na cofnięcie wniosku o ściganie po rozpoczęciu przewodu sądowego sąd może orzec, że koszty procesu ponosi w całości lub w części oskarżony.
 
 **Art. 632b.**  
@@ -5329,15 +5392,15 @@ W sprawach podlegających orzecznictwu sądów wojskowych nie stosuje się przep
 
 **Art. 647.**  
 § 1. Orzecznictwu sądów wojskowych podlegają sprawy:  
-1) żołnierzy w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, o przestępstwa:  
+1\) żołnierzy w czynnej służbie wojskowej, z wyjątkiem terytorialnej służby wojskowej pełnionej dyspozycyjnie, o przestępstwa:  
 a) określone w rozdziałach XXXIX–XLIV Kodeksu karnego,  
 b) popełnione przeciwko organowi wojskowemu lub innemu żołnierzowi,  
 c) popełnione podczas lub w związku z pełnieniem obowiązków służbowych, w obrębie obiektu wojskowego lub wyznaczonego miejsca przebywania, na szkodę wojska lub z naruszeniem obowiązku wynikającego ze służby wojskowej,  
 d) popełnione za granicą, podczas użycia lub pobytu Sił Zbrojnych Rzeczy- pospolitej Polskiej poza granicami państwa, w rozumieniu ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczy- pospolitej Polskiej poza granicami państwa (Dz. U. z 2023 r. poz. 755 oraz z 2026 r. poz. 50);  
-2) pracowników wojska o przestępstwa:  
+2\) pracowników wojska o przestępstwa:  
 a) określone w art. 356–363 Kodeksu karnego w związku z art. 317 § 2 tego kodeksu,  
 b) popełnione za granicą, podczas użycia lub pobytu Sił Zbrojnych Rzeczy- pospolitej Polskiej poza granicami państwa, w rozumieniu ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczy- pospolitej Polskiej poza granicami państwa;  
-3) żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, o przestępstwa popełnione w związku z pełnieniem obowiązków służbowych, chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej.  
+3\) żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej, oraz członków ich personelu cywilnego, o przestępstwa popełnione w związku z pełnieniem obowiązków służbowych, chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej.  
 § 2. Sprawy o przestępstwa wymienione w § 1 nie przestają podlegać orzecznictwu sądów wojskowych mimo zwolnienia żołnierza z czynnej służby wojskowej lub ustania zatrudnienia pracownika w wojsku.  
 § 3. W razie zwolnienia żołnierza z czynnej służby wojskowej lub ustania zatrudnienia pracownika w wojsku sprawę, o której mowa w § 1 pkt 1 lit. b lub d, oraz – jeżeli przestępstwo nie wiąże się z naruszeniem obowiązku służbowego – w § 1 pkt 2 lit. b, sąd wojskowy, najpóźniej do dnia rozpoczęcia przewodu sądowego na rozprawie głównej, może przekazać do rozpoznania sądowi powszechnemu, jeżeli dobro wymiaru sprawiedliwości temu się nie sprzeciwia.  
 § 4. (uchylony)  
@@ -5345,9 +5408,9 @@ b) popełnione za granicą, podczas użycia lub pobytu Sił Zbrojnych Rzeczy- po
 
 **Art. 648.**  
 Orzecznictwu sądów wojskowych podlegają także sprawy o:  
-1) współdziałanie w popełnieniu przestępstw określonych w rozdziałach XXXIX– XLIV Kodeksu karnego;  
-2) przestępstwa określone w art. 239, 291–293, a także w art. 294 w odniesieniu do art. 291 § 1, Kodeksu karnego – jeżeli czyn pozostaje w związku z przestępstwem przewidzianym w rozdziałach XXXIX–XLIV tego kodeksu;  
-3) inne przestępstwa, o ile przepisy szczególne tak stanowią.
+1\) współdziałanie w popełnieniu przestępstw określonych w rozdziałach XXXIX– XLIV Kodeksu karnego;  
+2\) przestępstwa określone w art. 239, 291–293, a także w art. 294 w odniesieniu do art. 291 § 1, Kodeksu karnego – jeżeli czyn pozostaje w związku z przestępstwem przewidzianym w rozdziałach XXXIX–XLIV tego kodeksu;  
+3\) inne przestępstwa, o ile przepisy szczególne tak stanowią.
 
 **Art. 649.**  
 § 1. Jeżeli sprawca przestępstwa podlegającego orzecznictwu sądów wojskowych popełnił także przestępstwo podlegające orzecznictwu sądów powszechnych, a przestępstwa pozostają ze sobą w takim związku, że dobro wymiaru sprawiedliwości wymaga ich łącznego rozpoznania, rozpoznaje je łącznie sąd wojskowy.  
@@ -5366,9 +5429,9 @@ Orzecznictwu sądów wojskowych podlegają także sprawy o:
 
 **Art. 652.**  
 W sprawach podlegających orzecznictwu sądów wojskowych orzekają stosownie do zakresu właściwości:  
-1) wojskowy sąd garnizonowy;  
-2) wojskowy sąd okręgowy;  
-3) Sąd Najwyższy.
+1\) wojskowy sąd garnizonowy;  
+2\) wojskowy sąd okręgowy;  
+3\) Sąd Najwyższy.
 
 **Art. 653.**  
 § 1. Wojskowy sąd garnizonowy orzeka w pierwszej instancji we wszystkich sprawach, z wyjątkiem spraw przekazanych ustawą do właściwości innego sądu.  
@@ -5377,10 +5440,10 @@ W sprawach podlegających orzecznictwu sądów wojskowych orzekają stosownie do
 
 **Art. 654.**  
 § 1. Wojskowy sąd okręgowy orzeka w pierwszej instancji w sprawach o przestępstwa:  
-1) popełnione przez żołnierzy posiadających stopień majora i wyższy;  
-2) podlegające w postępowaniu przed sądami powszechnymi właściwości sądu okręgowego oraz określone w art. 339 § 3 i art. 345 § 3 i 4 Kodeksu karnego;  
-3) popełnione przez żołnierzy i członków personelu cywilnego, o których mowa w art. 647 § 1 pkt 3;  
-4) inne na podstawie przepisów szczególnych.  
+1\) popełnione przez żołnierzy posiadających stopień majora i wyższy;  
+2\) podlegające w postępowaniu przed sądami powszechnymi właściwości sądu okręgowego oraz określone w art. 339 § 3 i art. 345 § 3 i 4 Kodeksu karnego;  
+3\) popełnione przez żołnierzy i członków personelu cywilnego, o których mowa w art. 647 § 1 pkt 3;  
+4\) inne na podstawie przepisów szczególnych.  
 § 2. W postępowaniu przygotowawczym, w przedmiocie tymczasowego aresztowania w stosunku do żołnierzy, o których mowa w § 1 pkt 1, a także do żołnierzy sił zbrojnych państw obcych i członków ich personelu cywilnego, o których mowa w § 1 pkt 3, orzeka jednoosobowo wojskowy sąd okręgowy.  
 § 3. Wojskowy sąd okręgowy rozpoznaje także środki odwoławcze od orzeczeń i zarządzeń wydanych w pierwszej instancji w wojskowym sądzie garnizonowym oraz w wypadkach wskazanych w ustawie i z zachowaniem granic wskazanych w § 1 – od orzeczeń i zarządzeń wydanych w postępowaniu przygotowawczym.  
 § 4. Wojskowy sąd okręgowy rozpoznaje ponadto sprawy przewidziane dla sądu wyższego rzędu nad wojskowym sądem garnizonowym oraz inne sprawy przekazane mu przez ustawę.  
@@ -5388,10 +5451,10 @@ W sprawach podlegających orzecznictwu sądów wojskowych orzekają stosownie do
 
 **Art. 655.**  
 § 1. Sąd Najwyższy rozpoznaje:  
-1) środki odwoławcze od orzeczeń i zarządzeń wydanych w pierwszej instancji w wojskowym sądzie okręgowym;  
-2) kasacje;  
-3) sprawy przewidziane w niniejszym kodeksie dla sądu wyższego rzędu nad wojskowym sądem okręgowym;  
-4) inne sprawy przekazane przez ustawę Sądowi Najwyższemu.  
+1\) środki odwoławcze od orzeczeń i zarządzeń wydanych w pierwszej instancji w wojskowym sądzie okręgowym;  
+2\) kasacje;  
+3\) sprawy przewidziane w niniejszym kodeksie dla sądu wyższego rzędu nad wojskowym sądem okręgowym;  
+4\) inne sprawy przekazane przez ustawę Sądowi Najwyższemu.  
 § 2. Przepisy art. 39 i art. 439 § 1 pkt 3 stosuje się odpowiednio do orzeczeń Sądu Najwyższego w zakresie spraw podlegających orzecznictwu sądów wojskowych.
 
 **Art. 656.**  
